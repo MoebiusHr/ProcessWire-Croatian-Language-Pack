@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageListRenderJSON.php",
+    "textdomain": "wire--modules--process--processpagelist--processpagelistrenderjson-php",
+    "translations": {
+        "de306d89ec101aba6fb73c6879710e6c": {
+            "text": "404 Stranica nije prona\u0111ena"
+        },
+        "f413b7eb4ef50a382b0fe0cfe04fdc30": {
+            "text": "Otvoreno sme\u0107e: povucite stranice ispod ovdje da biste ih bacili u sme\u0107e"
+        }
+    }
+}

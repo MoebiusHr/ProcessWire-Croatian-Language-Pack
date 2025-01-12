@@ -1,5 +1,366 @@
 {
     "file": "wire\/modules\/Process\/ProcessPageEdit\/ProcessPageEdit.module",
     "textdomain": "wire--modules--process--processpageedit--processpageedit-module",
-    "translations": []
+    "translations": {
+        "7ba9fe21b073af37b16f989e23112967": {
+            "text": "Nepoznata stranica"
+        },
+        "b8e75fd085c6615286cee6fdc4e880ec": {
+            "text": "Ova stranica je zaklju\u010dana za ure\u0111ivanje"
+        },
+        "386397f000925f7d90c87a913a678eed": {
+            "text": "Nemate pristup ure\u0111ivanju"
+        },
+        "19959897b0f9d04ebbea294594c10f5d": {
+            "text": "Ova stranica mo\u017eda ima jedno ili vi\u0161e nepotpunih polja (poku\u0161ajte spremiti ili objaviti za vi\u0161e informacija)"
+        },
+        "a9581db07856efb481fddef1b3e168f8": {
+            "text": "Stranica nije prona\u0111ena"
+        },
+        "16e56a7f64aa21e73cf55bd8a6334cf8": {
+            "text": "%s + Izlaz"
+        },
+        "1040873c1bf94b1995201c648a15989d": {
+            "text": "%s + Pregled"
+        },
+        "407911b74ab384304ea0190675a00894": {
+            "text": "%s + Dodavanje nove"
+        },
+        "cc231fc91e42d1e391bbce1fc541959f": {
+            "text": "%s + Sljede\u0107a"
+        },
+        "109f29a4bda4c9b4a00ffd5452fe9515": {
+            "text": "Jeste li sigurni? Prijenos je trenutno u tijeku i mogao bi se izgubiti ako nastavite."
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Snimi"
+        },
+        "a1c508c8dcf832bde214942a479c63e5": {
+            "text": "Ova stranica je u sme\u0107u"
+        },
+        "404dd23de1c6c7edc7927e5262b93a1b": {
+            "text": "Spremi + zadr\u017ei neobjavljeno"
+        },
+        "110a4b01beabd53b661a47d4b44bd7a8": {
+            "text": "Objavi"
+        },
+        "f15c1cae7882448b3fb0404682e17e61": {
+            "text": "Sadr\u017eaj"
+        },
+        "64e4aca4297806247f62a7b5f8cbd3df": {
+            "text": "Djeca"
+        },
+        "9b30437c5e1e966fa90525c93356fd3f": {
+            "text": "Djeca \/ Podstranice"
+        },
+        "b5c4bc5ddd4b490f3e2bf5abc0945f1d": {
+            "text": "Trenutno nema djece\/podstranica ispod ove stranice."
+        },
+        "fcdd8c7fe4647ee6186ea45dd69d425d": {
+            "text": "Djeca su poredana prema \"%s\", prema postavkama predlo\u0161ka."
+        },
+        "a13cc55582da47cab1f7cc7518700c6e": {
+            "text": "Dodajte novu stranicu ovdje"
+        },
+        "7e92f49c92e3f91ed88f03063fc34748": {
+            "text": "Postavke sortiranja"
+        },
+        "ea1a60a080fc428d2c18d9e6d33ded08": {
+            "text": "Ako \u017eelite da sva sada\u0161nja i budu\u0107a djeca automatski sortiraju prema odre\u0111enom polju, odaberite polje ispod i opcionalno potvrdite okvir 'obrnuto' kako bi sortiranje bilo silazno. Ostavite polje sortiranja prazno ako \u017eelite imati mogu\u0107nost povla\u010denja i ispu\u0161tanja prema vlastitom redoslijedu."
+        },
+        "f4f70727dc34561dfde1a3c529b6205c": {
+            "text": "Postavke"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Predlo\u017eak"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Roditelj"
+        },
+        "1ad359c38781f8fc924a380559d60c42": {
+            "text": "Izradio korisnik"
+        },
+        "e4d5ce77afa1ac8b139234c7e641d5cd": {
+            "text": "Koje stranice povezuju na ovu stranicu?"
+        },
+        "b9c25fdc76ccaff0426b33dc56852e77": {
+            "text": "Nije za popis"
+        },
+        "60c6e03c99253b3bca28a08aa5102fdc": {
+            "text": "Prona\u0111eno %d drugih stranica koje povezuju na ovu u poljima stranice ili href vezama."
+        },
+        "bd3cc7d2c61580ec64f4225eae3a330e": {
+            "text": "(u polju stranice)"
+        },
+        "ccab4e644acf8e1bc8a9bef59f811803": {
+            "text": "(u href linku)"
+        },
+        "ea31b3f98bd7b1a8e71fad1f47ab4bae": {
+            "text": "%d dodatne stranice nisu prikazane."
+        },
+        "3b3ad8a776bd0a0e7498a58c538a95b9": {
+            "text": "Nije prona\u0111ena nijedna druga stranica koja upu\u0107uje na ovu u poljima stranice ili href vezama."
+        },
+        "3efee15199d0046c4a68bd6c96c66800": {
+            "text": "Koji drugi URL-ovi preusmjeravaju na ovu stranicu?"
+        },
+        "c665039391ab01a70f17f05adcc566df": {
+            "text": "Kad god se stranica premjesti ili se promijeni naziv, pamtimo prethodnu lokaciju za preusmjeravanja."
+        },
+        "d9a0149000506e68eb258bab1ef93e2f": {
+            "text": "Dolje je popis URL-ova (putova) koji automatski preusmjeravaju na ovu stranicu (koriste\u0107i 301 trajno preusmjeravanje)."
+        },
+        "bc84a6916935bff7a425f45f894a18a6": {
+            "text": "Mo\u017eete izbrisati sve staze\/URL-ove ili ru\u010dno dodati nove."
+        },
+        "1324a129fbb956748409f981833c0736": {
+            "text": "Nema preusmjeravanja"
+        },
+        "9d76aca60838d896fb7754d4a890eb9d": {
+            "text": "Jo\u0161 ne"
+        },
+        "593d4b34403b76f5c134df5b3c033420": {
+            "text": "Izbrisano preusmjeravanje za prethodni URL: %s"
+        },
+        "ca2593b9cdd313f5fc57d68fb0e94470": {
+            "text": "Dodajte nove URL-ove za preusmjeravanje"
+        },
+        "71fc4eb5d7649ced69d2936060e7774c": {
+            "text": "Unesite dodatne staze\/URL-ove (jedan po retku) koji bi trebali preusmjeravati na ovu stranicu."
+        },
+        "1715e12396d2512d6a079d39809bd855": {
+            "text": "Unesite samo URL putanju (tj. \u201c\/hello\/world\/\u201d), NEMOJTE uklju\u010divati \u200b\u200bshemu, domenu, port, niz upita ili fragmente."
+        },
+        "05977549ad6511429ee4d274f710771d": {
+            "text": "Staze su relativne u odnosu na korijen stranice pa NEMOJTE uklju\u010divati \u200b\u200bpoddirektorij %s na po\u010detku."
+        },
+        "b74adc728406a06b4e47a2bcfd534281": {
+            "text": "Da biste odredili jezik za preusmjeravanje, unesite stazu\/URL na liniji s prefiksom naziva jezika:"
+        },
+        "ab2435deb08297062617b30c57c0ef9e": {
+            "text": "(za %s)"
+        },
+        "e638e85311e9a6c568c715cb46e7ac01": {
+            "text": "Dodano preusmjeravanje: %s"
+        },
+        "4ece098a04808389cd88f5e62f8a6fa0": {
+            "text": "Nije mogu\u0107e dodati preusmjeravanje %s jer se \u010dini da je u sukobu s drugim putem"
+        },
+        "567d412904b379e49382b6e3b90881ca": {
+            "text": "Izradio %1$s dana %2$s"
+        },
+        "1dec6a532601f755520b9567091e1bf8": {
+            "text": "Zadnji put izmijenio %1$s dana %2$s"
+        },
+        "0b7b79dc6ffa228f9e59cecc61c4efb6": {
+            "text": "Objavljeno %s"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Obri\u0161i"
+        },
+        "aa47bb0913144619a0a9abc59d59d6ed": {
+            "text": "Izbri\u0161i trajno"
+        },
+        "7a289ea949902e8fa53efb4b3b4ccea0": {
+            "text": "Premjesti u sme\u0107e"
+        },
+        "62a92c8e1a013dc0c9a67f2769642e9f": {
+            "text": "Ozna\u010dite okvir kako biste potvrdili da to \u017eelite u\u010diniti."
+        },
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Potvrdi"
+        },
+        "6e2e3de95055596f315a073f771342e3": {
+            "text": "Ovu stranicu trenutno nije mogu\u0107e izbrisati"
+        },
+        "2bd339d85ee3b33e513359ce781b60cc": {
+            "text": "Vra\u0107anje"
+        },
+        "0f9445b68a3d6fffc41f65efa9711f6e": {
+            "text": "Premjestite iz otpada i vratite na izvornu lokaciju"
+        },
+        "514327d866bf40803bfdf3a678af92ba": {
+            "text": "Ozna\u010dite okvir kako biste potvrdili da \u017eelite vratiti ovu stranicu."
+        },
+        "d8514ace7bcb47e0d419377402b13142": {
+            "text": "Stranica \u0107e biti vra\u0107ena na: **%s**."
+        },
+        "e6c6e3f3e972de9c735faefa037529ab": {
+            "text": "Izvorni naziv bit \u0107e prilago\u0111en s *%1$s* na *%2$s* kako bi bio jedinstven."
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Pogledaj"
+        },
+        "d2387a51d9f67d60dfc2cbb23bd04af2": {
+            "text": "Tko mo\u017ee pristupiti ovoj stranici?"
+        },
+        "bbbabdbe1b262f75d99d62880b953be1": {
+            "text": "Uloga"
+        },
+        "36c2b914f293a142343cba0f3157d748": {
+            "text": "\u0160to mogu u\u010diniti"
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(svi)"
+        },
+        "802d4ac742bc4c352f14d68f10856b2d": {
+            "text": "Pristup je definiran predlo\u0161kom ove stranice: %s"
+        },
+        "890e4f4dd63b6c580cbf534f25914565": {
+            "text": "Pristup je naslije\u0111en od stranice \"%1$s\" i definiran predlo\u0161kom: %2$s"
+        },
+        "be308063778a2b4976cb94b0e8c7ee84": {
+            "text": "Mo\u017ee se vidjeti po URL-u ako stranica ima datoteku predlo\u0161ka (trenuta\u010dno nema)."
+        },
+        "df74a326081d841aef061c999c7979f3": {
+            "text": "Promjena: %s"
+        },
+        "c71458ba699635fcdbc6a15dd2b81c4c": {
+            "text": "Uklonjen ozna\u010deni status jer tijekom spremanja nisu prijavljene pogre\u0161ke"
+        },
+        "c0df350b3d4fe22546834d74cdc77023": {
+            "text": "Objavljena stranica: %s"
+        },
+        "9ce0bc0d85071636f750e39ea86f86c0": {
+            "text": "Spremljena stranica: %s"
+        },
+        "421318b075c43ddcd5426197f778c43c": {
+            "text": "Ne mo\u017ee se objaviti dok se pogre\u0161ke ne isprave"
+        },
+        "91ce4ed84b455bf383570b705a732cd6": {
+            "text": "Stranica se ne mo\u017ee vratiti dok su prisutne pogre\u0161ke"
+        },
+        "e4da3fa39ff5ce0fd581bc97389b5cdf": {
+            "text": "Obnovljena stranica: %s"
+        },
+        "e8691f66b2ae08756dac17d0e3b91eb2": {
+            "text": "Gre\u0161ka pri vra\u0107anju stranice"
+        },
+        "30b78fb546fe9686f84a740a5e5524a3": {
+            "text": "Naziv URL-a stranice promijenjen je u \"%s\" jer je tra\u017eeni naziv ve\u0107 zauzet."
+        },
+        "4c2915288e6804dd4b1adf9819439b19": {
+            "text": "Ne postoji sljede\u0107a stranica za ure\u0111ivanje."
+        },
+        "e1ccd342c70dde8fd239432c69aa55e0": {
+            "text": "Vra\u0107ena prethodna vrijednost"
+        },
+        "f3e0ef028ad1fda84b2b567684c67846": {
+            "text": "Stranica nije objavljena jer je polje \"%s\" obavezno"
+        },
+        "17f8097b4af11ef352554fc7dd416c34": {
+            "text": "Predlo\u017eak '%s' nije dopu\u0161ten"
+        },
+        "f5fafb7927ee3b6486882051f8f1c9b4": {
+            "text": "Dodan status: %s"
+        },
+        "a8e9b386531e893ec224b5712121f1fe": {
+            "text": "Uklonjen status: %s"
+        },
+        "c4101b17a6f3bb8ffbe40eb9edef2347": {
+            "text": "Ova stranica se ne mo\u017ee izbrisati"
+        },
+        "827884bd1b673b7e58def7d09bf59b8b": {
+            "text": "Izbrisana stranica: %s"
+        },
+        "a419fb9d9fe259c36eb1e4a99462bd1f": {
+            "text": "Stranica premje\u0161tena u sme\u0107e: %s"
+        },
+        "6c86eb040dbb20b1c6e1e891774b27ac": {
+            "text": "Nije mogu\u0107e premjestiti stranicu u sme\u0107e"
+        },
+        "11daf8e4f72e87c440ed3e0cac443157": {
+            "text": "Potvrdite promjenu predlo\u0161ka"
+        },
+        "8f1db4fbdd736bfc472e99f61be9e56f": {
+            "text": "Promjena predlo\u0161ka iz \"%1$s\" u \"%2$s\""
+        },
+        "48af63aeec834982fcf91e325aaea998": {
+            "text": "Upozorenje, promjena predlo\u0161ka \u0107e izbrisati sljede\u0107a polja:"
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Da li ste sigurni?"
+        },
+        "e4c2fcbaac781d00fe1e192a4d94c0e9": {
+            "text": "Potvrdite da razumijete gore navedeno klikom na potvrdni okvir ispod."
+        },
+        "d4ad7f8661990f191def1fb3a6accbd9": {
+            "text": "Predlo\u017eak promijenjen u '%s'"
+        },
+        "0fdd10ee950975e58b122abb2de3a49b": {
+            "text": "Neobjavljeno: Nije vidljivo na stranici"
+        },
+        "cacab211629daeffac10e13574e49d9e": {
+            "text": "Skriveno: Isklju\u010deno s popisa i pretra\u017eivanja"
+        },
+        "ab4b835121255016ef73bea7f4ea45a7": {
+            "text": "Zaklju\u010dano: Nije mogu\u0107e ure\u0111ivati"
+        },
+        "9d4409be42bd401755ef515b91df93bc": {
+            "text": "(samo na zadanom jeziku)"
+        },
+        "0bcdea7c9e6f5289b7cf4c51e001a8fa": {
+            "text": "Jedinstveno: Zahtijeva da naziv stranice \u201c%s\u201d bude globalno jedinstven"
+        },
+        "7b9bb8a9e6b0d2b64837e652485e11c9": {
+            "text": "Uredi stranicu: %s"
+        },
+        "90a2c610d9bb43ef59bc60c944c7633f": {
+            "text": "Zadana lokacija\/radnja \"prika\u017ei\"."
+        },
+        "d6b9987fabd38f232ada46d046aa4f88": {
+            "text": "Zadana vrsta radnje koja se koristi kada se klikne na karticu \"prikaz\" u ure\u0111iva\u010du stranice."
+        },
+        "7ddc881b8c4b63699dd8487273384a38": {
+            "text": "Djeca su poredana po"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ni\u0161ta"
+        },
+        "20a90cbb1d0984f5ecf4fe0cf01fe47e": {
+            "text": "Ru\u010dno povuci i ispusti"
+        },
+        "591acadb8502cd6db313b718df45a6f4": {
+            "text": "Izvorna polja"
+        },
+        "833956a760d996ae61ea8b385e9fb6f0": {
+            "text": "Prilago\u0111ena polja"
+        },
+        "d49042595c2674084c92d561b714d522": {
+            "text": "Obrnuti smjer sortiranja?"
+        },
+        "25ed18e06e982b711a80310caf119563": {
+            "text": "Prikaz stranice"
+        },
+        "c97f398820bf360b28776372f47a115a": {
+            "text": "Novi prozor\/kartica"
+        },
+        "7e7b8eaf9921d2a698937d925748e85b": {
+            "text": "Izlaz + Pregled"
+        },
+        "ea1056a7e305406e5662eb74ed8eb9f1": {
+            "text": "Obri\u0161i"
+        },
+        "a413997b3fa1374648ebd250435071c5": {
+            "text": "Kada"
+        },
+        "5ee35a979708ef27ee71dcc13f862da0": {
+            "text": "Jezik"
+        },
+        "1443a205d4656be20da9f81a5b7a5da9": {
+            "text": "Trenutni"
+        },
+        "2623934b184a9c5b44a0c9992499b5f6": {
+            "text": "Roditelj"
+        },
+        "e76ea9d62d4a434a98238f3ec7932075": {
+            "text": "sve"
+        },
+        "265dabf958cffe4bf96d445dcddf8678": {
+            "text": "%d promjena"
+        },
+        "4e5878c0e4b4e901ee96c19e7fd05914": {
+            "text": "%d promjene"
+        }
+    }
 }

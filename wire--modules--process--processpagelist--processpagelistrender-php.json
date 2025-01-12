@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageListRender.php",
+    "textdomain": "wire--modules--process--processpagelist--processpagelistrender-php",
+    "translations": {
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Uredi"
+        },
+        "4351cfebe4b61d8aa5efa1d020710005": {
+            "text": "Pogledaj"
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "Novo"
+        },
+        "6bc362dbf494c61ea117fe3c71ca48a5": {
+            "text": "Pomakni"
+        },
+        "ce2c8aed9c2fa0cfbed56cbda4d8bf07": {
+            "text": "Isprazni"
+        },
+        "a29bdd003ef6c0c34279807341f450f2": {
+            "text": "Objavi"
+        },
+        "f40271af9378ba3b92b006eb2f2441bb": {
+            "text": "Poni\u0161ti objavu"
+        },
+        "62a5e490880a92eef74f167d9dc6dca0": {
+            "text": "Sakrij"
+        },
+        "c41263e9868393a11717a8fd89de95f8": {
+            "text": "Otkrij"
+        },
+        "b485167c5b0e59d47009a16f90fe2659": {
+            "text": "Zaklju\u010daj"
+        },
+        "7e7123b0d269ad5d9ec8d12c52a8ed8a": {
+            "text": "Otklju\u010daj"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Baci u sme\u0107e"
+        },
+        "2bd339d85ee3b33e513359ce781b60cc": {
+            "text": "Vrati"
+        }
+    }
+}

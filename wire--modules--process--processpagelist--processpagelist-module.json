@@ -1,0 +1,123 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageList.module",
+    "textdomain": "wire--modules--process--processpagelist--processpagelist-module",
+    "translations": {
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Sme\u0107e"
+        },
+        "f4ec5f57bd4d31b803312d873be40da9": {
+            "text": "Promjeni"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Odustani"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Odaberi"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Ukloni odabir"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Vi\u0161e"
+        },
+        "d95deddfb80310ff0d1d63013611777c": {
+            "text": "Kliknite i povucite za pomicanje"
+        },
+        "5ca370c3b4f85b5c8308b75ea46984cb": {
+            "text": "Mre\u017ena pogre\u0161ka, poku\u0161ajte ponovno kasnije"
+        },
+        "024dae797f407f0f2bd724f6301999a1": {
+            "text": "Nepoznata pogre\u0161ka, poku\u0161ajte ponovno kasnije"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Prika\u017ei sve"
+        },
+        "9f8ce5c6cbebc34795f4241c8932573a": {
+            "text": "(%d stranica)"
+        },
+        "411cec7236cb829a791512f1b67a0cc8": {
+            "text": "Sakrij ove stranice na popisima stranica"
+        },
+        "41df189ac4766e373988ce9c915491bc": {
+            "text": "Odaberite jednu ili vi\u0161e stranica za koje ne \u017eelite da se pojavljuju na popisu stranica."
+        },
+        "7b4ae78013cd06d78b6b04f15dcbf69c": {
+            "text": "Osim kada (I uvjet)"
+        },
+        "d60116abe437a67aba5ba11a37144d33": {
+            "text": "Sustav u na\u010dinu otklanjanja pogre\u0161aka"
+        },
+        "03ab4ed39b0a2c874ec38105730cad72": {
+            "text": "Sustav u naprednom na\u010dinu rada"
+        },
+        "0f574db5ad2d196b7b0714fb2344a865": {
+            "text": "Trenuta\u010dni korisnik je superkorisnik"
+        },
+        "e834b638a7a5df6f0de0c57b1d6ac901": {
+            "text": "Dopustiti urednicima koji nisu superkorisnici kori\u0161tenje sme\u0107a?"
+        },
+        "6288d796be4065eb3b00cf1fe1f7b613": {
+            "text": "Kada je ozna\u010deno, korisnici \u0107e mo\u0107i vidjeti stranice u sme\u0107u (samo stranice kojima imaju pristup)."
+        },
+        "98ee3deee3a12fa7795a82801d19a020": {
+            "text": "Ovo \u0107e tako\u0111er omogu\u0107iti radnje \"Sme\u0107e\" i \"Restore\", gdje to dopu\u0161ta kontrola pristupa."
+        },
+        "157fa6b945671169a76bc677977f368d": {
+            "text": "Naziv polja stranice za prikaz"
+        },
+        "bdfca484a650a86abab2578865834ac3": {
+            "text": "Svaka stranica na popisu stranica identificirana je oznakom, obi\u010dno poljem naslova ili naslova. Ovdje mo\u017eete odrediti koje polje treba koristiti. Da biste naveli vi\u0161e polja, svaki naziv polja odvojite razmakom ili upotrijebite vlastiti niz formata s nazivima polja u {zagradama}. Ako se polje razrje\u0161ava na objekt (poput druge stranice), navedite svojstvo s to\u010dkom, tj. {anotherpage.title}. Imajte na umu da ako format koji navedete razrje\u0161ava praznu vrijednost tada \u0107e ProcessWire koristiti polje \"naziv\" stranice."
+        },
+        "8593fb74b02478b2734e442f86507d7b": {
+            "text": "Opcionalno mo\u017eete nadja\u010dati ovu postavku za svaki predlo\u017eak u \"naprednim\" postavkama svakog predlo\u0161ka."
+        },
+        "eceb8bf0921f19bb3ae6972e7902c887": {
+            "text": "Zadana vrijednost je %d."
+        },
+        "f0ebf50a114d563bc9bd51eb8df08f5a": {
+            "text": "Ako se ostavi zadana vrijednost, ova se postavka tako\u0111er mo\u017ee navesti u nizu $config->pageList."
+        },
+        "43da4fffe875f34908241df94ccb535b": {
+            "text": "Broj stranica za prikaz prije ozna\u010davanja stranica"
+        },
+        "94d3f06b64640bda750ee1d7c7527fe4": {
+            "text": "Brzina animacije (u ms)"
+        },
+        "453420e78223c3c2ff7a28bfc3a44dde": {
+            "text": "Ovo je brzina kojom svaka grana u stablu stranice animira gore ili dolje. Ni\u017ei brojevi su br\u017ei, ali manje vidljivi. Ako nema animacije, navedite 0."
+        },
+        "a8a530c941af87d6dc1d0d907cd4ee3f": {
+            "text": "Vrsta koli\u010dine djece"
+        },
+        "f472347ec718962a0e4560a410768cf1": {
+            "text": "Na popisu stranica, koli\u010dina djece prikazana je pored svake stranice kada je primjenjivo. Koju vrstu koli\u010dine treba prikazati?"
+        },
+        "8c06d8c7bf685599eb5de83ad4d79d08": {
+            "text": "Kod prikaza potomaka, koli\u010dina uklju\u010duje sve potomke, bez obzira na to jesu li popisivani korisniku ili ne."
+        },
+        "1cf8145a75b3d3d0f52759b1808c9cac": {
+            "text": "Neposredna djeca (zadano)"
+        },
+        "f9e98f3e587cf5da4ddb460f0aa52437": {
+            "text": "Potomci: djeca, unuci, praunuci i dalje\u2026"
+        },
+        "3f842a2d7d72a4f7fb3e400a5b569f0b": {
+            "text": "Oboje: djeca\/potomci"
+        },
+        "d86d2e0723883a6f48c9c0c05d3584b6": {
+            "text": "Oboje: potomci\/djeca"
+        },
+        "69ff054adc667458622b780aabe13d60": {
+            "text": "Umjesto toga prika\u017ei ID broj stranice"
+        },
+        "7f46e875eed0badd2516b23657f4f320": {
+            "text": "Prika\u017ei mogu\u0107e akcije nad stranicom pri prelasku mi\u0161a?"
+        },
+        "04f8c71ea1d550c45b3c987978fe56b3": {
+            "text": "Prema zadanim postavkama, radnje za stranicu pojavljuju se nakon klika (barem u zadanoj administratorskoj temi). Ozna\u010dite ovaj okvir kako bi se umjesto toga prikazivali dok lebdite."
+        },
+        "bcf77f341a0ec5189588bdad819c9ee7": {
+            "text": "Za vi\u0161e opcija ovdje pogledajte postavku $config->pageList u \/wire\/config.php. Mo\u017eete kopirati te postavke u \/site\/config.php i nadja\u010dati ih."
+        }
+    }
+}
