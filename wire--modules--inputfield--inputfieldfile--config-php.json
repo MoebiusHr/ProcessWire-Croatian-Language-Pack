@@ -1,0 +1,54 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFile\/config.php",
+    "textdomain": "wire--modules--inputfield--inputfieldfile--config-php",
+    "translations": {
+        "7ed67c541834e8611ff12de806594362": {
+            "text": "Dopu\u0161tene ekstenzije datoteka za u\u010ditavanje"
+        },
+        "f95a2203d4668a44286d8955c270b809": {
+            "text": "Jedna ili vi\u0161e ekstenzija datoteka odvojenih razmakom."
+        },
+        "6231c154d164f467041abbb0151816dc": {
+            "text": "Maksimalni dopu\u0161teni broj datoteka"
+        },
+        "2383ea51d67a0b84eda10737be272a9e": {
+            "text": "0=Nema ograni\u010denja"
+        },
+        "831c1d34e1624ee969c96e66273a5b8a": {
+            "text": "Prijenos datoteka"
+        },
+        "bed8a5795ff53ecfd7b9dab0face84b6": {
+            "text": "Dekomprimirati ZIP datoteke?"
+        },
+        "fab7f7d0de48baa58342b39e975c9aab": {
+            "text": "Ako je ozna\u010deno, ZIP arhive \u0107e biti dekomprimirane i sve va\u017ee\u0107e datoteke \u0107e biti dodane kao prijenosi (ako to podr\u017eava okru\u017eenje hostinga). Maksimalni broj datoteka mora biti postavljen na 0 (bez maksimuma) kako bi ZIP prijenosi bili funkcionalni."
+        },
+        "4839f7d2588943e6763c3c91cbd8d7f2": {
+            "text": "Prepisati postoje\u0107e datoteke?"
+        },
+        "35a96944722fb825db8bf04ab791c209": {
+            "text": "Ako je ozna\u010deno, datoteka prenesena s istim nazivom kao postoje\u0107a datoteka zamijenit \u0107e postoje\u0107u datoteku (opis i oznake \u0107e ostati). Ako nije ozna\u010deno, u\u010ditani nazivi datoteka bit \u0107e preimenovani tako da budu jedinstveni."
+        },
+        "2713d4f20fb5e7947fb2bb844d57322d": {
+            "text": "Imajte na umu da kada je ova opcija omogu\u0107ena, AJAX u\u010ditane datoteke spremaju se sa stranicom odmah pri u\u010ditavanju, a ne kada kliknete \"spremi\". Kao rezultat toga, mo\u017eda \u0107ete htjeti ostaviti ovu opciju neozna\u010denom osim ako nemate posebnu potrebu za njom."
+        },
+        "43628388b79e6369717cab54df99fc62": {
+            "text": "Opisi datoteka"
+        },
+        "91015caeadb6afed86544257b5d796f5": {
+            "text": "Broj redaka za polje opisa?"
+        },
+        "27eebd9281cfaa6f4173d02986c9ad71": {
+            "text": "Unesite broj redaka dostupnih za polje opisa datoteke ili unesite 0 da nemate polje opisa."
+        },
+        "1aac69c83eb57d215a710401956430f1": {
+            "text": "Onemogu\u0107iti vi\u0161ejezi\u010dne opise?"
+        },
+        "d2bb3cb572d2e8478e3f5eed6cd914aa": {
+            "text": "Prema zadanim postavkama, opisi su vi\u0161ejezi\u010dni kada imate instaliranu jezi\u010dnu podr\u0161ku."
+        },
+        "e1b05eaa8a39a1ff5b825c94b80e77db": {
+            "text": "Ako ne trebate vi\u0161ejezi\u010dne opise za datoteke, mo\u017eete ih onemogu\u0107iti ovdje."
+        }
+    }
+}

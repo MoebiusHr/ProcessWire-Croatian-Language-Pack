@@ -1,0 +1,45 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageEdit\/PageBookmarks.php",
+    "textdomain": "wire--modules--process--processpageedit--pagebookmarks-php",
+    "translations": {
+        "7a69d6b27362b48011a2a09c56e04bce": {
+            "text": "Oznake"
+        },
+        "d0b0f5485a703781d56c4c55bdce4da7": {
+            "text": "Uredi oznake"
+        },
+        "a181a603769c1f98ad927e7367c7aa51": {
+            "text": "sve"
+        },
+        "e0748a9891a21b21d3c6f6376ab12f8f": {
+            "text": "Trenutno nema definiranih oznaka"
+        },
+        "ed881bac6397ede33c0a285c9f50bb83": {
+            "text": "sve uloge"
+        },
+        "d5a8dcb24e93ee00847e32750d56eca5": {
+            "text": "Oznake za :%s"
+        },
+        "9a013ed2472d5e17678963b8a653a0ac": {
+            "text": "%s ure\u0111iva\u010d oznaka"
+        },
+        "cfbe50a1f9e891f884e3e6318d635a89": {
+            "text": "Imajte na umu da samo superkorisnici mogu vidjeti ovaj ure\u0111iva\u010d."
+        },
+        "7317631eaad804856acd03ce85bd8ef7": {
+            "text": "Dodaj oznaku"
+        },
+        "1aaddfb42057a3f42fbd26b95d3b9c78": {
+            "text": "Pritisnite akciju \"dodaj oznaku\" u nastavku da odaberete stranicu(e) za dodavanje kao oznake. Ako \u017eelite da se oznake pojavljuju samo za odre\u0111enu korisni\u010dku ulogu, prvo odaberite gornju ulogu."
+        },
+        "09c3829dccd8e7db10887f1ec26c7431": {
+            "text": "Spremljene oznake"
+        },
+        "e750f199f551e1b0b52dd0f5228da48d": {
+            "text": "Dopustiti kori\u0161tenje oznaka?"
+        },
+        "53b820d38e547eb253a74a242a29e16f": {
+            "text": "Oznake omogu\u0107uju vam stvaranje pre\u010daca do stranica iz ovog modula, koje se mogu konfigurirati prema korisni\u010dkoj ulozi. Korisno za velike primjene."
+        }
+    }
+}

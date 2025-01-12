@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFloat.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefloat-module",
+    "translations": {
+        "211efcb1aa9b0567969d0ce5a18d850c": {
+            "text": "Broj decimalnih znamenki na koje treba zaokru\u017eiti"
+        },
+        "bf8de207806af36f5a5834a4318f7818": {
+            "text": "Ili upotrijebite negativan broj poput -1 da biste onemogu\u0107ili zaokru\u017eivanje."
+        },
+        "21ddca6ecb798f48a109c2289ff413ec": {
+            "text": "Polje koje pohranjuje broj s pomi\u010dnim zarezom"
+        }
+    }
+}

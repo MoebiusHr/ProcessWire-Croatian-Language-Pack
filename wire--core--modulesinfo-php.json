@@ -1,0 +1,27 @@
+{
+    "file": "wire\/core\/ModulesInfo.php",
+    "textdomain": "wire--core--modulesinfo-php",
+    "translations": {
+        "9639e32cab248434a17ab32237cb3b71": {
+            "text": "Primjeni"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Uredi"
+        },
+        "5a2fc11bf796d8311be4cbec0b42de6a": {
+            "text": "Prona\u0111eno %d novih modula:"
+        },
+        "c6c027ba8c6c5d40e280070bd29ded16": {
+            "text": "Prona\u0111eno %d premje\u0161tenih modula:"
+        },
+        "6ea5c2eaa01aed58a21b407c8e6dfd98": {
+            "text": "Prona\u0111eno %d modula kojima nedostaje datoteka:"
+        },
+        "ad9906aa0524fdfe2d135ea6be8c4a6a": {
+            "text": "Prona\u0111eno %d promjena verzija modula (primjenjuju se kada se svaki modul u\u010dita):"
+        },
+        "3ba3666c48feabf2f2506e1f835ea92e": {
+            "text": "Modul se nadogra\u0111uje"
+        }
+    }
+}

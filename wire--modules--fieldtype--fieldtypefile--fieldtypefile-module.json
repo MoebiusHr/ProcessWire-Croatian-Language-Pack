@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeFile\/FieldtypeFile.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypefile--fieldtypefile-module",
+    "translations": {
+        "3e560c05ba6d07bcd41ac1053b5b9437": {
+            "text": "Polje \"%s\" jo\u0161 nije spremno za kori\u0161tenje i potrebno ga je konfigurirati."
+        },
+        "a8d5114d10f7846bf0263c4e4207137e": {
+            "text": "Postavke jo\u0161 nisu potvr\u0111ene."
+        },
+        "d950e30995efd1abcc2dc812404f03c5": {
+            "text": "Pregledajte postavke na ovoj stranici i spremite ih jo\u0161 jednom (\u010dak i ako ni\u0161ta ne mijenjate) kako biste potvrdili da ih prihva\u0107ate."
+        },
+        "54bf039e6e56c708e1b84c590ac81ea2": {
+            "text": "Jedna datoteka"
+        },
+        "e4adda44aef254f7c658a623c973eae2": {
+            "text": "Vi\u0161e datoteka"
+        },
+        "435ed7e9f07f740abf511a62c00eef6e": {
+            "text": "naziv datoteke"
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Datoteke"
+        },
+        "2cb39a29b55cb3b4480c782dbe367518": {
+            "text": "Polje koje pohranjuje jednu ili vi\u0161e datoteka"
+        },
+        "421cbdd7bacaf7fc3eef0cfadb94b8f3": {
+            "text": "Predlo\u017eak kloniranih polja - %1$s => %2$s"
+        },
+        "8b844396e686bb466640ca0be39c2739": {
+            "text": "Gre\u0161ka pri kloniranju predlo\u0161ka - %1$s => %2$s"
+        }
+    }
+}

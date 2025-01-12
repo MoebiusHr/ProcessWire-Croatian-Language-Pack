@@ -1,0 +1,69 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFile\/InputfieldFile.module",
+    "textdomain": "wire--modules--inputfield--inputfieldfile--inputfieldfile-module",
+    "translations": {
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Opis"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "Tagovi"
+        },
+        "5e176961ecb3a67e9c653e60de703fdb": {
+            "text": "povucite i ispustite datoteke ovdje"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Obri\u0161i"
+        },
+        "e635032a5f71d809146d3872389f5b0c": {
+            "text": "Odaberi datoteku"
+        },
+        "96baacdc276036c2b8fb65264750a3b4": {
+            "text": "Odaberi datoteke"
+        },
+        "e72ce31f0ee80699eb03ad6cc894fe3a": {
+            "text": "Nepodr\u017eani nastavak datoteke, koristite samo: EXTENSIONS"
+        },
+        "6ebd01ddd3a5422eb7dcdd0ce4b677c7": {
+            "text": "Datoteka je prevelika - najve\u0107a dopu\u0161tena veli\u010dina je MAX_KB kb"
+        },
+        "004a10c5de4a2eea5fc8f15e97a8030c": {
+            "text": "Za ovo polje nisu definirane ekstenzije datoteka."
+        },
+        "e8b3e55c0f4d6cce7d8ee14772ec33e2": {
+            "text": "Provjera valjanosti datoteke nije uspjela"
+        },
+        "1a6d5576222d1a16320dda443f43b1fa": {
+            "text": "Dodane datoteke"
+        },
+        "5d28dcd09c5073bb0e454aee16d9b349": {
+            "text": "Odbijena datoteka %s jer je ve\u0107 u datote\u010dnom sustavu iu vlasni\u0161tvu je drugog polja."
+        },
+        "a2c68b109a7c8855b92e56e64bdf4c01": {
+            "text": "Izbrisana datoteka:"
+        },
+        "b15dd49c58da836d9802f6e9e063a998": {
+            "text": "Preimenovanje datoteke \"%1$s\" u \"%2$s\""
+        },
+        "d7c8c85bf79bbe1b7188497c32c3b0ca": {
+            "text": "Neuspje\u0161no"
+        },
+        "cde86841445e53259c5beb7b61aaf389": {
+            "text": "\"destinationPath\" je prazan ili ne postoji"
+        },
+        "53fbb1f98e15224437792f2ea80847a2": {
+            "text": "\"destinationPath\" nije omogu\u0107eno zapisivanje"
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "Dosegnuto je maksimalno ograni\u010denje u\u010ditavanja datoteke"
+        },
+        "c62fc670ac122455cc5853bf97130711": {
+            "text": "Polje \u201c%1$s\u201d tip \u201c%2$s\u201d nije podr\u017eano u polju \u201c%3$s\u201d"
+        },
+        "91f3a2c0e4424c87689525da44c4db11": {
+            "text": "Datoteke"
+        },
+        "fbf221ff984c277d7fea5d290e817767": {
+            "text": "Jedno ili vi\u0161e u\u010ditanih datoteka (sortiranje mogu\u0107e)"
+        }
+    }
+}

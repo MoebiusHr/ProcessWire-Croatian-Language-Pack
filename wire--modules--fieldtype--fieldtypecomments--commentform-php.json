@@ -1,0 +1,48 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentForm.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentform-php",
+    "translations": {
+        "55db28530640e9fb41ebf71ea8afce72": {
+            "text": "Objavi komentar"
+        },
+        "614cffa523202658a898e34a5d94d05e": {
+            "text": "Va\u0161e ime"
+        },
+        "cd5b60538fc5fdd7a7280d67e4a12089": {
+            "text": "Va\u0161a E-mail adresa"
+        },
+        "f359c2373cfa104cd9be66f79047deb5": {
+            "text": "Va\u0161a web stranica (URL)"
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Komentari"
+        },
+        "a4d3b161ce1309df1c4e25df28694b7b": {
+            "text": "Potvrdi"
+        },
+        "8dd3177b8d343a6b39f8e817f528f3db": {
+            "text": "Odaberite ocjenu zvjezdicama"
+        },
+        "a3676fa92ee7acc9486a220da4580c7e": {
+            "text": "Hvala, Va\u0161a prijava je spremljena."
+        },
+        "5443970b690d94d32a481cac5cf31cb6": {
+            "text": "Va\u0161 komentar je poslan i pojavit \u0107e se kada ga moderator odobri."
+        },
+        "af54d31f765138998bf8d2903d4095ce": {
+            "text": "Va\u0161 podnesak nije spremljen zbog jedne ili vi\u0161e gre\u0161aka. Provjerite jeste li ispunili sva polja prije ponovnog slanja."
+        },
+        "5256dc211b8fc0ac5ea5e2418e18bf98": {
+            "text": "E-mail Obavijesti:"
+        },
+        "8cc46df5ae23686a6fbb8e132f4aaf26": {
+            "text": "Odgovori"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Sve"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Isklju\u010deno"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentFilterAkismet.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentfilterakismet-module",
+    "translations": {
+        "00fee5e9143358a3b00c985f3ed3c43e": {
+            "text": "Akismet klju\u010d"
+        },
+        "69dccaed52b0f6af3c11c97b72d0b963": {
+            "text": "Ako \u017eelite da se komentari automatski identificiraju kao spam, polje Comments fieldtype mo\u017ee upotrijebiti uslugu Akismet za to. Kako biste ga koristili, morate unijeti Akismet API klju\u010d dobiven od akismet.com. Kori\u0161tenje ove usluge nije obavezno, ali se preporu\u010duje."
+        },
+        "4f56cc1383c1e4170dfe1e715a97f5d6": {
+            "text": "Filter komentara: Akismet"
+        },
+        "c6fbad5a67362793950bf96bd0e6dad5": {
+            "text": "Koristi uslugu Akismet za prepoznavanje ne\u017eeljenih komentara. Dodatak modula za vrstu polja komentara."
+        }
+    }
+}

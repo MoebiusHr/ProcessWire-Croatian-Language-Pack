@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldDatetime\/InputfieldDatetime.module",
+    "textdomain": "wire--modules--inputfield--inputfielddatetime--inputfielddatetime-module",
+    "translations": {
+        "a749642e2afeea63aac9d550e51abf64": {
+            "text": "Vrsta unosa"
+        },
+        "13f25c1325ea96579dff3ca9b5c408de": {
+            "text": "Zadani dana\u0161nji datum?"
+        },
+        "1feebee2f4ca4af215e8b47f37695f99": {
+            "text": "Ako je ozna\u010deno, ovo polje \u0107e sadr\u017eavati trenutni datum kada se ne unese nikakva vrijednost."
+        },
+        "a1af5f0718bfae275ce162362d0e43c5": {
+            "text": "Datum i vrijeme"
+        },
+        "d27357121209bd712604d8af46cd2460": {
+            "text": "Polje za unos koje prihva\u0107a datum i izborno vrijeme"
+        }
+    }
+}

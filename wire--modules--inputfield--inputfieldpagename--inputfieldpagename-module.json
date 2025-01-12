@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageName\/InputfieldPageName.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagename--inputfieldpagename-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Ime"
+        },
+        "152cfcb2150e04c8533d86e9d7642b11": {
+            "text": "Bilo koja kombinacija slova (a-z), brojeva (0-9), crtica ili podvlaka (bez razmaka)."
+        },
+        "5e6587062568e96fc604e79a948a7460": {
+            "text": "Konfiguracija zamjene znakova je onemogu\u0107ena jer je $config->pageNameCharset UTF8."
+        },
+        "f48a4577939e2ab65867848e6b439a81": {
+            "text": "Zamjene znakova"
+        },
+        "9d250aded0473671ec3f113407f9809c": {
+            "text": "Unesite zamjene koje \u0107e se dogoditi kada korisnik unosi znakove u polje naziva stranice. Unesite jednu zamjenu po retku u formatu klju\u010d=vrijednost. \u0160to zna\u010di da u svaki novi red unesite znakove koje \u017eelite zamijeniti nakon \u010dega slijedi znak jednakosti \"=\" i ascii znakove kojima \u017eelite zamijeniti."
+        },
+        "9bc6bf958fcb86296c17a2b2db2a00a6": {
+            "text": "Zamjenska vrijednost za svaku mora biti jedna ili vi\u0161e od: a-z, 0-9, crtica, podvlaka ili to\u010dka."
+        }
+    }
+}

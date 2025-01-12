@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/PageRender.module",
+    "textdomain": "wire--modules--pagerender-module",
+    "translations": {
+        "22a38306ce7556a0a5eeebca65cd9b58": {
+            "text": "Istekla predmemorija stranice za cijelu stranicu"
+        },
+        "af4137a5254dfe8654d87ff05286b80e": {
+            "text": "Izbrisana datoteka predmemorije:"
+        },
+        "f3fbe32b9b2f8a4b6b3eecc5084e999c": {
+            "text": "Izbrisana datoteka predmemorije za %d stranicu(e)"
+        },
+        "403c89515b16b3417cd2e426612b4a53": {
+            "text": "Izbrisano je %d datoteka predmemorije za %d stranica"
+        },
+        "0c22fad509c478c3442a310a7a2b2c52": {
+            "text": "O\u010distiti predmemoriju diska za prikaz stranice?"
+        },
+        "b4999a543edcfefc8c56ed6eafdcb98f": {
+            "text": "Trenutno postoji %d stranica u predmemoriji u %s"
+        },
+        "d2c5ea4202c4c692852b7e10fbceabd3": {
+            "text": "Dodaje metodu iscrtavanja stranici i pohranjuje izlaz stranice."
+        }
+    }
+}

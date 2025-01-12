@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldsetPageInstructions.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldsetpageinstructions-php",
+    "translations": {
+        "fce8db7e35654f2d39ed13c88caeb595": {
+            "text": "Ovo je primjer teksta"
+        },
+        "e24b5159feaf11cbc2866fc792dcb205": {
+            "text": "Upute za kori\u0161tenje ovog polja"
+        },
+        "dda3c63808783d90468ffc36857b1ad2": {
+            "text": "Ova vrsta skupa polja koristi zasebnu stranicu (iza scene) za pohranu vrijednosti za polja koja ste odabrali iznad."
+        },
+        "43ef844d717ad05c793ebe3fc0bfa46f": {
+            "text": "Prednost je u tome \u0161to mo\u017eete ponovno koristiti polja koja su mo\u017eda ve\u0107 prisutna na va\u0161oj stranici, izvan skupa polja."
+        },
+        "450f315bbf5a730f06d882603e2351ee": {
+            "text": "Na primjer, mo\u017eete imati polje \"naslov\" na svojoj stranici, a drugo u skupu polja. Isto tako i za sva ostala polja."
+        },
+        "082323774f8bcc4a3b546017f4699653": {
+            "text": "To je mogu\u0107e zato \u0161to su polja u skupu polja u svom vlastitom imenskom prostoru\u2014na drugoj stranici\u2014odvojeno od glavne stranice."
+        },
+        "1c965c7b269c1b604d6490030b52cb9a": {
+            "text": "Dolje je nekoliko primjera o tome kako koristiti ovo polje u datotekama predlo\u0161ka i iz API-ja."
+        },
+        "2b9532c496c737a7d979ede12021cbfc": {
+            "text": "Dobivanje vrijednosti:"
+        },
+        "3cdf9e98ed82c4005e72a8d904f2c396": {
+            "text": "Ispis vrijednosti:"
+        },
+        "e77be29cea913a45c5a64261aab889fe": {
+            "text": "Ispisivanje vrijednosti u ozna\u010davanju:"
+        },
+        "a1846e66c3581626834fa2b2b713a751": {
+            "text": "Pode\u0161avanje vrijednosti:"
+        },
+        "c17698c4f96778fb0e1c2cf7e08354fa": {
+            "text": "Pode\u0161avanje i snimanje vrijednosti"
+        },
+        "07eb153eceddb68a89d41166e566601a": {
+            "text": "ovo isklju\u010duje formatiranje izlaza, kada je potrebno"
+        },
+        "d4dcb894c9c0f44c78175f84b15a0b57": {
+            "text": "Dodjeljivanje skupa polja drugoj (kra\u0107oj) varijabli i ispisivanje vrijednosti:"
+        },
+        "89c8a04262edb041b1d1cf735fd36a4b": {
+            "text": "Pronala\u017eenje stranica koje imaju skup polja s poljem \"%s\" koje sadr\u017ei tekst \"primjer\":"
+        }
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "file": "wire\/modules\/Process\/ProcessField\/ProcessFieldExportImport.php",
+    "textdomain": "wire--modules--process--processfield--processfieldexportimport-php",
+    "translations": {
+        "ad32e604e17467fc435538334fbddf3e": {
+            "text": "Ime"
+        },
+        "6f434c508ad901b8667ed22f713e52bb": {
+            "text": "OZNAKA"
+        },
+        "948495146facadfe8859789036313d79": {
+            "text": "VRSTA"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "novo"
+        },
+        "71eaa2b13692809e39c2f0c36e7f1d7f": {
+            "text": "Odaberite polja koja \u017eelite izvesti"
+        },
+        "e5d07991c975607a12edce23c0da9824": {
+            "text": "Shift+klik za odabir vi\u0161e u nizu. Ctrl+klik (ili Cmd+klik) za odabir vi\u0161e pojedina\u010dno. Ctrl+A (ili Cmd+A) za odabir svih."
+        },
+        "2f1fb3d9f25082e7fdb0befdad16da5f": {
+            "text": "Izvoz podataka"
+        },
+        "6af8cf07d769a110f0b2483692ef424c": {
+            "text": "Kopirajte i zalijepite ove podatke u okvir \"Uvoz\" druge instalacije."
+        },
+        "9d823cda278191490c2a99bbb912cc9d": {
+            "text": "Pritisnite bilo gdje u okviru za odabir svih podataka za izvoz. Nakon odabira kopirajte podatke pomo\u0107u CTRL-C ili CMD-C."
+        },
+        "dce8c8fe6bdf804f2a98384dedea1360": {
+            "text": "Zalijepite podatke iz izvoza."
+        },
+        "139ef19d3b2f902827257b2ebc33d708": {
+            "text": "Kopirajte izvozne podatke iz druge instalacije i zatim ih zalijepite u gornji okvir pomo\u0107u CTRL-V ili CMD-V."
+        },
+        "31fde7b05ac8952dacf4af8a704074ec": {
+            "text": "Pregled"
+        },
+        "c112bb3542e98308d12d5ecb10a67abc": {
+            "text": "Promjene"
+        },
+        "5ad234cb2cde4266195252a23ca7d84e": {
+            "text": "Svojstvo"
+        },
+        "56f05ff480907494bd933f4ad4faf9e2": {
+            "text": "Stara vrijednost"
+        },
+        "943f335b83ec6549ef45388ececff4e1": {
+            "text": "Nova vrijednost"
+        },
+        "939704657d1c6c48005bdb67bc14ee75": {
+            "text": "Preporu\u010dujemo da ru\u010dno promijenite vrstu ovog polja u \"%s\", a zatim se vratite ovdje kako biste primijenili dodatne promjene."
+        },
+        "34eb90456e45e06048e287f649c4fba0": {
+            "text": "Nema promjena na \u010dekanju."
+        },
+        "c4fd77379e1e463339786fbbc671068c": {
+            "text": "Promijeniti ovo polje?"
+        },
+        "2f4ddf245d305802ffed479ba3b88451": {
+            "text": "Napraviti ovo polje?"
+        },
+        "83e14aace19687fe9e1fbb8f913bf569": {
+            "text": "kliknite da za prikaz promjena"
+        },
+        "47a35a358887cc2c9994fb517d6a2b0b": {
+            "text": "Ponekad mogu biti potrebna dva urezivanja prije nego \u0161to se sve promjene primijene. Pregledajte sve promjene na \u010dekanju u nastavku i izvr\u0161ite ih prema potrebi."
+        },
+        "b2ba5835eaaa55607da59f696dcd4a87": {
+            "text": "Pregledajte promjene u nastavku i potvrdite ih kada budete spremni. Ako postoje promjene koje ne \u017eelite primijeniti, poni\u0161tite odgovaraju\u0107e okvire."
+        },
+        "b604e6f64e19eea098f6d87c63552c53": {
+            "text": "Pokreni promjene"
+        },
+        "16babeb0401a3e00da9891b97e94d6fe": {
+            "text": "Va\u0161e promjene su primijenjene!"
+        },
+        "15055fb4c054396bf293c21c12c578be": {
+            "text": "Nisu prona\u0111ene promjene"
+        },
+        "426de2596501a3cff8977e60c271889c": {
+            "text": "Snimljeno:"
+        },
+        "22e3e6ff427708ffbb7a54e2e91bc99e": {
+            "text": "Dodano polje"
+        },
+        "9de8e0c21384ddfd634fd87a48f6b3b2": {
+            "text": "Izmijenjeno polje"
+        },
+        "19b7fb53a85de3c8ba85672a91a7398b": {
+            "text": "Izvoz"
+        },
+        "722034114c47bfa859a1be8200469fcf": {
+            "text": "U redu"
+        },
+        "e37dfad06455f0c5d79778a5020d946d": {
+            "text": "Uvoz"
+        },
+        "a7820bfdb5b31eb4ee4165f2c8bef779": {
+            "text": "Da"
+        },
+        "1354eb301e2c7c55f79a7f13adb363e3": {
+            "text": "Ne"
+        },
+        "c3005b0d579421afe9654e94b7f60c41": {
+            "text": "%d gre\u0161ka"
+        },
+        "2169b4627df97333ed94d1e30a9b8148": {
+            "text": "%d gre\u0161aka"
+        },
+        "8ba486983cfbf272f154102c788863e6": {
+            "text": "Prona\u0111eno %d svojstvo za primjenu."
+        },
+        "dbda450b59595e4fd37fd581d205334f": {
+            "text": "Prona\u0111eno %d svojstva za primjenu."
+        },
+        "9e06b5dbfb31f1828888bca905c2e88e": {
+            "text": "Gre\u0161ke su prona\u0111ene u %d polju"
+        },
+        "68949530f08adb8c1a98b2a452c25604": {
+            "text": "Gre\u0161ke su prona\u0111ene u %d polja"
+        },
+        "98e916ede6d185f77336fd8e0c08bfe0": {
+            "text": "Prona\u0111eno %d novih polja za dodavanje"
+        },
+        "9bdf5048d07cd31f11ccd839cc2d077a": {
+            "text": "Prona\u0111eno %d novih polja za dodavanje"
+        },
+        "927d189873b1f34075deb20406d33644": {
+            "text": "Prona\u0111eno %d postoje\u0107e polje za a\u017euriranje"
+        },
+        "5cc06b731a19a2b34a1e3a0e79e35690": {
+            "text": "Prona\u0111eno %d postoje\u0107ih polja za a\u017euriranje"
+        },
+        "99dc52a2961a9de2d42d6dbd498b0103": {
+            "text": "Dodano %d polje"
+        },
+        "46b6c6eede6b98b8ac580770f6215f35": {
+            "text": "Dodano %d polja"
+        },
+        "0ecf1cc5ca067272faabd8c0900efe68": {
+            "text": "Izmijenjeno %d polje"
+        },
+        "18e7924633aa136c8b5ba3827b3f7058": {
+            "text": "Izmijenjeno %d polja"
+        },
+        "c9185726324b2953e521ff596b287f25": {
+            "text": "Presko\u010deno %d polje"
+        },
+        "0cf5f939a615a083962e96f06b8ed6ea": {
+            "text": "Presko\u010deno %d polja"
+        }
+    }
+}

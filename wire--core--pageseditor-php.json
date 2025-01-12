@@ -1,0 +1,27 @@
+{
+    "file": "wire\/core\/PagesEditor.php",
+    "textdomain": "wire--core--pageseditor-php",
+    "translations": {
+        "9ba12390dc16d0bb6b897e136830b4e4": {
+            "text": "Stranica bez naslova"
+        },
+        "659a129a2ef73cd3628cdb82dd2ecfb7": {
+            "text": "Stranicu koja koristi predlo\u017eak \u201c%s\u201d nije mogu\u0107e premje\u0161tati."
+        },
+        "de2497c4afe885df1cae702f984bc35d": {
+            "text": "Odabrani roditelj \u201c%1$s\u201d koristi predlo\u017eak \u201c%2$s\u201d koji ne dopu\u0161ta djecu."
+        },
+        "054467106726884f49f1059fa63c12a7": {
+            "text": "Nije mogu\u0107e premjestiti \u201c%1$s\u201d jer predlo\u017eak \u201c%2$s\u201d koji koristi stranica \u201c%3$s\u201d ne dopu\u0161ta djeci kori\u0161tenje predlo\u0161ka \u201c%4$s\u201d."
+        },
+        "39f8623f438de062026d1508751a5e3d": {
+            "text": "Nije mogu\u0107e premjestiti \u201c%1$s\u201d jer predlo\u017eak \u201c%2$s\u201d koji koristi novi roditelj \u201c%3$s\u201d nije dopu\u0161ten od strane premje\u0161tenog predlo\u0161ka stranice \u201c%4$s\u201d."
+        },
+        "f99ff7a362ba2a69eb85a3e3f2bfe1e4": {
+            "text": "Odabrani roditelj \u201c%1$s\u201d ve\u0107 ima stranicu pod nazivom \u201c%2$s\u201d."
+        },
+        "f7b20059533e8267e92eecda0b6eee8e": {
+            "text": "Gre\u0161ka pri spremanju polja \"%s\""
+        }
+    }
+}

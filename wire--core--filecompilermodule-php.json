@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/FileCompilerModule.php",
+    "textdomain": "wire--core--filecompilermodule-php",
+    "translations": {
+        "e774dc32721ed4babc1996a83868058f": {
+            "text": "Redoslijed izvr\u0161avanja vremena izvo\u0111enja"
+        },
+        "26ca6e7fb5ade62330c73e93dc083cab": {
+            "text": "Naredite da ovaj modul radi u odnosu na druge FileCompiler module. Ni\u017ei brojevi se pokre\u0107u prvi."
+        }
+    }
+}

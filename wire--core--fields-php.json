@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/Fields.php",
+    "textdomain": "wire--core--fields-php",
+    "translations": {
+        "e1658097cf747de4696d2515e2e8b9a0": {
+            "text": "page-by-page"
+        },
+        "68d1cb3da7a618bf1997d9d5149ae24a": {
+            "text": "single-query"
+        },
+        "95174709ea432bbeb2a0ec8d9862b8a5": {
+            "text": "Izbrisani su podaci polja \"%1$s\" u %2$d red(ova) sa %3$d stranice(a) pomo\u0107u predlo\u0161ka \"%4$s\"."
+        },
+        "f9de29a177673a5d7f9bfe31fb3d94f3": {
+            "text": "Pogre\u0161ka pri brisanju podataka polja \"%1$s\", %2$d retka(a), %3$d stranice(a) pomo\u0107u predlo\u0161ka \"%4$s\"."
+        }
+    }
+}

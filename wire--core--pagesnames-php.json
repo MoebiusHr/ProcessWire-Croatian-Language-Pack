@@ -1,0 +1,18 @@
+{
+    "file": "wire\/core\/PagesNames.php",
+    "textdomain": "wire--core--pagesnames-php",
+    "translations": {
+        "b0c7034324356a3debb02f65432da4cb": {
+            "text": "Druga stranica koristi naziv \u201c%s\u201d i zahtijeva da bude globalno jedinstven"
+        },
+        "0bfad70a433eea8a1d6211bc771098b5": {
+            "text": "Drugi korisnik ve\u0107 koristi ime \u201c%s\u201d"
+        },
+        "dc4285f03b7d0a9a40a437530f567e94": {
+            "text": "Druga stranica s istim roditeljem ve\u0107 koristi naziv \u201c%s\u201d"
+        },
+        "fca123eb0b6f4465da6e62e5b07927e9": {
+            "text": "Nije mogu\u0107e koristiti ime \u201c%s\u201d kao globalno jedinstveno jer ga ve\u0107 koriste druge stranice"
+        }
+    }
+}

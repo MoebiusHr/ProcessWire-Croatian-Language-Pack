@@ -1,0 +1,60 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageClone.module",
+    "textdomain": "wire--modules--process--processpageclone-module",
+    "translations": {
+        "5fb63579fc981698f97d55bfecb213ea": {
+            "text": "Kopiraj"
+        },
+        "779e23d04b68b9515ffc345454994895": {
+            "text": "Kopiraj stranicu"
+        },
+        "0ac579c02e8d96b65a4bff917771b245": {
+            "text": "Nije mogu\u0107e u\u010ditati stranicu"
+        },
+        "0a198ede7ab46185f2e9fb2a3628419b": {
+            "text": "(kopiraj)"
+        },
+        "884ba0e5457b084e152567fd52b66f6c": {
+            "text": "(kopiraj %d)"
+        },
+        "3311bb66a5349309e01c99050e744f0b": {
+            "text": "Ovo \u0107e napraviti kopiju %s"
+        },
+        "59eeb47edc78526e0e13dc0dfa8f6b07": {
+            "text": "Naslov nove stranice"
+        },
+        "415d40999f28fef452f65616dabfc7a0": {
+            "text": "Poni\u0161titi objavu nove stranice?"
+        },
+        "2627956e008c08b8affd8608d7980ff4": {
+            "text": "Ako je ozna\u010deno, klonirana stranica dobit \u0107e neobjavljen status tako da se jo\u0161 ne mo\u017ee vidjeti na prednjem dijelu va\u0161e stranice."
+        },
+        "5061c76f17ce15eb2a6092a51cb22aa3": {
+            "text": "Kopiraj djecu tako\u0111er?"
+        },
+        "a6c4c88eb6c7d256bf2e4aa56df4430f": {
+            "text": "Ako je ozna\u010deno, sva djeca, unuci, itd. tako\u0111er \u0107e biti klonirani s ovom stranicom."
+        },
+        "06170efdb0d3840cd32dea984d32067a": {
+            "text": "Upozorenje: ako postoji vrlo velika struktura stranica ispod ove, mo\u017ee biti dugotrajno ili nemogu\u0107e dovr\u0161iti."
+        },
+        "6a26ee7a6d1234006bf3806ee697f7d0": {
+            "text": "Nije mogu\u0107e klonirati stranicu %s"
+        },
+        "7e263f9f6a65e1126c6a599ea015a27c": {
+            "text": "Klonirana stranica \"%1$s\" u \"%2$s\""
+        },
+        "04ded6e943c2cb8fab9a9b7075462f7c": {
+            "text": "Klonirano u: %s"
+        },
+        "d52cff2047c2d3bd15b08ec62c34eb7d": {
+            "text": "Nije mogu\u0107e klonirati stranicu"
+        },
+        "366637b8eb1e99b85f6d6535e326a491": {
+            "text": "Klon stranice"
+        },
+        "fae7550bf964aa09e51752b154a6cb23": {
+            "text": "Pru\u017ea mogu\u0107nost kloniranja\/kopiranja\/dupliciranja stranica u adminu. Dodaje opciju \"kopiraj\" svim primjenjivim stranicama na popisu stranica."
+        }
+    }
+}

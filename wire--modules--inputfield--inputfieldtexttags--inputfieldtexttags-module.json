@@ -1,0 +1,132 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldTextTags\/InputfieldTextTags.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtexttags--inputfieldtexttags-module",
+    "translations": {
+        "ec211f7c20af43e742bf2570c3cb84f9": {
+            "text": "Dodaj"
+        },
+        "5ada8a9286e44da2221cd82e3ec857be": {
+            "text": "Uklonjena neva\u017ee\u0107a vrijednost taga: %s"
+        },
+        "fcf2ecb6c5c5991e49690fd12f0950dd": {
+            "text": "Izbor opcija\/izvora tagova"
+        },
+        "a1d8d28cd17bc9713cb6d9bf779b1422": {
+            "text": "Navedite ih ovdje"
+        },
+        "2d4026ab7ebafbc34d0c0cee4bc6a8f9": {
+            "text": "U\u010ditaj s URL-a koji navedete (ajax)"
+        },
+        "6b1b91dab4876004505181d49ae7bc27": {
+            "text": "Koristiti ajax opcije\/stranice?"
+        },
+        "e793cb635b6f498edd8f78ecaa4f1cc3": {
+            "text": "Kada je omogu\u0107eno, pona\u0161at \u0107e se kao automatsko dovr\u0161avanje pri \u010demu korisnik po\u010dinje tipkati i tra\u017ei URL za podudarne stranice."
+        },
+        "26644aceea0417eed7cc9b89b5d217fe": {
+            "text": "Tako\u0111er \u0107ete morati dati \u201cAjax URL\u201d (prikazan u nastavku kada je odabrano \u201cDa\u201d) da izvr\u0161ite upit. Uklju\u010den je radni primjer koda."
+        },
+        "113e5eb7479e4757efe217b2b4df3a9c": {
+            "text": "Kada nije omogu\u0107eno, sve opcije koje se mogu odabrati bit \u0107e popunjene tijekom izvo\u0111enja."
+        },
+        "860b7a69d838e2a510f79123bb657026": {
+            "text": "Kori\u0161tenje ajax opcija\/stranica je korisno kada je potencijalna koli\u010dina stranica koje se mogu odabrati velika."
+        },
+        "9cba2db480057b2c65e239915198a3bc": {
+            "text": "Razmotrite to kada postoji nekoliko stotina ili tisu\u0107a (ili vi\u0161e) stranica koje se mogu odabrati."
+        },
+        "8d303ccb1721972ffbf890a84a24c7a5": {
+            "text": "Popis unaprijed definiranih opcija\/tagova"
+        },
+        "dcf387ef8e5f3f0bbd745b1855a2a9a5": {
+            "text": "Unesite unaprijed definirane oznake, 1 po retku. Da biste definirali zasebnu vrijednost i oznaku za oznaku, navedite value=label u retku."
+        },
+        "b23854b10090d03184c424927a1c221f": {
+            "text": "Tagovi mo\u017eda ne\u0107e sadr\u017eavati razdjelnik odabran u nastavku, ali oznake mogu."
+        },
+        "3f29cea14274476fd290ab2357acf53b": {
+            "text": "Da biste definirali zasebne oznake po jeziku, ponovno unesite svaku oznaku `value=label` za svaki jezik, gdje je `value` ista za svaki, dok se `label` razlikuje."
+        },
+        "863a617186799199c167888e3f858ed7": {
+            "text": "Primjer rukovatelja URL-om u datoteci %s za URL %s"
+        },
+        "0e3fd3cf510a091336f62cffa8fed928": {
+            "text": "Kopirajte i zalijepite ovaj URL u gornje polje ako \u017eelite upotrijebiti primjer u nastavku."
+        },
+        "578b189f9605804a55dec2f726107836": {
+            "text": "Kada unesete URL, tra\u017eit \u0107e se stavke koje odgovaraju korisni\u010dkom unosu na na\u010din automatskog dovr\u0161avanja."
+        },
+        "3094591b42aeeae0f6f5743dd58ff360": {
+            "text": "Navedeni URL mora negdje sadr\u017eavati rezervirano mjesto {q}, koje \u0107e biti zamijenjeno tekstom koji korisnik upisuje."
+        },
+        "6de08d5e99d2f49b707fbe84bf2babc4": {
+            "text": "Mo\u017eete navesti puni http\/https URL ili relativni URL."
+        },
+        "b9b2836d05319756a7f9b1797166d2c5": {
+            "text": "Ako navedete relativni URL (bez sheme\/doma\u0107ina), trenutna shema, host i korijenski URL bit \u0107e mu dodani u vrijeme izvo\u0111enja."
+        },
+        "3d68dddcd3aa8f6a61b89149dc3cd5ac": {
+            "text": "Tako\u0111er \u0107ete morati definirati URL handler kao u primjeru prikazanom u nastavku."
+        },
+        "c55228ab9fb65392d44a1ad232555e5b": {
+            "text": "URL putanja `%s` samo je primjer, slobodno je zamijenite \u010dime god \u017eelite."
+        },
+        "61900119c9b2f987bb0f2784d219d460": {
+            "text": "Ovaj primjer pronalazi naslove stranica za kori\u0161tenje kao oznake, ali mo\u017eete koristiti bilo koji izvor podataka koji \u017eelite."
+        },
+        "a4ead355e5bbbd25f264cae5a69d5d72": {
+            "text": "va\u0161 bira\u010d za pronala\u017eenje stranice ovdje"
+        },
+        "1505f61747adf41e94a27b064a284b40": {
+            "text": "Imajte na umu da \u0107ete, ako promijenite postavke \"Stranica koje se mogu birati\" ili \"Polja oznake\", tako\u0111er morati a\u017eurirati kod rukovatelja URL-om."
+        },
+        "6aa01c4fdc82ff85bc6299056ef15167": {
+            "text": "Rezervirano mjesto \u201c{q}\u201d potrebno je negdje u va\u0161em Ajax URL-u."
+        },
+        "4c38a85c32ea7ee51ac917693c988269": {
+            "text": "Dopustiti korisniku unos vlastitih tagova?"
+        },
+        "f03041db1e5b27242c249d020d997331": {
+            "text": "Zatvoriti padaju\u0107i izbornik nakon svakog odabira?"
+        },
+        "e077077fcf3ef41f3ad162f4cc681209": {
+            "text": "(za oznake od jedne rije\u010di)"
+        },
+        "826be3095514fef3d79e6f899b887ecc": {
+            "text": "(za oznake od vi\u0161e rije\u010di)"
+        },
+        "dfb1a97826511d6e6732545b6e536bd5": {
+            "text": "Razdjelnik tagova"
+        },
+        "d511f8439ecde36647437fbba67a4394": {
+            "text": "Razmak"
+        },
+        "58be47db9455679e6a44df2eff9c9fa6": {
+            "text": "Zarez"
+        },
+        "2ab1f3f893823298751fdf60b4e0365a": {
+            "text": "Cijev (Pipe)"
+        },
+        "4192f616db902e9df5391f247482d3b8": {
+            "text": "Maksimalni broj tagova\/opcija"
+        },
+        "66553e3b94c6fdf004b777c7e8187afd": {
+            "text": "Koristite 0 za bez ograni\u010denja ili unesite najve\u0107i broj opcija\/oznaka koje korisnik mo\u017ee odabrati ili unijeti."
+        },
+        "fd9b78d0ec0b8004cc27a0872e531698": {
+            "text": "Imajte na umu da unos 1 \u010dini da unos izgleda vi\u0161e kao odabir nego kao unos teksta."
+        },
+        "910370309c0af1e93df0ae98ff8cfe5a": {
+            "text": "Tekst rezerviranog mjesta"
+        },
+        "70bf9b371944c2d5b1adf809a356f607": {
+            "text": "Neobavezni tekst rezerviranog mjesta koji se pojavljuje u polju kada je prazno."
+        },
+        "350efb22a387fd0b416e2835e7ddd4e8": {
+            "text": "Tekstualni tagovi"
+        },
+        "28e1cc9b637fcfb04e136e18800240ff": {
+            "text": "Omogu\u0107uje unos korisni\u010dki unesenih tagova ili odabir unaprijed definiranih tagova."
+        }
+    }
+}

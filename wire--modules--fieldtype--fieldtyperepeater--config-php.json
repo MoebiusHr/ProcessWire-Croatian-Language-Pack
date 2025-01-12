@@ -1,0 +1,222 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/config.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--config-php",
+    "translations": {
+        "cb2d417d536ac6b6d8668d272b28ca47": {
+            "text": "Polje repeatera \"%s\" ima postavku ovisnosti \"obavezno samo ako\", a to nije podr\u017eano u Repeaterima."
+        },
+        "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
+            "text": "Dodajte polja ovom repeateru iz \"detalji\" taba."
+        },
+        "f41ae5ce37aeed3613288bb8c0cc3489": {
+            "text": "Definirajte polja koja koristi ovaj repeater. Tako\u0111er mo\u017eete povu\u0107i i ispustiti polja \u017eeljenim redoslijedom."
+        },
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "Dodaj polje"
+        },
+        "ebfc6d0dd40c27dd753e7e6dfbf18dd2": {
+            "text": "Oznaka stavke repeatera"
+        },
+        "66a81e26ad18214b582553f4d33030f2": {
+            "text": "Unesite naziv polja koje \u0107ete koristiti za oznake repeatera u ure\u0111iva\u010du stranice ili ostavite prazno za automatsko generiranje."
+        },
+        "699a4d80b29a2b87e8bea7946afebe8e": {
+            "text": "Za kori\u0161tenje vi\u0161e polja ili za navo\u0111enje vlastitog niza formata, nazive polja stavite u {zagrade}."
+        },
+        "c5e90fa5edbe00c619ca4d69c3692627": {
+            "text": "Da biste uz svaku oznaku uklju\u010dili indeksni broj repeatera, dodajte \"#n\" negdje u svoj niz formata."
+        },
+        "4c95bcccf333bef2208b02fbd212af55": {
+            "text": "Primjer: #n: {title}"
+        },
+        "adaafad29d53a9d0cd52885adf34e542": {
+            "text": "Dubine\/uvlake repeatera"
+        },
+        "d0deefb333b608453cbec94b81a136de": {
+            "text": "Dubina stavke"
+        },
+        "e316c9556c1be5b536576ce4b27d0575": {
+            "text": "Da biste podr\u017eali stavke s dubinom, unesite najve\u0107u dopu\u0161tenu dubinu ili ostavite prazno za onemogu\u0107avanje."
+        },
+        "ea3a2c41fc47d9150f65147b030a3ad8": {
+            "text": "Prilikom ure\u0111ivanja repeatera, mo\u017eete promijeniti dubinu stavke klikom na strelice za povla\u010denje repeatera i povla\u010denjem stavke desno ili lijevo."
+        },
+        "c8a9e54dcabe5cdebed9c5bd1fa334d4": {
+            "text": "Dubine se temelje na nuli (zero-based), \u0161to zna\u010di da dubina od 3 dopu\u0161ta dubine 0, 1, 2 i 3."
+        },
+        "8b3964c39c4eb2db458965c40689f5a0": {
+            "text": "Dubini se mo\u017ee pristupiti iz stavke repetitorske stranice preko `$item->depth`."
+        },
+        "b88543bf2626f096ed455b862390b4e3": {
+            "text": "Koristiti \"family-friendly\" dubinu stavke?"
+        },
+        "9b7bbf35ecde2744bc2b120d7a19e425": {
+            "text": "Ova postavka \u010dini da ure\u0111iva\u010d administratorske stranice tretira dubinu stavke kao odnos roditelj\/dijete."
+        },
+        "fc26899013e5130bf0f035bcb6645e36": {
+            "text": "To zna\u010di da premje\u0161tanje\/sortiranje stavke uklju\u010duje i podre\u0111ene stavke."
+        },
+        "239509c1f5621ac1d950faf5de9d9111": {
+            "text": "Tako\u0111er sprje\u010dava da se podre\u0111ena stavka povu\u010de tako da ima dubinu koja prema\u0161uje nadre\u0111enu stavku za vi\u0161e od 1."
+        },
+        "0c5235bde3e119593538bdd38e7d7e9f": {
+            "text": "Preporu\u010duje se \"da\"."
+        },
+        "1037c53410252db4ea92a9851015c46b": {
+            "text": "Postavke ure\u0111iva\u010da repeatera"
+        },
+        "d347b63bb97431df68506ea3059be495": {
+            "text": "Oznaka za dodavanje nove stavke"
+        },
+        "db9d65ca0ad208926207fbf99636b1f4": {
+            "text": "Unesite oznaku koju \u017eelite koristiti za tekst\/gumb \"Dodaj novu stavku\" ili ostavite prazno za zadano."
+        },
+        "ef9eb3b1c72a3d00e09495aa7ecf195a": {
+            "text": "Vidljivost stavke repeatera u ure\u0111iva\u010du"
+        },
+        "e420623b25fa348e2155e3e2bdbf5620": {
+            "text": "Stavke repeatera mogu biti otvorene ili sa\u017eete (za otvaranje je potreban klik). Sa\u017eeti na\u010din je prakti\u010dniji za razvrstavanje i gledanje svih va\u0161ih stavki zajedno."
+        },
+        "c2d450307945339defec74620dd295d2": {
+            "text": "Nove stavke otvorene, postoje\u0107e stavke sa\u017eete (preporu\u010deno za ve\u0107inu slu\u010dajeva)"
+        },
+        "0905199ed34fceff86e31adf81cbc702": {
+            "text": "Stavke uvijek otvorene (onemogu\u0107uje dinami\u010dko u\u010ditavanje za postoje\u0107e stavke)"
+        },
+        "83a9d92f04fe2ce7f34ad4e7070c61aa": {
+            "text": "Stavke su uvijek kolabirane"
+        },
+        "1c1fc75d282666eeffc288a4d82594ba": {
+            "text": "Dinami\u010dko u\u010ditavanje repeatera (AJAX) u editoru"
+        },
+        "78385cca5a362b333c60753b2fcf6e40": {
+            "text": "Koje stavke treba dinami\u010dki u\u010ditavati pomo\u0107u AJAX-a u ure\u0111iva\u010du stranice? Ako ustanovite da va\u0161 repeater koristi polje koje ne radi s dinami\u010dkim u\u010ditavanjem, mo\u017eda \u0107ete morati isklju\u010diti ovu zna\u010dajku."
+        },
+        "18e57decad6ecfd57b1231426deb7f2d": {
+            "text": "Postoje\u0107e i nove stavke (preporu\u010deno, posebno za repeatere koji mogu imati PUNO stavki)"
+        },
+        "e8b8b3345ab0076aaef6c21cd7ca5b79": {
+            "text": "Samo nove stavke (dobro za repeatere koji \u0107e imati samo NEKOLIKO stavki)"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Isklju\u010deno"
+        },
+        "2db718f06a27de2a35a889b205ef0bb4": {
+            "text": "Zapamtite koje su stavke repeatera otvorene?"
+        },
+        "193b66f657e8f7ca202b160e8e701923": {
+            "text": "Kada je omogu\u0107eno, otvorene stavke repeatera ostaju otvorene nakon spremanja ili ponovnog u\u010ditavanja iz ure\u0111iva\u010da stranice (osim ako ih korisnik ne zatvori)."
+        },
+        "fc47b04d62211ce6992143d1e92e2fbe": {
+            "text": "Koristiti na\u010din harmonike?"
+        },
+        "d0244dd7d1408e009350fb0bef887af2": {
+            "text": "Kada je omogu\u0107eno, istovremeno \u0107e biti otvorena samo jedna stavka repetitora."
+        },
+        "aefc9b4c2d25085021b0a1df54aeff00": {
+            "text": "Kada prikazati kontrole\/radnje stavke repeatera"
+        },
+        "68eec46437c384d8dad18d5464ebc35c": {
+            "text": "Uvijek"
+        },
+        "eee0168be69b854c20621fc6f01cc3fc": {
+            "text": "Prelaskom mi\u0161a"
+        },
+        "6799fc53119a06c09eecac05d013dbf3": {
+            "text": "Opcija prelaskom mi\u0161a mo\u017ee smanjiti nered u su\u010delju prikazivanjem radnji\/kontrola stavke repeatera (klon, umetanje, brisanje itd.) samo kada se prelazi mi\u0161em iznad zaglavlja stavke."
+        },
+        "9e6025a2fc5d0a32028e42373c622d66": {
+            "text": "Imajte na umu da su kontrole uvijek prikazane za dodirne ure\u0111aje bez obzira na ovu postavku."
+        },
+        "90ed744894b90ce9c561d6a428cad4ee": {
+            "text": "Maksimalan broj stavki"
+        },
+        "528f529d4617eb805a332c782f8666fe": {
+            "text": "Ako trebate ograni\u010diti broj dopu\u0161tenih stavki, unesite ograni\u010denje ovdje (0=bez ograni\u010denja)."
+        },
+        "f504e6acf8424e003e90434b8f4ada08": {
+            "text": "Minimalan broj stavki"
+        },
+        "d167f14d9682362265c133aca323b335": {
+            "text": "Ovoliko stavki uvijek \u0107e biti otvoreno i spremno za ure\u0111ivanje (0=bez minimuma)."
+        },
+        "8c50c81f9df1bb1d4bc5689f9a6e7204": {
+            "text": "Vrsta repeatera"
+        },
+        "cb1f0ec5795fd6ab9a2e980b428cfff5": {
+            "text": "Kada je 'pripojen' ('attached'), repeater \u0107e upravljati vlastitim predlo\u0161kom i nadre\u0111enom stranicom, a da to ne morate vidjeti ili razmi\u0161ljati o tome."
+        },
+        "e3d6af2ddc6a90779dd75a3f9c753d7f": {
+            "text": "Kada je 'odvojen' ('detached'), mo\u017eete premjestiti i modificirati nadre\u0111enu stranicu repeatera i predlo\u017eak kako vam odgovara."
+        },
+        "77e23d8e1ff8e93bfc6e188f62e409bd": {
+            "text": "Imajte na umu da kada se jednom odvoji, ProcessWire ne\u0107e izbrisati roditelj ili predlo\u017eak kada\/ako se polje izbri\u0161e."
+        },
+        "ee6e6bb07faa02ed6526f941bc76b535": {
+            "text": "Pohranjivanje repeatera"
+        },
+        "a9bc2694fa474ffcd7962d6f71a90f08": {
+            "text": "Koristiti manje stranica za pohranu?"
+        },
+        "4f0061e295e09ef19a1f549c23b04d0c": {
+            "text": "Kada je ozna\u010deno, roditelji stranice repeatera ne\u0107e biti kreirani dok ne postoji barem jedna podre\u0111ena stavka repeatera."
+        },
+        "80bb7f5b0c8adda2dbafd0c186d3d162": {
+            "text": "Osim toga, roditeljske stranice repeatera bez stavki ponavlja\u010da bit \u0107e uklonjene kada je to potrebno."
+        },
+        "ea27ba365637d101a399ee5ee91c95b3": {
+            "text": "Trenuta\u010dno eksperimentalna opcija za testiranje (lazyParents), ali \u0107e kasnije postati zadana."
+        },
+        "d99d7ccd3f9f6604af4c37a3368dcac3": {
+            "text": "Izbrisati %d nepotrebnih stranica?"
+        },
+        "fe38bd0bebd8cb2322a5fbced275bcc5": {
+            "text": "Prona\u0111ene su sljede\u0107e nepotrebne stranice:"
+        },
+        "847ec015263f8b4dc8f6065f6b7c3909": {
+            "text": "Prona\u0111eno %d nepotrebnih roditelja repeatera koji su ili imali 0 stavki repeatera ili nisu imali vlasni\u010dku stranicu."
+        },
+        "07077b028489c0f29f7433928bb27c32": {
+            "text": "Uvijek napravite sigurnosnu kopiju prije izvo\u0111enja masovnih brisanja."
+        },
+        "96508e17d64d763df5bc4f802b25e99b": {
+            "text": "Prona\u0111eno je %d nepotrebnih nadre\u0111enih stranica repeatera"
+        },
+        "8e281790c58e48326e41a303674aab12": {
+            "text": "Nisu prona\u0111ene nepotrebne stranice"
+        },
+        "57939466ad1ae6358cadab32c9b04c15": {
+            "text": "Dosegnut je maksimum od %d stavki po zahtjevu, ovo \u017eelite ponovo pokrenuti."
+        },
+        "88574909be3f083f32ba1fa6a0e4dcf1": {
+            "text": "Izbrisano %d nepotrebnih stranica"
+        },
+        "421b560a931ce0e4ec1b8018d0205b8e": {
+            "text": "Prona\u0111i i po potrebi izbri\u0161i nepotrebne stranice?"
+        },
+        "65f6a551619120fdc79329b66ab6c1fd": {
+            "text": "Izbrisati stare\/nekori\u0161tene repeatere?"
+        },
+        "9c539ab2317d7056d5d664b083557796": {
+            "text": "Postoji **%d** starih\/nekori\u0161tenih repeater stavki, ozna\u010dite ovaj okvir da biste ih izbrisali."
+        },
+        "2878ed508d1b136f7b170f593c0ff00f": {
+            "text": "Stavka ponavlja\u010da smatra se starom ako je stara najmanje 3 dana i jo\u0161 nije popunjena ili objavljena."
+        },
+        "c79558badd020f417f148d0a7751e6e4": {
+            "text": "Dodano polje \"%1$s\" u \"%2$s\""
+        },
+        "5222d983bada8088d0a86ac0ff1e5871": {
+            "text": "Uklonjeno polje \"%1$s\" iz \"%2$s\""
+        },
+        "27dafd7f7794d09bc001fc0acac8e1ad": {
+            "text": "Izbrisano %d starih\/nekori\u0161tenih repeater stavki"
+        },
+        "0fe1cc90d79ebfffb11a259cc05d406d": {
+            "text": "Nadre\u0111ena stranica %s sada je odvojena i mo\u017ee se premjestiti ili izmijeniti."
+        },
+        "678e17a04cd1c42a28cc8a9eff4f60c0": {
+            "text": "Repeater polja"
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/config.php",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--config-php",
+    "translations": {
+        "fefc3e3c3400216f77f0b3c6b12adfb7": {
+            "text": "Zna\u010dajke unosa"
+        },
+        "34ad9feb46d0ae8a8ab105230c7e5e1a": {
+            "text": "Zadani na\u010din rada grida slike"
+        },
+        "c53c009277b900e7292c4b49f07ddaec": {
+            "text": "U adminu, popis slika \u0107e se pojaviti u ovom na\u010dinu prema zadanim postavkama. Korisnik ga mo\u017ee promijeniti u bilo kojem trenutku klikom na ikone u gornjem desnom kutu polja."
+        },
+        "e6c7b90087278c53b5361182358a2d92": {
+            "text": "Ako ste nedavno koristili ovo polje za slike, morat \u0107ete izbrisati svoje kola\u010di\u0107e prije nego \u0161to vidite bilo kakve promjene ove postavke."
+        },
+        "a188c29fb8020eee47113073e366f78e": {
+            "text": "Slike kvadratnog grida"
+        },
+        "06d5ddb736061086ad90f364eca1c56d": {
+            "text": "Slike proporcionalnog grida"
+        },
+        "fa996d5ac4351e7e603f3ab1b9f77afe": {
+            "text": "Vertikalni popis (op\u0161irno)"
+        },
+        "e0f4085735da81540154c2c351147301": {
+            "text": "Odabir fokusne to\u010dke"
+        },
+        "f6a9e8b3977d98dd0e4b7b13720c858b": {
+            "text": "Omogu\u0107uje to\u010dku fokusa koja se mo\u017ee povla\u010diti za odabir predmeta slike. To poma\u017ee u stvaranju neproporcionalnih usjeva."
+        },
+        "17450a5a8844e5a36f3911d94bea2b72": {
+            "text": "Pregled to\u010dke fokusa tako\u0111er se prikazuje kada su slike u na\u010dinu rada \"Slike kvadratne mre\u017ee\"."
+        },
+        "470ede3fd1e5fcf4fca77d7fbf5df11a": {
+            "text": "Fokusna to\u010dka"
+        },
+        "2d07823e1de7d7eb6f09477f9070524f": {
+            "text": "To\u010dka fokusa i zumiranje"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Onemogu\u0107eno"
+        },
+        "84a327773a9172357f703ebdbb28680b": {
+            "text": "Maksimalne dimenzije slike"
+        },
+        "ef375d406da59811c42dc0f5a245dca3": {
+            "text": "Opcionalno unesite maksimalnu \u0161irinu i\/ili visinu u\u010ditanih slika. Ako je navedeno, slikama \u0107e se promijeniti veli\u010dina u vrijeme u\u010ditavanja kada prema\u0161e maksimalnu \u0161irinu ili visinu. Promjena veli\u010dine izvodi se u trenutku u\u010ditavanja i stoga ne utje\u010de na slike u sustavu ili slike dodane putem API-ja."
+        },
+        "16e3e850ce20fe9fa8340e6d27693f61": {
+            "text": "Primjenjuje se na JPG, PNG i GIF slike."
+        },
+        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
+            "text": "Unesite vrijednost u broju piksela ili ostavite prazno ako nema ograni\u010denja."
+        },
+        "e69ccb31941d2fd7923c6b0c01957db3": {
+            "text": "Maksimalna \u0161irina za u\u010ditane slike"
+        },
+        "c58e466902d0ff945d0677114e41682b": {
+            "text": "Maksimalna visina za u\u010ditane slike"
+        },
+        "9fdc5bac96032d0465aa6cc6543d1871": {
+            "text": "Kako promijeniti veli\u010dinu na maksimalne dimenzije"
+        },
+        "434352c2b6134b909827f386b3644f0f": {
+            "text": "Kori\u0161tenje promjene veli\u010dine na strani klijenta omogu\u0107uje vam smanjenje veli\u010dine i dimenzija datoteke prije u\u010ditavanja."
+        },
+        "c265ab5c0405e78595f05a15d5279278": {
+            "text": "Kada koristite promjenu veli\u010dine na strani klijenta, navedite maksimalnu \u0161irinu *i* maksimalnu visinu u gornjim poljima ili maksimalne megapiksele u polju ispod."
+        },
+        "edcf99dacdc6160d6eb8d2efb90ee189": {
+            "text": "Koristite promjenu veli\u010dine na strani klijenta kada je to mogu\u0107e"
+        },
+        "4421a363b922af1808ae2b258c9d11bb": {
+            "text": "Koristite samo promjenu veli\u010dine na strani poslu\u017eitelja"
+        },
+        "41d833b452340b52caa65fdcfe181945": {
+            "text": "Maks. megapiksela za u\u010ditane slike"
+        },
+        "86d448ef6f037ce16fc358a22921c45c": {
+            "text": "Ovo se mo\u017ee koristiti kao alternativa maksimalnoj \u0161irini\/visini. Navedite vrijednost s pomi\u010dnim zarezom."
+        },
+        "bd035d6e1aa04d38e61f36c27150e39d": {
+            "text": "Primjenjivo samo na promjenu veli\u010dine na strani klijenta."
+        },
+        "fe64c68c1aa30e687be4aa011b33f15f": {
+            "text": "Dobra vrijednost za web stranice je 1,7 \u0161to je otprilike 1600x1000 piksela, gdje 1600 i 1000 mogu biti ili \u0161irina ili visina."
+        },
+        "c719e0f0e40f5193e0bbe6f9afc408e5": {
+            "text": "Ostali primjeri:"
+        },
+        "a29b9e543bb7bc0f4b7e2c04d0a1c820": {
+            "text": "Postotak kvalitete promjene veli\u010dine na strani klijenta za JPEG"
+        },
+        "ab00b0c8eb852647eee9553c75a100fe": {
+            "text": "Navedite broj izme\u0111u 10 (najni\u017ea kvaliteta\/najmanja veli\u010dina datoteke) i 100 (najvi\u0161a kvaliteta\/najve\u0107a veli\u010dina datoteke). Zadano je 90."
+        },
+        "dffe78c5f55b8a4187b91c40a03cf904": {
+            "text": "Odbiti slike koje prelaze maksimalne dimenzije?"
+        },
+        "aa09d92fbba4044af814b7504798dec3": {
+            "text": "Ako je ozna\u010deno, slike koje prema\u0161uju maksimalnu \u0161irinu\/visinu (\u010diju veli\u010dinu nije mogu\u0107e promijeniti na strani klijenta) bit \u0107e odbijene umjesto promjene veli\u010dine."
+        },
+        "2d77facadb02370d5dd7c076b5afbee7": {
+            "text": "Minimalne dimenzije slike"
+        },
+        "a195023920e6ece61b6211755c9af27f": {
+            "text": "Opcionalno unesite minimalnu \u0161irinu i\/ili visinu u\u010ditanih slika. Ako je navedeno, slike koje ne zadovoljavaju te minimume bit \u0107e odbijene."
+        },
+        "d704e5da0e9e4ca2aa3e04201575f44c": {
+            "text": "Min. \u0161irina za u\u010ditane slike"
+        },
+        "b477617de997199bdd26761085aea486": {
+            "text": "Min. visina za u\u010ditane slike"
+        },
+        "a39e1de5e7b995d90322ab7d047428bc": {
+            "text": "Zamijeniti minimalne\/maksimalne dimenzije za portretne slike?"
+        },
+        "7f3d934927a1c106f5191c01b36c7766": {
+            "text": "Ako je ozna\u010deno, minimalne dimenzije \u0161irine\/visine i maksimalne \u0161irine\/visine bit \u0107e zamijenjene za portretne slike kako bi se prilagodile razli\u010ditim omjerima \u0161irine i visine."
+        },
+        "98ebe60c452735dc2ef2249c835eddfe": {
+            "text": "Primjenjuje se samo na promjene veli\u010dine na strani poslu\u017eitelja."
+        }
+    }
+}

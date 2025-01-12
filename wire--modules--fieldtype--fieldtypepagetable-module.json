@@ -1,0 +1,72 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePageTable.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepagetable-module",
+    "translations": {
+        "56d29e2358c489ca2ba085412d22b543": {
+            "text": "Odaberite jedan ili vi\u0161e predlo\u017eaka za stavke"
+        },
+        "23eb7651d596fbeec11e64a6c67925d9": {
+            "text": "Ovo su predlo\u0161ci koje \u0107e koristiti stranice kojima se upravlja iz ovog polja. Mo\u017eda \u0107ete htjeti izraditi novi predlo\u017eak specifi\u010dan za potrebe ovog polja."
+        },
+        "cc338cc1f9035c657183288e8a8679c4": {
+            "text": "Pritisnite Spremi nakon odabira predlo\u0161ka i preostala konfiguracija na kartici Unos sadr\u017eavat \u0107e vi\u0161e konteksta."
+        },
+        "280bdbf9e514764e2b558c5a45b03ba3": {
+            "text": "Odaberite nadre\u0111enu stavku"
+        },
+        "0aa782b2995bb478abdc16ebbb4a3e12": {
+            "text": "Sve stavke stvorene i kojima se upravlja iz ovog polja bit \u0107e pod nadre\u0111enom osobom koju odaberete ovdje."
+        },
+        "5243227b5f4a58e7cc1be6b30f4bbce8": {
+            "text": "Ako nijedan roditelj nije odabran, tada \u0107e stavke biti postavljene kao djeca stranice koja se ure\u0111uje."
+        },
+        "7a25f2fb1df8b415ae376a1bc744ddc1": {
+            "text": "Pona\u0161anje stranice"
+        },
+        "f80a4ad87fee7c9fdc19b7769495fdb5": {
+            "text": "Ni\u0161ta"
+        },
+        "4cfd1fcdeecdd1e6acb46393d787316c": {
+            "text": "Baci ih u sme\u0107e"
+        },
+        "6ac9a034dc3a8b4cf5a3902d2b7755d4": {
+            "text": "Obri\u0161i ih"
+        },
+        "eb2f5e1930872f2aed78a2ffca4af260": {
+            "text": "Poni\u0161ti njihovu objavu"
+        },
+        "8840e48a3c2b71738f5a52d5ae1e084f": {
+            "text": "Sakrij ih"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Obri\u0161i"
+        },
+        "88ab1471027561ff02fc8cfbd073ebc2": {
+            "text": "\u0160to bi se trebalo dogoditi sa stavkama \"%s\" kada se stranica koja ih sadr\u017ei trajno izbri\u0161e?"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Sme\u0107e"
+        },
+        "bdea0eb389c61e57930d661c74b21423": {
+            "text": "\u0160to bi se trebalo dogoditi sa stavkama \"%s\" kada se stranica koja ih sadr\u017ei prebaci u sme\u0107e?"
+        },
+        "181e9a13059454fb2212f1bf10f394ac": {
+            "text": "Poni\u0161ti objavu"
+        },
+        "22b094a7d09fdb1839dbfe384a0f4fac": {
+            "text": "\u0160to bi se trebalo dogoditi sa stavkama \"%s\" kada stranica koja ih sadr\u017ei nije objavljena?"
+        },
+        "113931420c7a2560f63fcd9af198df3f": {
+            "text": "Sortiraj polja"
+        },
+        "b72b1e7470d1bbec8cb9ae2eb8843131": {
+            "text": "Unesite naziv polja po kojem \u017eelite sortirati tablicu. Za silazno sortiranje ispred naziva polja stavite crticu, tj. \"-datum\" umjesto \"datum\"."
+        },
+        "bad3d943c1f7443d2205de6edd995d6e": {
+            "text": "Mo\u017eete navesti vi\u0161e polja za sortiranje tako da svako odvojite zarezom, npr. \"last_name, first_name, -birthday\"."
+        },
+        "8198f788c0d53d819605c0dcdfdfe413": {
+            "text": "Ostavite ovo prazno za ru\u010dno razvrstavanje povuci i ispusti (zadano)."
+        }
+    }
+}

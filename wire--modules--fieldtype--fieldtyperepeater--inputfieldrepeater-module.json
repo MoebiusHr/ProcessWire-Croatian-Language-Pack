@@ -1,0 +1,93 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/InputfieldRepeater.module",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--inputfieldrepeater-module",
+    "translations": {
+        "7264d8c26ac9671a31cd3eb3ddd4a447": {
+            "text": "Ova \u0107e se stavka mo\u0107i ure\u0111ivati \u200b\u200bnakon \u0161to spremite."
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "Novo"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Obri\u0161i"
+        },
+        "6b46ae48421828d9973deec5fa9aa0c3": {
+            "text": "sortiraj"
+        },
+        "675056ad1441b6375b2c5abd48c27ef1": {
+            "text": "Dubina"
+        },
+        "4ee8d3067ffde7991e2c009f775ceb75": {
+            "text": "Upozorenje: koristit \u0107e se samo prvih %d stavki."
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Dodaj novo"
+        },
+        "36bb6559696dc9124986ae120515984f": {
+            "text": "Zalijepi"
+        },
+        "44a3084a1ce251fb76ba7fe540a18863": {
+            "text": "Ova radnja je onemogu\u0107ena po minimalnim i\/ili maksimalnim postavkama stavke."
+        },
+        "be3fb8f18ddcd8f47b92e020f1474b1b": {
+            "text": "Gre\u0161ke u \u201c%s\u201d stavci %d"
+        },
+        "25c63396ad92c7bbb48fa4aa21adc5e4": {
+            "text": "Ponavlja polja iz drugog predlo\u0161ka. Omogu\u0107uje unos za FieldtypeRepeater."
+        },
+        "84b9f1e68847c185ca36db3bc2f8de18": {
+            "text": "Kliknite za brisanje ove stavke ili dvokliknite za brisanje svih"
+        },
+        "9a04ad51e71ca7e14841c880abe89a44": {
+            "text": "Izbrisati sve stavke?"
+        },
+        "485c9b5a61ede20a8ccc332f120da1f9": {
+            "text": "Kliknite za uklju\u010divanje\/isklju\u010divanje stavke ili dvaput kliknite za otvaranje\/sa\u017eimanje svih stavki"
+        },
+        "b08aa2661c47b855f0d19241bbcd533d": {
+            "text": "Radnje kloniranja\/kopiranja\/lijepljenja"
+        },
+        "2ca001ee3992ee08c53099d65cbde4eb": {
+            "text": "Prika\u017ei postavke?"
+        },
+        "b5fab487adaf66b676d31b8fd16af85b": {
+            "text": "Otvoriti sve stavke?"
+        },
+        "d7280b1cbbae6481f050a9184b8fa445": {
+            "text": "Sa\u017emi sve stavke?"
+        },
+        "28deaa9cdfe4f45e2a939dc59571818f": {
+            "text": "Umetni novu stavku prije ove"
+        },
+        "393953d8fb0ef2812c824d0289a6374f": {
+            "text": "Umetni novu stavku nakon ove"
+        },
+        "202f13dbe40c7bc01cc962912fdd9947": {
+            "text": "Ovdje unesite novu stavku"
+        },
+        "2020359603b0f865a5403d499d17cd63": {
+            "text": "Odaberite radnju za ovu stavku"
+        },
+        "12f7a820373a9eaf83b664efcd81cf5b": {
+            "text": "KOPIRAJTE ovu stavku u memoriju da je zalijepite negdje drugdje"
+        },
+        "f56fa1882f668e5cd2b2eedcc372a4cc": {
+            "text": "Stavka u memoriji za kopiranje\/lijepljenje"
+        },
+        "1be669e51975cbb293eb0f681a8231f2": {
+            "text": "KLONIRAJTE ovu stavku i umetni IZNAD ovoga"
+        },
+        "e99d82e0ea1ce2a652c0f37bd32535dc": {
+            "text": "KLONIRAJTE ovu stavku i ubaci ISPOD ovoga"
+        },
+        "644415464da017bcc4ee5387c90f98b6": {
+            "text": "ZALJEPITE kopiranu stavku IZNAD ovoga"
+        },
+        "36e5afb31c8d93603a1f4a38ae05c342": {
+            "text": "ZALJEPITE kopiranu stavku ISPOD ovoga"
+        },
+        "b374d8e1bbf5987f273d3e5c49b1086b": {
+            "text": "O\u010cISTITE memoriju za kopiranje\/lijepljenje"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "file": "wire\/core\/Tfa.php",
+    "textdomain": "wire--core--tfa-php",
+    "translations": {
+        "c8cf6eea8f096ed51160b484d97c5bbd": {
+            "text": "OMOGU\u0106ENO"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Odustani"
+        },
+        "f9be528468706e84485c5baa7f553fb9": {
+            "text": "Molimo konfigurirati"
+        },
+        "3b4101362473ebcc69709f89fb96660b": {
+            "text": "Omogu\u0107ena dvostruka provjera autenti\u010dnosti!"
+        },
+        "6e7655b2bfff79f61f88c1d0b503ff48": {
+            "text": "Da biste onemogu\u0107ili ili promijenili postavke, odaberite gornju opciju \"Ni\u0161ta\" i spremite."
+        },
+        "8ced11807059756862f53c217354b63a": {
+            "text": "Istekao k\u00f4d"
+        },
+        "e9b342b9b4fa34f406761f626823a71b": {
+            "text": "Vrsta provjere autenti\u010dnosti u 2 faktora"
+        },
+        "90d6f81578cb44ed4be183c66d52c7f9": {
+            "text": "Nakon \u0161to napravite ili promijenite odabir, po\u0161aljite obrazac i vratite se ovdje kako biste ga konfigurirali."
+        },
+        "80a295c9fe7bed66295f4d8c1b52e110": {
+            "text": "Autentifikacijski kod"
+        },
+        "e4282a24d0473bcf155064341f71e92b": {
+            "text": "Neispravan kod"
+        },
+        "659bdd9c46c5d70535873ddb56cafd06": {
+            "text": "Dostignut je najve\u0107i broj poku\u0161aja"
+        },
+        "e8b4a77d06cf81dc696a4a31e6a46ae2": {
+            "text": "Obri\u0161ite zapam\u0107ene preglednike koji preska\u010du unos autentifikacijskog koda"
+        },
+        "f8b67530ae39d240111ec69291985123": {
+            "text": "Izbrisani zapam\u0107eni preglednici"
+        },
+        "02737b9a82aa8e3b6e9090dcdbcd2431": {
+            "text": "Zapamtite ovo ra\u010dunalo?"
+        },
+        "4e74313cb658d8e75c33cc16caa0b078": {
+            "text": "Ovo ra\u010dunalo\/preglednik sada se pamti do %d dana."
+        },
+        "5e54e7c01119f2724ce0acbd4c8f6ed3": {
+            "text": "Promjene preglednika i\/ili lokacije mogu zahtijevati novi kod."
+        },
+        "287f75369eba76b6634a6cdf2f1cb915": {
+            "text": "Kod nije bio potreban jer je preglednik prepoznat iz prethodne prijave."
+        },
+        "cbb29c6546b8bc6d75f7601de9fbf02b": {
+            "text": "Pogre\u0161ka pri izradi ili slanju koda za provjeru autenti\u010dnosti"
+        },
+        "fcb94183c23245426ccf40bd6d531c69": {
+            "text": "Dosegnuto vremensko ograni\u010denje"
+        },
+        "2f8ed7fafd3c1784a3be4da8eb3d106a": {
+            "text": "..."
+        }
+    }
+}

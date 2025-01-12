@@ -1,0 +1,48 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeURL.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeurl-module",
+    "translations": {
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Da"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Ne"
+        },
+        "b38bb5008cd8427aae4e9a8612183a6f": {
+            "text": "Za polja URL-a preporu\u010duje se formatiranje teksta \"HTML Entity Encoder\"."
+        },
+        "7a51839f06248c613d3b07007f4fc05d": {
+            "text": "Ako \u0107e se ovaj URL koristiti za bilo koji izlaz, toplo se preporu\u010duje da odaberete \"HTML Entity Encoder\" za \"Text Formatters\" na kartici Detalji."
+        },
+        "ab86e8efb5aa46bdab329fa44f7125fc": {
+            "text": "Dopustiti relativne\/lokalne URL-ove bez \"http:\/\/\" na po\u010detku?"
+        },
+        "d1280d091f34a15c77f4145110d7f94d": {
+            "text": "Lokalni\/relativni URL-ovi su oni bez sheme i domene."
+        },
+        "00b2e08d975238a3563e783aa19811fd": {
+            "text": "Dopustiti internacionalizirane nazive domena (IDN-ove)?"
+        },
+        "05e7ec04e65f559e191ad8a7c4a02b03": {
+            "text": "Kada je omogu\u0107eno, dopu\u0161teni su nazivi domena koji nisu ASCII."
+        },
+        "e8e4b5ed6eb1c0a268c7587be6ca66e7": {
+            "text": "Dopustiti jednostruke\/dvostruke navodnike u URL-ovima?"
+        },
+        "1b6f57a9eab52d70bc2fff5321da54fb": {
+            "text": "Kada je omogu\u0107eno, trebali biste biti apsolutno sigurni da su takvi URL-ovi entitetski kodirani kada se koriste u ozna\u010davanju."
+        },
+        "c4c54678f0d612f89caacaab99768f81": {
+            "text": "Dodati korijensku stazu web-lokacije ispred lokalnih\/relativnih URL-ova?"
+        },
+        "9d6ce819c098e5c4a7b3464cadbd028a": {
+            "text": "Ova \u0107e opcija automatski dodati korijenski put web-mjesta ispred svih URL-ova koji po\u010dinju kosom crtom, poput \/some\/path\/. Ovo je korisno ako va\u0161a web lokacija radi iz poddirektorija jer ne\u0107ete morati uklju\u010diti taj poddirektorij u URL-ove koje unesete u ovo polje. Ako kasnije premjestite svoje web mjesto u korijen domene (ili neki drugi poddirektorij), ne\u0107ete morati brinuti o krivim URL-ovima. Kad je ova opcija omogu\u0107ena, uvijek unesite URL-ove kao da se web-mjesto pokre\u0107e iz korijena domene, bez obzira pokre\u0107e li se iz poddirektorija ili ne. Naravno, ovo je primjenjivo samo ako ste odabrali 'Da' za dopu\u0161tanje lokalnih\/relativnih URL-ova u gornjem polju. Programeri tako\u0111er mogu imati na umu da se ova opcija primjenjuje samo kada je izlazno formatiranje stranice uklju\u010deno."
+        },
+        "ae91f58b191e424e0eaf9022fd5407e9": {
+            "text": "Osigurava da se URL-ovi ne pokvare prilikom premje\u0161tanja stranice iz poddirektorija u korijen (naj\u010de\u0161\u0107i primjer)."
+        },
+        "0ac82d10c1ddd050079962481c40f54f": {
+            "text": "Polje koje pohranjuje URL"
+        }
+    }
+}

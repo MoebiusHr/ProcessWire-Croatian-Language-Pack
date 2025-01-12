@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageTabs.module",
+    "textdomain": "wire--modules--languagesupport--languagetabs-module",
+    "translations": {
+        "4ee6b922de4a3b1d79036b200520ee37": {
+            "text": "Pro\u0161irite kartice jezika"
+        },
+        "c667865dc18e9366c835d279c3192aea": {
+            "text": "Sa\u017emi\/pretvori natrag u kartice"
+        },
+        "f69430a321cf6f1a6f0ab31192d94fd2": {
+            "text": "kliknite dva puta za promjenu svih kartica"
+        },
+        "72f18bd929af0ac260805811117b85e9": {
+            "text": "Polje koje se koristi za oznake kartica"
+        }
+    }
+}

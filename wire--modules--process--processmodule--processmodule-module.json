@@ -1,0 +1,525 @@
+{
+    "file": "wire\/modules\/Process\/ProcessModule\/ProcessModule.module",
+    "textdomain": "wire--modules--process--processmodule--processmodule-module",
+    "translations": {
+        "89f479678076a540904291ac97e7b29c": {
+            "text": "Napomena"
+        },
+        "801ab24683a4a8c433c6eb40c48bcd9d": {
+            "text": "Preuzimanje"
+        },
+        "c83047e52e84102cde2e46c99f5f2fa5": {
+            "text": "Preuzimanje i instalacija"
+        },
+        "43e59b407ace3714a7913e09ad22a594": {
+            "text": "Dohvati informacije o modulu"
+        },
+        "bf17ac149e2e7a530c677e9bd51d3fd2": {
+            "text": "Moduli"
+        },
+        "3c6392d21eded83348fcd9ba6fbf3784": {
+            "text": "Preuzmi sada"
+        },
+        "fadeae979278b23b0c0245fe143813ca": {
+            "text": "Dodaj modul iz direktorija"
+        },
+        "9508427b7e6579d141f8c3b79dae6d96": {
+            "text": "Dodaj modul manualno"
+        },
+        "a97f194fe643428c6e0e5b1d3ea79dbd": {
+            "text": "Dodaj modul iz uploada"
+        },
+        "5e3f8e6adc33178f32cc7beb6ad19072": {
+            "text": "Dodaj modul preko URL-a"
+        },
+        "cc3acbc843dd28f892ae2c9c1211b4cb": {
+            "text": "Provjerite nove module"
+        },
+        "98dd43dfae05b11befe1f140e0ec787a": {
+            "text": "instalirano"
+        },
+        "63a6a88c066880c5ac42394a22803ca6": {
+            "text": "Osvje\u017ei"
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Konfiguriraj"
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Instaliraj"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Odustani"
+        },
+        "418cab01f270b56053a218c414840ec9": {
+            "text": "Preuzmi i a\u017euriraj"
+        },
+        "b14c50cfbdf80ffa1e494282c306a467": {
+            "text": "Instaliraj modul"
+        },
+        "4516572c6fda0d98d0668aecc205fd25": {
+            "text": "Gre\u0161ka pri instaliranju modula"
+        },
+        "ea90a0c1864c51f82f862a6850c13951": {
+            "text": "Izbrisane datoteke modula"
+        },
+        "75a1550235c0efb5d9dedd5f02f1fe86": {
+            "text": "Izbrisana je predmemorija prevoditelja datoteka (\"compiler cache\")"
+        },
+        "883368e39a6dfd38bba57a0d881c87df": {
+            "text": "Predmemorija modula osvje\u017eena (%d modula)"
+        },
+        "fdbd482a575730a7abb63cdbf62a0f6c": {
+            "text": "Modul \"%s\" ima vi\u0161e datoteka (podebljana datoteka je ona koja se koristi)."
+        },
+        "458268ddfe6f3ace67044ba7f55c7079": {
+            "text": "Kliknite ovdje za promjenu datoteke koja se koristi"
+        },
+        "0e1b7d725ac07f97cf9181f6cea25cf5": {
+            "text": "O\u010disti kompilirane datoteke"
+        },
+        "9c67d775a708bbc2a042f878e78cfe2c": {
+            "text": "\/site\/modules\/ - Moduli specifi\u010dni za va\u0161e web mjesto"
+        },
+        "19d1a8e075651f072ba0771e6cbc831b": {
+            "text": "Pregledajte direktorij modula na %s"
+        },
+        "326051e869bfb9785613fcb1e957a71e": {
+            "text": "Da biste uklonili modul, kliknite modul za ure\u0111ivanje, potvrdite okvir Deinstaliraj, a zatim spremite. Nakon deinstalacije, datoteke modula mogu se ukloniti s \/site\/modules\/. Ako se i dalje pojavljuje na gornjem popisu, mo\u017eda \u0107ete morati kliknuti gumb Osvje\u017ei da bi ProcessWire vidio promjenu."
+        },
+        "496fe18d4a1185b1236724440ed4ade6": {
+            "text": "Gumb ispod bri\u0161e kompajlirane module web-mjesta i datoteke predlo\u017eaka, prisiljavaju\u0107i ih da se ponovno kompajliraju sljede\u0107i put kada im se pristupi. Imajte na umu da to mo\u017ee uzrokovati privremenu odgodu za jedan ili vi\u0161e zahtjeva dok se datoteke ponovno kompajliraju."
+        },
+        "401aeb1b99895a172d78edfa183114e7": {
+            "text": "\/wire\/modules\/ - Moduli uklju\u010deni u jezgru ProcessWire"
+        },
+        "385accc7e6612e8dba4e99f22b6876b1": {
+            "text": "Moduli koji imaju mogu\u0107nosti konfiguracije"
+        },
+        "8c3466d7f1cc1dc4c01a040fe64573d5": {
+            "text": "Moduli na datote\u010dnom sustavu koji trenutno nisu instalirani"
+        },
+        "f464b54239700029744e7426935c782b": {
+            "text": "Nedostaju datoteke modula u: %s"
+        },
+        "2aee0be2678ee90fd327cc186826438e": {
+            "text": "Nedostaju"
+        },
+        "95044757c9e0df8925fe4a63a324d3d8": {
+            "text": "Moduli u bazi podataka koji se ne nalaze u datote\u010dnom sustavu. Kliknite bilo koji naziv modula u nastavku za opcije za popravak."
+        },
+        "03c2e7e41ffc181a4e84080b4710e81e": {
+            "text": "Novo"
+        },
+        "94e84ea867143991751f06bad2b5da30": {
+            "text": "U posljednjih sat vremena"
+        },
+        "a0d5ca48d2aafbe0c044daeedc4ca0e5": {
+            "text": "Unutar zadnjeg dana"
+        },
+        "dc52e914c681bc112d4a36ed38e37299": {
+            "text": "Unutar pro\u0161log tjedna"
+        },
+        "12db5f4485378bd2b028b8f67a61533e": {
+            "text": "Unutar pro\u0161log mjeseca"
+        },
+        "21f29ba58fe9059dae498577efb26435": {
+            "text": "Nedavno prona\u0111eni i instalirani moduli"
+        },
+        "0900a3f6adfa931e0130c02c436e7e7f": {
+            "text": "Naziv klase modula"
+        },
+        "bb767ff00426d9e68c6a09aef27403b1": {
+            "text": "Mo\u017eete pregledavati direktorij modula i locirati modul koji \u017eelite preuzeti i instalirati."
+        },
+        "a2eff7125bf22d0665eb96166b471821": {
+            "text": "Upi\u0161ite ili zalijepite naziv klase za modul koji \u017eelite instalirati, zatim kliknite gumb \u201c%s\u201d za nastavak."
+        },
+        "5e836e5f23db2e182bbf94e2c151afd7": {
+            "text": "Direktorij modula nalazi se na %s"
+        },
+        "dc975a9e6b0112228c42a6abbe82ae93": {
+            "text": "Budite apsolutno sigurni da vjerujete izvoru ZIP datoteke."
+        },
+        "d5f38db4e3d76c9a7cda57c660ac0dad": {
+            "text": "URL ZIP datoteke modula"
+        },
+        "29b21610722fa13430132a8d4e757d1f": {
+            "text": "Preuzmite ZIP datoteku koja sadr\u017ei modul. Ako preuzmete modul koji je ve\u0107 instaliran, instalirana verzija bit \u0107e prebrisana novom preuzetom verzijom."
+        },
+        "e7aef889dd1b168dc269e9ddff6a57a5": {
+            "text": "ZIP datoteka modula"
+        },
+        "6010e3962902142283df28e6d1a1d897": {
+            "text": "U\u010ditajte ZIP datoteku koja sadr\u017ei datoteke modula. Ako u\u010ditate modul koji je ve\u0107 instaliran, bit \u0107e prebrisan onim koji ste u\u010ditali."
+        },
+        "35d7f630296905e9a75b2419e1b94182": {
+            "text": "1. Kopirajte datoteke modula u novi direktorij %s na poslu\u017eitelju."
+        },
+        "f7cc8104813457b0243bd76df9c6a3e6": {
+            "text": "2. Pritisnite gumb \u201c%s\u201d ispod, koji \u0107e prona\u0107i novi modul."
+        },
+        "850f7ec6c49d2fb734785a8f52ad4a0e": {
+            "text": "3. Prona\u0111ite i kliknite gumb \u201c%s\u201d pokraj novog modula."
+        },
+        "aad2eb78d1969fc8b53488a5f5a054ba": {
+            "text": "Zamijenite \u201c%s\u201d stvarnim nazivom modula, koji je obi\u010dno naziv njegove PHP klase."
+        },
+        "5975f55a2bcd254c58d9fe16d7a21417": {
+            "text": "Ako ste sami postavili nove module u \/site\/modules\/, kliknite ovaj gumb da biste ih prona\u0161li."
+        },
+        "56f298ec43e271496dd37302c5f2d023": {
+            "text": "Nisu prona\u0111eni novi moduli"
+        },
+        "230420a05edcb2323c858d6c410d93cf": {
+            "text": "Nema prona\u0111enih modula."
+        },
+        "fe7c3111443178661e69b4b83f04bdfd": {
+            "text": "Neva\u017ee\u0107i naziv modula: \u201c%s\u201d"
+        },
+        "ca400fb4206c743189c906d352bd4830": {
+            "text": "Koristite velika slova [A-Z] za prvi znak, mala slova [a-z] za drugi znak i [a-z A-Z 0-9] za ostatak."
+        },
+        "4b0877a5e7f5ee4cc39e6fdfc4cd00dd": {
+            "text": "Na primjer: \u201c%s\u201d"
+        },
+        "addec426932e71323700afa1911f8f1c": {
+            "text": "vi\u0161e"
+        },
+        "0d17be96c4c0a8f101dcaa0ce9c5ee7d": {
+            "text": "Obri\u0161i %s?"
+        },
+        "f83f6b012ba134e5168ab27e4587b2d3": {
+            "text": "Zahtjevi modula nisu ispunjeni pa instalacija mo\u017ee uzrokovati probleme. Jeste li sigurni da \u017eelite instalirati?"
+        },
+        "744cbb13a2d60fe8be0889a49e0bee00": {
+            "text": "Klasa modula mora implementirati su\u010delje \u201cProcessWire\\Module\u201d."
+        },
+        "b9c21fa0192c783c8c3d3c48cd251f6c": {
+            "text": "Prona\u0111en novi modul"
+        },
+        "5d695cc28c6a7ea955162fbdd0ae42b9": {
+            "text": "Prona\u0111eno"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Prika\u017ei sve"
+        },
+        "8395847485c9a34007295da6a4f9d4cf": {
+            "text": "Gre\u0161ka pri dohva\u0107anju podataka s URL-a web usluge"
+        },
+        "f629d0ec5b19860b76ae88da3ea10273": {
+            "text": "Gre\u0161ka pri dekodiranju JSON-a s web-servisa"
+        },
+        "8d68afb831b95c0dc23e1457385a983c": {
+            "text": "Gre\u0161ku prijavila web usluga:"
+        },
+        "d21a932cf85cfc399d6410838ece9e9c": {
+            "text": "Na\u017ealost, moduli tipa \"%s\" ne mogu se instalirati od strane administratora."
+        },
+        "2b0c95ea68acdfcd4e4d995f89bf3b92": {
+            "text": "Ovaj modul ne ozna\u010dava kompatibilnost s ovom verzijom ProcessWire. Mo\u017eda i dalje radi, ali mo\u017eda biste trebali provjeriti s autorom modula."
+        },
+        "5259630c836d951d40cd2771922dfb5e": {
+            "text": "Trenutna instalirana verzija ve\u0107 je a\u017eurirana"
+        },
+        "356025c686f0f84759d1762a071903ad": {
+            "text": "A\u017euriranje ovog modula je dostupno!"
+        },
+        "822213aa38da92d8819e5c3b4ebe4c71": {
+            "text": "stariji od onog koji ve\u0107 imate instaliran!"
+        },
+        "18206c5add24b8898426959c811b779b": {
+            "text": "Vi\u0161e informacija"
+        },
+        "eac35422501988079c78c4da694468ff": {
+            "text": "Stranica projekta"
+        },
+        "49ec9b5c06ace9e448b8c7901304c036": {
+            "text": "Stranica za podr\u0161ku"
+        },
+        "baa2c21bbd137636014e8f357698761e": {
+            "text": "Prije nastavka provjerite vjerujete li izvoru gornje ZIP datoteke!"
+        },
+        "2d30ce478ce5e77c288d80f804617331": {
+            "text": "Ovaj modul nema naveden URL za preuzimanje i mora se instalirati ru\u010dno."
+        },
+        "013ba726c842150ec33822c5a6fc6196": {
+            "text": "Preuzimanje otkazano"
+        },
+        "67f02952b064d6064216f2639a516eca": {
+            "text": "Zahtijeva modul \"%s\" prije nego \u0161to se mo\u017ee instalirati"
+        },
+        "321a272463ceb9661e0951f1e3b639d5": {
+            "text": "Preuzeto:"
+        },
+        "206fdb3626f498af4b830cbf6c2efc0a": {
+            "text": "%s je sprman za instalaciju"
+        },
+        "5edb0eb1006e6be6d4cd5609357b4bb3": {
+            "text": "Instaliraj sada"
+        },
+        "bfaf55307f89bbad2f781f3ea25fae91": {
+            "text": "Ostavi neinstalirano"
+        },
+        "bb8985c9a93d30135e0a662d77228e87": {
+            "text": "A\u017eurirano:"
+        },
+        "5bee92e129673eefc19da149e2b58f15": {
+            "text": "%s je uspje\u0161no a\u017euriran."
+        },
+        "292287e744d21b09f577b3228ef5ce77": {
+            "text": "Nastavite na postavke modula"
+        },
+        "4ca1ee2e55f304b56891e55fc0ff7844": {
+            "text": "Nije naveden modul"
+        },
+        "6b658422a653aec6309a2e82dab97431": {
+            "text": "Informacije o modulu %s"
+        },
+        "77abd48d0a4b2599252746283cf415bd": {
+            "text": "Informacije o modulu"
+        },
+        "a2c1d1243d90b2513936d42ad566ac16": {
+            "text": "(regularno)"
+        },
+        "ed1c9d7b961f93beba3c196821a7f26e": {
+            "text": "(op\u0161irno)"
+        },
+        "e48e0e0aeb991df7402dc118d2567c9b": {
+            "text": "Ovi podaci dolaze iz modula ili se utvr\u0111uju tijekom izvo\u0111enja, pa ih ovdje nije mogu\u0107e ure\u0111ivati."
+        },
+        "8c0375d91ede4cf009a02a855d5b5f79": {
+            "text": "%s neobra\u0111enih konfiguracijskih podataka"
+        },
+        "baa3355dc6e921ef113ec3a5aed662e0": {
+            "text": "Ovaj modul nema podatke o konfiguraciji"
+        },
+        "490f8475055b941d956558bdd4184b1f": {
+            "text": "ne uklanjaj ovo"
+        },
+        "1e99d98a261b2989a7bb70ac5dfeece1": {
+            "text": "Konfiguracija modula (raw\/JSON)"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Snimi"
+        },
+        "b662bf6fb6b77c6d4fc74b1445ea2362": {
+            "text": "Nije mogu\u0107e spremiti jer se JSON nije mogao analizirati (neva\u017ee\u0107i JSON)"
+        },
+        "5f8e05386fa3c540298134279669bd25": {
+            "text": "Nije mogu\u0107e spremiti jer JSON nije prepoznat kao va\u017ee\u0107i za modul"
+        },
+        "fcb02bc2c95c6a16020b5ba42bc7f8f4": {
+            "text": "A\u017eurirani podaci o konfiguraciji modula"
+        },
+        "40fe8d33d2cf8c5f10422b0b229dbcc4": {
+            "text": "Nisu otkrivene promjene"
+        },
+        "7c5ba2ccfa62e3851cd8896260765e58": {
+            "text": "Nepoznati modul"
+        },
+        "fb61fc284cf893013b55de02da9c9948": {
+            "text": "Modul: %s"
+        },
+        "30d23c0f67dc47f239879658b08c371a": {
+            "text": "Datoteka modula za kori\u0161tenje"
+        },
+        "fc93b2cc57529c815c8810364ec885ea": {
+            "text": "Postoji vi\u0161e kopija ovog modula. Odaberite datoteku modula koju \u017eelite koristiti."
+        },
+        "e45037779e7b459b4ea29944f1b2ef5c": {
+            "text": "Deinstalirati ovaj modul? Nakon deinstalacije, mo\u017eete ukloniti datoteke modula s poslu\u017eitelja ako ga ne koriste drugi moduli."
+        },
+        "a0ab914bff40f68598d99e99d39d859c": {
+            "text": "Ovo \u0107e tako\u0111er deinstalirati druge module"
+        },
+        "1f698ebf835d58ef66a38c20e1496fa2": {
+            "text": "(onemogu\u0107eno)"
+        },
+        "c19eca215de858fb52f1067064dc4bba": {
+            "text": "Modul nije mogu\u0107e deinstalirati"
+        },
+        "7c4ba7a5c907fd803087ccd0da925c45": {
+            "text": "Prvo morate deinstalirati ostale module"
+        },
+        "4cd91aa9e2204807c18ccb578305c357": {
+            "text": "datoteka modula nije prona\u0111ena"
+        },
+        "608c857d1ec057cf85a2776ae9d2e0f1": {
+            "text": "Modul \u201c%s\u201d postoji u bazi podataka, ali ne i u datote\u010dnom sustavu."
+        },
+        "3f7ac7b9e02123a6f7ad6b0a30d22b6d": {
+            "text": "Razmotrite postavljanje datoteka modula u %s ili uklanjanje modula iz baze podataka."
+        },
+        "5726ea1babd2fd38df90eb9181ccc652": {
+            "text": "Ukloniti ovaj modul iz baze podataka?"
+        },
+        "16e56a7f64aa21e73cf55bd8a6334cf8": {
+            "text": "%s + Izlaz"
+        },
+        "c6ac99bad720428d69928c160e87c55e": {
+            "text": "Ovaj modul nema polja za konfiguriranje"
+        },
+        "aadb23a524b84262538be0a416d5868f": {
+            "text": "Deinstaliran modul"
+        },
+        "20cdc25923bd223a0616adb565cd34c4": {
+            "text": "Uklonjen modul iz baze podataka"
+        },
+        "9b60baa546e5c978341fd2907b1d5dc9": {
+            "text": "Snimljen modul"
+        },
+        "7d571db09020671aab5f5a8eb76c4b06": {
+            "text": "A\u017euriran modul %1$s za kori\u0161tenje datoteke: %2$s"
+        },
+        "9c098768612f6e24d58eae6fb38ae756": {
+            "text": "provjeri a\u017euriranja"
+        },
+        "0a5d45b5062fbc6cf7c0fce7c6ecedb7": {
+            "text": "(zadani namespace)"
+        },
+        "498ba8bc46d453108ed1961748ae5d6c": {
+            "text": "Ni\u0161ta (root namespace)"
+        },
+        "8569fe11869eab4756b242c9cdc6ad92": {
+            "text": "instaliraj prijevode"
+        },
+        "1c4336473685430feefceabf2d42669c": {
+            "text": "Automatsko u\u010ditavanje onemogu\u0107eno?"
+        },
+        "0e7a5c8e978678d4124240dafccdc636": {
+            "text": "Budite oprezni, ozna\u010davanje ovog okvira mo\u017ee pokvariti modul ili va\u0161u stranicu. Koristi se samo za privremeno testiranje."
+        },
+        "03ca76fd12db5f3ef297c5d5fe385fa3": {
+            "text": "Sirova konfiguracija"
+        },
+        "9256bf7bb7a45066e51b9d36771ce930": {
+            "text": "Sirove informacije"
+        },
+        "d4f92a77a92921fb8ffedd71039834c6": {
+            "text": "Opcije dostupne samo u naprednom na\u010dinu rada."
+        },
+        "2f44417567bc123bd7c60de8c2a2b444": {
+            "text": "prije"
+        },
+        "632a2406bbcbcd553eec45ac14b40a0a": {
+            "text": "poslije"
+        },
+        "fd50b49603c0cfa8d50d7c2933cc052c": {
+            "text": "Instaliraj %s?"
+        },
+        "bf07f89fd86a5f3f7e8adb1833ce11bb": {
+            "text": "Nema dostupnih jezi\u010dnih datoteka modula"
+        },
+        "4ba2c3760d90822344a0ef877706ceca": {
+            "text": "Prijevodi modula na jezik"
+        },
+        "b7b039d0210f657d8600e7356ac5016c": {
+            "text": "Uvezi prijevode za modul %s"
+        },
+        "aa62c21c0ac6b3651b220804c8633047": {
+            "text": "Uvezi u %s"
+        },
+        "a73e218ed0a476a4a5ac1a3f5aef776f": {
+            "text": "Ne mogu prona\u0107i CSV datoteku"
+        },
+        "b7e2c8a0dd9e5f4ac8848dc0ff32ba0f": {
+            "text": "Izlistaj, uredi ili instaliraj\/deinstaliraj module"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Dodaj novo"
+        },
+        "da50401ad6d0a7e3ec13844538e10864": {
+            "text": "Informacije o modulu"
+        },
+        "ab216fc1fc240e6ae4a8d9e632b75177": {
+            "text": "Zahtijeva"
+        },
+        "d79883f0aa4bbfa29cfade81d86f4914": {
+            "text": "Tako\u0111er se instalira"
+        },
+        "7dadd48b9d04ac2c725c773fb9b845e6": {
+            "text": "Instaliraj"
+        },
+        "70d2b9e888cc1816db79833873ff3a93": {
+            "text": "Modul"
+        },
+        "27a35aaa9bc34010a2a8b5f6e72bc59c": {
+            "text": "Verzija"
+        },
+        "397433048c1c0bf93e5c0b270e178cb5": {
+            "text": "Sa\u017eetak"
+        },
+        "abc3baafc079141ff12cc709fd46f471": {
+            "text": "Obri\u0161i"
+        },
+        "5ef031b334adbb931cf113da0bd6dcea": {
+            "text": "Postavke"
+        },
+        "16cc8e66dedb68f1f49e919c348e3de5": {
+            "text": "Ne jo\u0161"
+        },
+        "f660f5f5478044f06b7c4ff7faf94e22": {
+            "text": "Verzija"
+        },
+        "64e220482c5957a4bc72eb93fa23c97d": {
+            "text": "Instalirano?"
+        },
+        "adface9f151f3625734957af4cc90bdc": {
+            "text": "Autori"
+        },
+        "e5f2ca40c235fae5ac687e306de83787": {
+            "text": "Sa\u017eetak"
+        },
+        "e6b6277ba8181bbd1527a9862aac46ec": {
+            "text": "Stanje izdanja"
+        },
+        "8cdfd203b4ed8d5355ee6f7e2819f1f7": {
+            "text": "Kompatibilnost"
+        },
+        "6e3ecdf50e3929756d31a4f4a80179da": {
+            "text": "Poveznice"
+        },
+        "48b843a3e9c0825de5170cc33048043f": {
+            "text": "ZIP datoteka"
+        },
+        "6d1e927236b37ef520bf1e0c06162c61": {
+            "text": "Deinstaliraj"
+        },
+        "1ac54e3228009efa1fcf80b8709e1288": {
+            "text": "Naslov"
+        },
+        "db91f2b6a497a7f2f78f5ef53cc47fab": {
+            "text": "Datoteka"
+        },
+        "289aa00733ebcfd0bae827af29d01356": {
+            "text": "Verzija"
+        },
+        "f09023872796deae6f1373d8a9d31a1e": {
+            "text": "Autor"
+        },
+        "633ce9b9b1a0e5b2f37bcc433eda6073": {
+            "text": "Sa\u017eetak"
+        },
+        "a954570dccb58d6a3edeb19736234655": {
+            "text": "Zahtijeva"
+        },
+        "c3beb2f9b875c79f76cf703ad3659d68": {
+            "text": "Zahtijeva"
+        },
+        "4d9ea4616e8b425d256a718c7686ed2b": {
+            "text": "Potrebna dozvola"
+        },
+        "76ff1156be021b9f8cc2597febd46133": {
+            "text": "Kuke za"
+        },
+        "1ce6b5b21ba628d92d00fd22b0c87730": {
+            "text": "Jezici"
+        },
+        "3ffe0dd3025d49ed76beaaf53f4889ac": {
+            "text": "Vi\u0161e informacija"
+        },
+        "8a59745d5142e82bd08e3d1291f7ab8e": {
+            "text": "Napredno"
+        }
+    }
+}

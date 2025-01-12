@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeInteger.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeinteger-module",
+    "translations": {
+        "91c09f074736481876ccf2f97e04ed07": {
+            "text": "Jesu li prazno i 0 ekvivalentni?"
+        },
+        "e128ed87f9f0d6401b081dd75b2dad03": {
+            "text": "To utje\u010de na na\u010din na koji ProcessWire spaja stranice tijekom operacija pronala\u017eenja baze podataka."
+        },
+        "07be370e5cef3ea5961cdf07cb34f390": {
+            "text": "Ako su 0 i prazno ekvivalentni (opcija Da), tada \u0107e pretra\u017eivanje polja=0 ili polja=\"\" dati iste rezultate."
+        },
+        "b4e4ee05aeb0d5812f77886c29c4bb53": {
+            "text": "Ako nisu ekvivalentni (opcija Ne), tada \u0107e pretra\u017eivanje za **field=0** odgovarati samo poljima koja sadr\u017ee vrijednost 0, a **field=\"\"** \u0107e odgovarati samo poljima bez vrijednosti."
+        },
+        "47ae95efefc63fa28854884d8c871228": {
+            "text": "Kao drugi primjer, s opcijom Da **field<1** bi odgovaralo i vrijednosti 0 i bez vrijednosti, a s opcijom Ne odgovaralo bi samo 0."
+        },
+        "50c5d87b02ad1694c7b4603240402ef9": {
+            "text": "Da - prazno i \u200b\u200b0 su ekvivalentni"
+        },
+        "dce91550511a9cfef6fe1bc4d2e93b1b": {
+            "text": "Ne - prazno i \u200b\u200b0 imaju razli\u010dita zna\u010denja"
+        },
+        "31ce3cdcd67850870b616f75b555bbc5": {
+            "text": "Zadana vrijednost"
+        },
+        "382ee7815f7200f67e7a5735816c78d2": {
+            "text": "Ova je vrijednost dodijeljena kao zadana za ovo polje na stranicama bez unesene vrijednosti."
+        }
+    }
+}

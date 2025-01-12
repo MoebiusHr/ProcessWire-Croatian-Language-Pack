@@ -1,0 +1,117 @@
+{
+    "file": "wire\/modules\/Page\/PageFrontEdit\/PageFrontEditConfig.php",
+    "textdomain": "wire--modules--page--pagefrontedit--pagefronteditconfig-php",
+    "translations": {
+        "2e3924cdf708580effa1682a30cc024c": {
+            "text": "Prije kori\u0161tenja front-end ure\u0111ivanja, pregledajte [pomo\u0107 za front-end ure\u0111ivanje](%s)."
+        },
+        "728f08c6a5722017ce7fb9747da7bac3": {
+            "text": "Postavke inline ure\u0111iva\u010da"
+        },
+        "180efa8a9b1cfee25988715f7d673dbc": {
+            "text": "Opcija A: polja za ure\u0111ivanje sprijeda"
+        },
+        "6e8a63eb8616bdb680f111e0b1a5bea3": {
+            "text": "Ova polja temeljena na tekstu mo\u0107i \u0107e se ure\u0111ivati \u200b\u200bna prednjem dijelu, izravno na stranici, jednostavnim ozna\u010davanjem okvira ispod."
+        },
+        "d0526ac74110f73ee2926fd2d650c4a9": {
+            "text": "**Budite oprezni s ovom opcijom:** Ako ispisujete vrijednost polja na vi\u0161e od jednog mjesta na stranici, umjesto toga upotrijebite [opciju B, C ili D](https:\/\/processwire.com\/api \/moduli\/front-end-editing\/)."
+        },
+        "78badcbc932189f3c876e9f2f55350cd": {
+            "text": "(ne preporu\u010duje se)"
+        },
+        "f16845125537677cf6b52cc53b2e1ee7": {
+            "text": "Opcija A: opseg ure\u0111iva\u010da"
+        },
+        "5fd733ebd21770ef2dff6a0382db2117": {
+            "text": "Kad se gore ozna\u010dena polja ispi\u0161u, gdje bi se trebala ure\u0111ivati?"
+        },
+        "2fac3d64842df30df607c68da216acd7": {
+            "text": "Polja koja se mogu ure\u0111ivati \u200b\u200bsamo ako su sa stranice koja se prikazuje (preporu\u010deno)"
+        },
+        "aa27ca4492b42802705a21889bb9a27e": {
+            "text": "Polja koja se mogu ure\u0111ivati \u200b\u200bbez obzira na stranicu"
+        },
+        "8b0326c326b1dddbdc4bf7b3519c02f6": {
+            "text": "Gumbi za snimi\/odustani"
+        },
+        "046d8235ad520c64afae23d7aaa4ffcc": {
+            "text": "Pozicija gumba"
+        },
+        "a4d0d101d6a34bf80ffeee601c3ff84a": {
+            "text": "Gore lijevo"
+        },
+        "d3708546a929dfcf66eaeaba794486eb": {
+            "text": "Gore desno"
+        },
+        "b67554192c50f4f6a4c1bd4797f6c3f8": {
+            "text": "Dolje lijevo"
+        },
+        "5968e3c37145f57587afcba727d2b120": {
+            "text": "Dolje desno"
+        },
+        "61a4338583e41efc9ecde01cc622f21c": {
+            "text": "Vrste gumba"
+        },
+        "de39b6da18c671eec0524a2bfc0da0c2": {
+            "text": "Automatski (ikone i tekst za radnu povr\u0161inu, ikone za ure\u0111aje osjetljive na dodir)"
+        },
+        "fb8bc05d9bb7a27307aff0d799f995fd": {
+            "text": "Ikone i tekst"
+        },
+        "e01d2e7e85c1522149ddd1abead1167f": {
+            "text": "Samo tekst"
+        },
+        "bf1079a9cc453b4caaa03e1b4d3c41d7": {
+            "text": "Samo ikone"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Vi\u0161e"
+        },
+        "fdf8ef9fa133d1852bef33c7c85144cb": {
+            "text": "Postoji nekoliko razli\u010ditih na\u010dina na koje mo\u017eete omogu\u0107iti front-end ure\u0111ivanje za ovo polje. Bez obzira koju opciju odabrali, front-end ure\u0111ivanje pojavit \u0107e se samo kada korisnik ima odgovaraju\u0107a dopu\u0161tenja za stranicu i polje."
+        },
+        "4cb305eca1333573edc880819fc7c977": {
+            "text": "Potrebna dopu\u0161tenja su [ure\u0111ivanje stranice](%s) i [ure\u0111ivanje stranice](%s)."
+        },
+        "5e7f95d663a3711b9965a6fa8707ef6f": {
+            "text": "Kada se polje mo\u017ee ure\u0111ivati, lebde\u0107i iznad njega prikazuje se kontekstni pokaziva\u010d mi\u0161a, a ne uobi\u010dajeni pokaziva\u010d. Da biste uredili polje na front-endu, morate ga **dvaput kliknuti**."
+        },
+        "17dc7a031f9540dbeb3cf9e10a7a1ebf": {
+            "text": "Ova opcija nije podr\u017eana za ovo polje."
+        },
+        "5f858c76077c44036b1442243b30ac34": {
+            "text": "Opcija A: Automatsko ure\u0111ivanje"
+        },
+        "88dad1b60aca7105bd5e7e185fa221ec": {
+            "text": "Kada se formatirana vrijednost polja dohvati s $page, mo\u0107i \u0107e se ure\u0111ivati \u200b\u200bbez potrebe za pisanjem oznaka\/koda za nju. Ovo podrazumijeva da korisnik ima dopu\u0161tenje za ure\u0111ivanje."
+        },
+        "f1206f9fadc5ce41694f69129aecac26": {
+            "text": "Konfiguracija"
+        },
+        "c214147662040e46e52c3cd0006a1122": {
+            "text": "Ova opcija je trenutno OMOGU\u0106ENA za ovo polje."
+        },
+        "c4755719068ffa0049bab373cee32aef": {
+            "text": "Opcija B: poziv API metode"
+        },
+        "b4da834069eb28c98cdf74c0dd7179d3": {
+            "text": "Koristite $page->edit(\"%s\"); umjesto $page->%s; kada \u017eelite ispisati vrijednost."
+        },
+        "a88ea479a9d66a019262dbfd5b4879b7": {
+            "text": "Bilo koja od sljede\u0107ih opcija sintakse je podr\u017eana (odaberite jednu). \"1001\" mo\u017ee biti bilo koji ID stranice ili put, a \"...\" mo\u017ee biti bilo koja oznaka ili kod, obi\u010dno tamo gdje ispisujete svoju vrijednost polja."
+        },
+        "48f403566075715027bd7fc9e1902cbc": {
+            "text": "Opcija C: Dodajte HTML oznake za ure\u0111ivanje da biste stvorili podru\u010dje koje se mo\u017ee ure\u0111ivati"
+        },
+        "ee885b8843c6c111129d0eaca536bbbe": {
+            "text": "Opcija D: Dodajte atribute za ure\u0111ivanje HTML-a postoje\u0107oj oznaci za ozna\u010davanje kako biste stvorili podru\u010dje koje se mo\u017ee ure\u0111ivati"
+        },
+        "0e060a7eca98daf0e3c2e5280319e907": {
+            "text": "Oznaka div prikazana u nastavku mo\u017ee biti bilo koja postoje\u0107a HTML oznaka koja obavija va\u0161u regiju koju je mogu\u0107e ure\u0111ivati."
+        },
+        "5c23fae6f3e37e699b6663a4fa6dbf08": {
+            "text": "Imajte na umu da se kod kori\u0161tenja atributa ure\u0111ivanja uvijek koristi modalni ure\u0111iva\u010d. Sve druge opcije koristit \u0107e ugra\u0111eni ure\u0111iva\u010d ako je podr\u017ean."
+        }
+    }
+}

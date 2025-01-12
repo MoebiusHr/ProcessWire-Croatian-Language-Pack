@@ -1,0 +1,21 @@
+{
+    "file": "wire\/core\/Fieldtype.php",
+    "textdomain": "wire--core--fieldtype-php",
+    "translations": {
+        "a528ac2d2f326703f458dec14cba03e5": {
+            "text": "Automatsko pridru\u017eivanje"
+        },
+        "2af316156c9ea64d6d56bfe221486efd": {
+            "text": "Ako je ozna\u010deno, podaci za ovo polje u\u010ditavat \u0107e se sa svakom instancom stranice, bez obzira na to koristi li se u tom trenutku. Ako nije ozna\u010deno, podaci \u0107e se u\u010ditati na zahtjev i samo kada se posebno pristupi polju."
+        },
+        "4cc6684df7b4a92b1dec6fce3264fac8": {
+            "text": "Globalno"
+        },
+        "ad1bc8634063998074151ecfaaf2e6a1": {
+            "text": "Ako je ozna\u010deno, SVE stranice \u0107e morati imati ovo polje. Bit \u0107e automatski dodano svim grupama polja\/predlo\u0161cima koji ga ve\u0107 nemaju. To ne zna\u010di da je vrijednost potrebna u polju, samo da \u0107e polje za ure\u0111ivanje postojati na svim stranicama."
+        },
+        "cacb4064843717606a3301b974b6f959": {
+            "text": "Vrijednost nije dopu\u0161tena za polje \u201c%s\u201d jer je ve\u0107 u upotrebi"
+        }
+    }
+}

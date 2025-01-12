@@ -1,0 +1,210 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPage\/InputfieldPage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpage--inputfieldpage-module",
+    "translations": {
+        "4349c31cba02549f2043d69b9eb0d66e": {
+            "text": "(neobjavljeno)"
+        },
+        "db62b7d9ccb858fb53481683f5d1d813": {
+            "text": "Ovo polje mora biti konfigurirano prije nego \u0161to se mo\u017ee koristiti."
+        },
+        "6dc3e540b29f68e1eaf558b6a2edd476": {
+            "text": "Unesite naslove stavki koje \u017eelite dodati, jednu po retku. Oni \u0107e se stvoriti i dodati va\u0161em odabiru kada spremite stranicu."
+        },
+        "b82b34c94588fc88ca4a6b18f5e18aef": {
+            "text": "Unesite naslov stavke koju \u017eelite dodati. Postat \u0107e odabrano kada spremite stranicu."
+        },
+        "e3cada644043c81e6ff21250f2e53f3a": {
+            "text": "Nove stranice bit \u0107e dodane u %s"
+        },
+        "49e5878c7a1901b0a9baae9e0c774150": {
+            "text": "Dodaj novu"
+        },
+        "5e1daea70649e788db6ead8cd50f791d": {
+            "text": "Neobjavljena stranica %1$s nije dopu\u0161tena u polju \"%2$s\""
+        },
+        "1f6147d9cbae7fa8c3e213824bce6405": {
+            "text": "Da biste dopustili neobjavljene stranice, uredite polje \"%s\" i pogledajte postavku na kartici \"Detalji\"."
+        },
+        "f0670991d41b78617ca7810b7ce334b9": {
+            "text": "Dodana stranica %s"
+        },
+        "29b43e0c70cb336d03f04f3f06a8789d": {
+            "text": "Pogre\u0161ka pri dodavanju stranice \"%s\""
+        },
+        "81eeab9506186e2dca8faefa78d54067": {
+            "text": "Primjer:"
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(zadano)"
+        },
+        "309980b76124ca15c19a948edcd2b820": {
+            "text": "Stranice koje se mogu odabrati"
+        },
+        "e50655dbc7c36d40e2cf238aae3bf9c8": {
+            "text": "Upotrijebite barem jednu od dolje navedenih opcija kako biste odredili koje \u0107e se stranice mo\u0107i odabrati s ovim poljem."
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Roditelj"
+        },
+        "5b0591013bf2cac5ee96f90e31a5b2e9": {
+            "text": "Odaberite nadre\u0111enu stranicu za odabir."
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Predlo\u017eak"
+        },
+        "e633bd1a014a2d5f6beee84c20440cb4": {
+            "text": "Odaberite predlo\u017eak stranica koje je mogu\u0107e odabrati. Mo\u017ee se koristiti umjesto ili uz gornji roditelj."
+        },
+        "38c3a6e66709a7bfc48e7450e726a9b5": {
+            "text": "Dodatni predlo\u0161ci"
+        },
+        "24ae2cf02f858ca0ae6dd168fe28add8": {
+            "text": "Ako trebate dodatne predlo\u0161ke za stranice koje je mogu\u0107e odabrati, odaberite ih ovdje."
+        },
+        "1bffba8c823b325ac5713f424da43182": {
+            "text": "Ovo mo\u017eda ne\u0107e podr\u017eavati sve vrste unosa."
+        },
+        "cdce55320d6f3ed4e6ac6f952d43903d": {
+            "text": "Iako ovo nadja\u010dava gornje odabire roditelja i predlo\u017eaka, ti se odabiri (ako postoje) i dalje koriste za provjeru valjanosti."
+        },
+        "83309c97a345b4921da94ff53e86da68": {
+            "text": "Dodajte jedno ili vi\u0161e polja u nastavku da biste stvorili upit koji pronalazi stranice koje \u017eelite odabrati."
+        },
+        "46ccc95f9f53fc892accee255689f495": {
+            "text": "Ovo stvara selektor koji pronalazi stranice tijekom izvo\u0111enja. Ako ovo radije \u017eelite unijeti ru\u010dno, umjesto toga upotrijebite opciju \"Selektorski niz\" u nastavku."
+        },
+        "533e8044020cfac547586cacca582fca": {
+            "text": "Prilago\u0111ena pretraga"
+        },
+        "709109a0ca7566a6bfae0f6145c8c613": {
+            "text": "Dodaj polje u upit"
+        },
+        "5742607846ab8e8f502a078e624a2f24": {
+            "text": "Selektorski niz"
+        },
+        "14d274b0d81592a035d1fb04ee031fb6": {
+            "text": "Ako \u017eelite prona\u0107i stranice koje se mogu odabrati pomo\u0107u selektora ProcessWire, unesite niz selektora da prona\u0111ete stranice koje se mogu odabrati. Ovaj bira\u010d bit \u0107e proslije\u0111en pozivu `$pages->find(\"your selector\");`."
+        },
+        "d0188d35124b9f7887cc0d158da64328": {
+            "text": "Ako \u017eelite prona\u0107i stranice koje se mogu odabrati pomo\u0107u isje\u010dka PHP koda umjesto odabira nadre\u0111ene stranice ili predlo\u0161ka (iznad), unesite kod da biste prona\u0161li stranice koje se mogu odabrati. Ova izjava ima pristup API varijablama $page i $pages, gdje se $page odnosi na stranicu koja se ure\u0111uje."
+        },
+        "e8764466585c7e1a106fd67e89ce91c6": {
+            "text": "Isje\u010dak bi trebao vratiti PageArray, Page ili NULL. Ako vrati stranicu, potomci te stranice koriste se kao stranice koje se mogu odabrati. Kori\u0161tenje ovoga nije obavezno, a ako se koristi, nadja\u010dava gornja polja roditelja\/predlo\u0161ka\/selektora."
+        },
+        "a9e792488572b1b5316720df20682ad3": {
+            "text": "NAPOMENA: Nije kompatibilno s vrstama polja za unos PageListSelect ili Autocomplete."
+        },
+        "c53eb6ef357cebe320e9c359e7adfaeb": {
+            "text": "Dodajte sljede\u0107i hook u datoteku %s i modificirajte ga prema svojim potrebama. Hook bi trebao prona\u0107i i vratiti stranice koje se mogu odabrati u PageArray."
+        },
+        "06d1dad5791272bfde6c76b87289a62b": {
+            "text": "Ako trebate znati stranicu koja se ure\u0111uje, dostupna je preko: %s"
+        },
+        "89ba456c93408d4bc5888a8e960dbb79": {
+            "text": "Prilago\u0111eni PHP kod"
+        },
+        "d8f9928df4675d892629c754932fad80": {
+            "text": "Polje oznake"
+        },
+        "e5c1791ec6a73eed5d8a7002e2799470": {
+            "text": "Odaberite polje stranice koje \u017eelite koristiti za generiranje oznaka za svaku stranicu koja se mo\u017ee odabrati."
+        },
+        "a0cb77306b6f4e96a00cdc5a0c128166": {
+            "text": "Odaberite \"Prilago\u0111eni format\" ako \u017eelite navesti vi\u0161e polja ili druga polja koja ne vidite gore."
+        },
+        "282acaaa24f42bb779ccb235bfc37491": {
+            "text": "Prilago\u0111eni format (vi\u0161e polja)' . '..."
+        },
+        "ccfbd07eab619923148d98d09c91e15e": {
+            "text": "Prilago\u0111eni format oznake stranice"
+        },
+        "ebebc537c9c3117a5e2304be412d83f3": {
+            "text": "Navedite jedno ili vi\u0161e naziva polja okru\u017eenih viti\u010dastim {zagradama} zajedno sa svim dodatnim znakovima, razmacima ili interpunkcijskim znakovima."
+        },
+        "190dcbcb68a0545eb0e38c4eca2961e0": {
+            "text": "Primjer: {parent.title} - {title}, {date}"
+        },
+        "881b1a7b97bc4d70099cc59a53e8a8e5": {
+            "text": "Vrsta polja za unos"
+        },
+        "9eeb68b4b7e0c3608f3014ad177b15fb": {
+            "text": "Vrsta polja za unos (modul Inputfield) koje \u0107e se koristiti za odabir stranice(a) za ovo polje."
+        },
+        "215c501706b9ef0657264f0cb931dbd3": {
+            "text": "Odaberite onu koja je u skladu s va\u0161im odabirom \"Vrsta vrijednosti\" na kartici \"Detalji\" za odabir jedne ili vi\u0161e stranica."
+        },
+        "081b70a0b1eb9e48918ebc5d3c8afc6b": {
+            "text": "Nakon odabira vrste polja za unos i spremanja promjena, imajte na umu da se dodatne opcije konfiguracije specifi\u010dne za va\u0161 odabir mogu pojaviti neposredno ispod ovoga."
+        },
+        "1df666749c8b91ac260ac68b3a1dfeb3": {
+            "text": "Odabir vi\u0161e stranica"
+        },
+        "c051cff56b1d25c941ba4268f2c9c8b1": {
+            "text": "Odabir jedne stranice"
+        },
+        "23aec26e2b521c0e5f1061b3d04983a5": {
+            "text": "sortibilan"
+        },
+        "4475920d50a2c224b86ebf6e79d38dc7": {
+            "text": "Vrsta vrijednosti"
+        },
+        "0b139983f1e4b0d9c4674e0aa1f965a1": {
+            "text": "(radi u svim slu\u010dajevima, ali je potrebno za vi\u0161estruki odabir)"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "Stranica"
+        },
+        "88bf31e0ab1be50432ec67a96ce41787": {
+            "text": "(opcionalno za odabir jedne stranice)"
+        },
+        "8f23ded99b5882bf55f3aa4154cf10df": {
+            "text": "Ti\u010de se vrste unosa \"Popis stranica\"."
+        },
+        "bbc8c6c107d8cf7e49310723820e8052": {
+            "text": "Odabrali ste vrstu unosa koja ima specifi\u010dne zahtjeve."
+        },
+        "d45d37464c307f05fe480979c03fd99b": {
+            "text": "Navedite samo opciju \u201cParent\u201d u nastavku kada konfigurirate \u201cSelectable pages\u201d."
+        },
+        "a8e65bab8badd05312e21a13bc8aacf1": {
+            "text": "Imajte na umu da roditelj koji navedete podrazumijeva korijen stabla stranica koje se mogu odabrati."
+        },
+        "d89af7d091962a34d3d666a54148e1f9": {
+            "text": "Ako \u017eelite da sve bude mogu\u0107e odabrati, ne navodite ni\u0161ta."
+        },
+        "8332fcbd80839cdcc617bee49529ad1e": {
+            "text": "Dopustiti stvaranje novih stranica iz polja?"
+        },
+        "20463a1675fc256b438538124524746a": {
+            "text": "Ako je ozna\u010deno, tako\u0111er \u0107e biti prisutna opcija za dodavanje novih stranica ako su navedeni zahtjevi ispunjeni."
+        },
+        "6bd4cf6cf4401b1a39b1fcdd57bd4c68": {
+            "text": "1. I roditelj i predlo\u017eak moraju biti navedeni u odjeljku \"Odabrane stranice\" iznad."
+        },
+        "65a208c6491dac4a6fb17f7a62f76658": {
+            "text": "2. Korisnik koji ure\u0111uje mora imati pristup izradi\/objavivanju ovih stranica."
+        },
+        "8379c940f14c74babf288df5cec8a408": {
+            "text": "3. \"Polje oznake\" mora biti postavljeno na \"naslov (zadano)\"."
+        },
+        "89f32c3a56b097c4da3f220687f2cad5": {
+            "text": "Postavke specifi\u010dne za \u201c%s\u201d"
+        },
+        "1651eb20984eda71f6911614e46ffe1e": {
+            "text": "Jedna stranica:"
+        },
+        "c15f44ca7101ca011408b0f9075c7be3": {
+            "text": "Vi\u0161e stranica:"
+        },
+        "d07c3ac5745e32c1ea6d73b65518d52b": {
+            "text": "Vi\u0161e stranica koje se mogu sortirati:"
+        },
+        "d9a5927aa49f1a766a15e692b69c1c91": {
+            "text": "Moduli polja za unos dostupni su za odabir stranice"
+        },
+        "d5a1e1e864827e2bbb99d144e30359de": {
+            "text": "Odaberite module Inputfield koji se mogu koristiti za odabir stranice. To bi op\u0107enito trebala biti polja za unos koja vam omogu\u0107uju odabir jedne ili vi\u0161e opcija."
+        }
+    }
+}

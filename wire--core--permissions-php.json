@@ -1,0 +1,54 @@
+{
+    "file": "wire\/core\/Permissions.php",
+    "textdomain": "wire--core--permissions-php",
+    "translations": {
+        "811deefb4c02a58fd629b05b775dbd3a": {
+            "text": "Sakrij\/otkrij stranice"
+        },
+        "078d02bfb62cf6957d8295c0072eb869": {
+            "text": "Objavite\/poni\u0161tite objavu stranica ili uredite ve\u0107 objavljene stranice"
+        },
+        "419cb8b2ecc5b9144270ebbbb7e65c92": {
+            "text": "Uredi samo stranice koje je korisnik stvorio"
+        },
+        "7a3c0039ad0f29f74babc54b9d96467d": {
+            "text": "Korisnik mo\u017ee baciti u sme\u0107e stranice koje je stvorio (bez dopu\u0161tenja za brisanje stranice)."
+        },
+        "618400fc1b0f0b7a96f2d0c871bd2c6b": {
+            "text": "Koristite ure\u0111iva\u010d slika za manipuliranje slikama (obrezivanje, promjena veli\u010dine itd.)"
+        },
+        "aea865164370da774405c331d6657a6f": {
+            "text": "Promijenite naziv objavljenih stranica koje im je dopu\u0161teno ure\u0111ivati"
+        },
+        "11872ca557915bb50767c6f91d5483d5": {
+            "text": "Administrirajte korisnike u bilo kojoj ulozi (osim superkorisnika)"
+        },
+        "5a1dc311dc716c30ccdb008bee94e9d6": {
+            "text": "Korisnik mo\u017ee vidjeti korisnike u bilo kojoj ulozi (uklju\u010duju\u0107i superkorisnika)"
+        },
+        "d341b36940e0a17c1d212ab5b32fafa8": {
+            "text": "Korisnik mo\u017ee sam sebe vidjeti (ako ve\u0107 nije uz drugu dozvolu)"
+        },
+        "9d7f65dc30d669d9000ef19ed549228e": {
+            "text": "Pogledajte korisnike u ulozi: %s"
+        },
+        "eecc2e81896b43d7a7fad8cd165a8107": {
+            "text": "Administrirajte korisnike u ulozi: %s"
+        },
+        "1cde74a0dce30621ce5a3d6541fb428d": {
+            "text": "Korisnik mo\u017ee dodavati\/ure\u0111ivati\/brisati URL-ove za preusmjeravanje u ure\u0111iva\u010du stranice"
+        },
+        "8048bbf682a36eb44e24af9d4996ba3d": {
+            "text": "Uredite polja na stranici na jeziku: %s"
+        },
+        "c7ec5d220e7d4a02342efda6f6b2be98": {
+            "text": "(tako\u0111er potrebno za stvaranje ili brisanje stranica)"
+        },
+        "021ae36974d48cf90a6b204c4abe221b": {
+            "text": "Uredite jednojezi\u010dna polja na vi\u0161ejezi\u010dnoj stranici"
+        },
+        "40840d28513eb3dfb7be0a1fdffae9a7": {
+            "text": "Administrirajte jezike i stati\u010dke datoteke prijevoda"
+        }
+    }
+}

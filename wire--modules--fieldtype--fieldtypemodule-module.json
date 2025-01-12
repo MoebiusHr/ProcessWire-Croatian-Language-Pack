@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeModule.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypemodule-module",
+    "translations": {
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ni\u0161ta"
+        },
+        "40e27ece1fd60ce7081fd3084e866820": {
+            "text": "Vrste modula"
+        },
+        "e4b9c7449faedd6b2667e3db22d04cc1": {
+            "text": "Ozna\u010dite sve vrste modula koje je mogu\u0107e odabrati u ovom polju."
+        },
+        "17ef61026679e3483b3aebd3e9a2502c": {
+            "text": "Vrsta podudaranja modula"
+        },
+        "e40489cd1e7102e35469c937e05c8bba": {
+            "text": "Naslje\u0111ivanje"
+        },
+        "9a90458e160aa0a5d2615a97caec6854": {
+            "text": "Opcija prefiksa preporu\u010duje se za bolju izvedbu osim ako se ne podudara s modulom koji namjeravate."
+        },
+        "4aa842af483898d272ce5ea136a446d3": {
+            "text": "U\u010dini ovo polje instancom odabranog modula?"
+        },
+        "1d4b3399eb44d29f0188147089a9fb8a": {
+            "text": "Ako je ozna\u010deno, vrijednost polja bit \u0107e stvarna instanca odabranog modula. Ako nije ozna\u010deno, vrijednost polja bit \u0107e niz koji sadr\u017ei naziv klase modula."
+        },
+        "bbddef2b960b6e14a0c9510c2312192e": {
+            "text": "Oznaka opcija"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Ime"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Naslov"
+        },
+        "3d0e52e8f34a293de17317f094e676b6": {
+            "text": "Naslov i sa\u017eetak"
+        },
+        "a749642e2afeea63aac9d550e51abf64": {
+            "text": "Vrsta unosa"
+        },
+        "daf361912b4d4260a6a0c3dc31a60312": {
+            "text": "Prika\u017ei opciju \"Ni\u0161ta\"?"
+        },
+        "1177fb816ddc2935c2a8bc55d22b93b1": {
+            "text": "Vrsta prazne vrijednosti"
+        }
+    }
+}

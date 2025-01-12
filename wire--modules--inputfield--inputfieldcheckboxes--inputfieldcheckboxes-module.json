@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldCheckboxes\/InputfieldCheckboxes.module",
+    "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
+    "translations": {
+        "7bcfe5241d76d75be6c2edd188a3c8d4": {
+            "text": "\u0160irina stupca opcije"
+        },
+        "7eb9cb961fc6bd6179e41f543c3d7551": {
+            "text": "Koristite ovu postavku za prikaz opcija u stupcima fiksne \u0161irine koji plutaju ili se sa\u017eimaju prema \u0161irini okvira za prikaz."
+        },
+        "f1a23bf1974a4b1cbbeaddc284117fd9": {
+            "text": "Unesite broj CSS \u0161irine i jedinicu kao \u0161to je `100px` ili `10em`, na primjer. Ako jedinica nije navedena, pretpostavlja se `px` (piksela)."
+        },
+        "434bbaa0ab37f1ebd26e7509715e1aa3": {
+            "text": "Unesite broj `1` za automatski izra\u010dun odgovaraju\u0107e \u0161irine tijekom izvo\u0111enja."
+        },
+        "e2698e70a4505aa9809823dda815aaa0": {
+            "text": "Za najbolji izgled unesite \u0161irinu koja mo\u017ee stati u najdu\u017eu opciju bez prelamanja rije\u010di ili unesite 1 do za automatsku \u0161irinu."
+        },
+        "730f32bc95f78291755d63422278eea6": {
+            "text": "Koli\u010dina stupca opcija"
+        },
+        "4628aba09e517657ce64b1604e3156c5": {
+            "text": "Ako \u017eelite da se opcije prikazuju u stupcima, unesite broj stupaca koje \u017eelite koristiti (do 10)."
+        },
+        "197eb3e7501c01299bce92e0abaace6c": {
+            "text": "Za prikaz opcija u nizu jednu do druge unesite broj `1`."
+        },
+        "9593e6f3bc34b5f5866e4f69f54ac96f": {
+            "text": "Imajte na umu da je postavka \"opcija \u0161irine stupca\" po\u017eeljna za responzivno pona\u0161anje."
+        },
+        "c425f296c6b905c91fb3f6da1a1702b6": {
+            "text": "Potvrdni okviri"
+        },
+        "632ae34b804c1914c3a51af327a3379d": {
+            "text": "Prebacivanje vi\u0161e potvrdnih okvira"
+        }
+    }
+}

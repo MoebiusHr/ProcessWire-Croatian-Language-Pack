@@ -1,0 +1,60 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepage-module",
+    "translations": {
+        "e93f994f01c537c4e2f7d8528c3eb5e9": {
+            "text": "Broja\u010d"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Predlo\u017eak"
+        },
+        "7b438db8547ac1c9ab6c7ba6cb1532db": {
+            "text": "Vi\u0161e stranica (PageArray)"
+        },
+        "a24fcc695edbc57c60c768a732d2f30d": {
+            "text": "Jedna stranica (Page) ili false kada nijedna nije odabrana"
+        },
+        "94a53712b9a34f922a776fc5aa68d31f": {
+            "text": "Jedna stranica (Page) ili prazna stranica (NullPage) kada nijedna nije odabrana"
+        },
+        "b163d440906ff7e0a02262fb1406e123": {
+            "text": "Vrsta vrijednosti polja stranice"
+        },
+        "e28f86b62065207ceeb0b5057eb98537": {
+            "text": "Ako \u0107e va\u0161e polje sadr\u017eavati vi\u0161e stranica, tada trebate odabrati prvu opciju (PageArray). Ako va\u0161e polje treba sadr\u017eavati samo jednu stranicu, odaberite jednu od opcija pojedina\u010dne stranice (ako niste sigurni koju, odaberite posljednju opciju)."
+        },
+        "be288f506d4d5100260d915b396a83be": {
+            "text": "Primjeri kori\u0161tenja API-ja"
+        },
+        "c563103ae743ad1643e5f3e49a2c89d5": {
+            "text": "Isto kao gore s alternativnom sintaksom"
+        },
+        "0a7cd2620545065d49a8ca58f5fc0b28": {
+            "text": "Vi\u0161e o metodi %s."
+        },
+        "7d5f7f76b51ac880e91da28dbc52df35": {
+            "text": "Dopustiti neobjavljene stranice?"
+        },
+        "147ca86a29ed518210e0864f1e0d49ad": {
+            "text": "Kada je ozna\u010deno, neobjavljene stranice mo\u0107i \u0107e se odabrati za unos i dopu\u0161tene u vrijednosti polja *neformatirano*. One \u0107e i dalje biti isklju\u010dene iz vrijednosti polja *formatirano* u svakom slu\u010daju."
+        },
+        "393e717c8215abdbe581b21180abfa2b": {
+            "text": "Nije mogu\u0107e prona\u0107i stranicu"
+        },
+        "34a56e6d474c258bb9f4553aae0c7b81": {
+            "text": "Nije mogu\u0107e prona\u0107i predlo\u017eak"
+        },
+        "2d6565614947b2a6daba1a06515124da": {
+            "text": "Prona\u0111ite i o\u010distite reference na stranice bez roditelja"
+        },
+        "f7e35a334f1501cc0365458563f90cf5": {
+            "text": "Ovo otklanja problem u starijim verzijama ProcessWirea koji bi mogao ostaviti reference stranica bez roditelja za izbrisane stranice. Ako dobivate neto\u010dne rezultate od operacija pronala\u017eenja stranice (posebno sa selektorima koji koriste pageref.count), mo\u017eda biste trebali pokrenuti ovo."
+        },
+        "35a326c72a6584f3c7d70109b5cd45f1": {
+            "text": "Upozorenje: radi sigurnosti trebali biste napraviti sigurnosnu kopiju svoje baze podataka prije pokretanja ovoga."
+        },
+        "081c14de091c8761b82f930fd59c8f16": {
+            "text": "Tra\u017eenje i \u010di\u0161\u0107enje..."
+        }
+    }
+}

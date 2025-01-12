@@ -1,0 +1,42 @@
+{
+    "file": "wire\/core\/AdminThemeFramework.php",
+    "textdomain": "wire--core--adminthemeframework-php",
+    "translations": {
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Dodaj novo"
+        },
+        "90dd5a9776ef2638eebdd94ae76a1902": {
+            "text": "Pogledaj stranicu"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Profil"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Odjava"
+        },
+        "9d228734f81e102a94540a1508e69d1d": {
+            "text": "+{n-1}"
+        },
+        "fbbbb283efc814825613301c22951ba7": {
+            "text": "Zatvori sve"
+        },
+        "878620e7a3c84a803c9a70bfe346be57": {
+            "text": "Koristiti ovu admin temu na zaslonu za prijavu?"
+        },
+        "ffd8fa387acec9945788ad7c39400b1b": {
+            "text": "Kada je ozna\u010deno, ova administratorska tema koristit \u0107e se na zaslonu za prijavu korisnika."
+        },
+        "5d245d16dae6579f37c78f49f078b36a": {
+            "text": "Prebacite korisnike na ovu administratorsku temu"
+        },
+        "5b5cb08a3f289568f6d628e8f4858906": {
+            "text": "Odaberite korisni\u010dku ulogu da a\u017eurirate odgovaraju\u0107e korisnike na ovu administratorsku temu."
+        },
+        "bb387a29dee8d495ac6a7870d5e10442": {
+            "text": "Uloga: %s"
+        },
+        "f590c9f5400a3be977d2027832a99e02": {
+            "text": "Postavite %d korisnika da imaju ovu administratorsku temu"
+        }
+    }
+}

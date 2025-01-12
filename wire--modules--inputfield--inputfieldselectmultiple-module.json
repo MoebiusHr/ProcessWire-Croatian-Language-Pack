@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelectMultiple.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselectmultiple-module",
+    "translations": {
+        "019fce53dcc7e7f5a3abea240de44d77": {
+            "text": "Veli\u010dina: broj redaka vidljivih odjednom u vi\u0161estrukom odabiru"
+        },
+        "eefa4a712878aa9e7c3a4fdb9ab10adf": {
+            "text": "Vi\u0161etruki odabir"
+        },
+        "6faad70d6719b405a08c5121e31e258b": {
+            "text": "Odaberite vi\u0161e stavki s popisa"
+        }
+    }
+}

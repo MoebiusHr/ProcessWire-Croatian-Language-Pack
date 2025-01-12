@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Image\/ImageSizerEngineIMagick\/ImageSizerEngineIMagick.module",
+    "textdomain": "wire--modules--image--imagesizerengineimagick--imagesizerengineimagick-module",
+    "translations": {
+        "cb1c82cfcd691da9c744158115d1ed98": {
+            "text": "u\u010ditana datoteka '%s' nije va\u017ee\u0107a slika"
+        },
+        "fa08346eefc233da84efcce389e121f6": {
+            "text": "u\u010ditana datoteka '%s' nije na popisu valjanih slika"
+        }
+    }
+}

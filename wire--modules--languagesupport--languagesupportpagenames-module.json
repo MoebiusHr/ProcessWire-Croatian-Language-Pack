@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportPageNames.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportpagenames-module",
+    "translations": {
+        "ae739a236065a45c64ad51aacb19498c": {
+            "text": "Aktivno?"
+        },
+        "d5af3f8c985a3592422462cce67bc86c": {
+            "text": "Srodna stranica (id=%1$d) ve\u0107 koristi naziv \"%2$s\" za jezik: %3$s"
+        },
+        "35b837a5674ea74e192fc0fa8b68f46c": {
+            "text": "Prefiks broja stranice za paginaciju"
+        },
+        "68d765216e3092d42524f9f6f14ce93c": {
+            "text": "Broj stranice je pridodan ovoj rije\u010di u paginiranim URL-ovima za ovaj jezik. Ako se izostavi, koristit \u0107e se \"%s\"."
+        },
+        "5b5fec43bb1313c56d2e944d9567cd96": {
+            "text": "URL po\u010detne stranice zadanog jezika je isti kao korijenski URL?"
+        },
+        "6fbae724946d15c837d8d88af35ed18c": {
+            "text": "Odaberite **Da** ako \u017eelite da po\u010detnu stranicu va\u0161eg zadanog jezika poslu\u017euje korijenski URL **\/** (preporu\u010deno). Odaberite **Ne** ako \u017eelite da va\u0161 korijenski URL izvede preusmjeravanje na **\/name\/** (gdje je \/ime\/ zadani naziv jezika va\u0161e po\u010detne stranice)."
+        },
+        "fccde8e7592dffb93fe985bc462771c0": {
+            "text": "Ova postavka utje\u010de samo na pona\u0161anje po\u010detne stranice. Ako odaberete Ne, tako\u0111er morate provjeriti ima li va\u0161a po\u010detna stranica definiran naziv za zadani jezik."
+        },
+        "ff88cd079dc8d2fb836b8807f5d266a4": {
+            "text": "Da - korijenski URL slu\u017ei po\u010detnu stranicu zadanog jezika (preporu\u010deno)"
+        },
+        "f1bd84fbcee1b287fe538f7df1cbd700": {
+            "text": "Ne - korijenski URL izvodi preusmjeravanje na: \/name\/"
+        },
+        "47a71e39bf348953dfdfb22317c3e29c": {
+            "text": "Pona\u0161anje kada stranica nije dostupna na tra\u017eenom jeziku (ali je dostupna na zadanom jeziku)"
+        },
+        "fdee766baf806159afbcd542efbe9b3d": {
+            "text": "Ova se postavka ne primjenjuje ako korisnik mo\u017ee ure\u0111ivati \u200b\u200bstranicu jer \u0107e uvijek biti dostupna za potrebe pregleda."
+        },
+        "34529e0f7f3dd583b0aed3b8a46bff6e": {
+            "text": "Izbaci pogre\u0161ku 404 (stranica nije prona\u0111ena) - zadano pona\u0161anje"
+        },
+        "395c201c2729d5c7c5e9c1c6cbc2889b": {
+            "text": "Dopusti da se svejedno prika\u017ee za jezik (ako mu se pristupa izravno putem URL-a)"
+        },
+        "ac7c3f2fbc9e8f4fa1d719d6319ee58b": {
+            "text": "Izvr\u0161ite 301 (trajno) preusmjeravanje na stranicu na zadanom jeziku"
+        },
+        "483bb77bebead8ed45f75192b8ea3d78": {
+            "text": "Izvr\u0161ite 302 (privremeno) preusmjeravanje na stranicu na zadanom jeziku"
+        }
+    }
+}

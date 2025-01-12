@@ -1,0 +1,33 @@
+{
+    "file": "wire\/core\/admin.php",
+    "textdomain": "wire--core--admin-php",
+    "translations": {
+        "657e7a4fc0a8b4f44a06c216edf02d64": {
+            "text": "Neprepoznati HTTP host:"
+        },
+        "b6823820033b6cf18c3aa27d252861e0": {
+            "text": "A\u017eurirajte svoju postavku $config->httpHosts u \/site\/config.php"
+        },
+        "d959bbe25cc020e2db5276cb42927c7c": {
+            "text": "pro\u010ditaj vi\u0161e"
+        },
+        "3d6623b8d5249788a0d797d4bbc5e5a1": {
+            "text": "Potrebna akcija"
+        },
+        "cfdf33cbd93768327b807066fb473750": {
+            "text": "Omogu\u0107i dvofaktorsku autentifikaciju"
+        },
+        "7d1e877f40bcb7e917038fddfbc95043": {
+            "text": "Dosegli ste PHP-ovu postavku \"max_input_vars\" od %d \u2014 molimo pove\u0107ajte je."
+        },
+        "c0e293a452a1d7be53a199d8b0a387bd": {
+            "text": "DEBUG MODE BACKTRACE"
+        },
+        "af1595f0c5186db6cc35577429366e6d": {
+            "text": "Ova stranica nema dodijeljen proces."
+        },
+        "905d286d5f512b563448eedeb744206d": {
+            "text": "Proces nije vratio nikakav sadr\u017eaj."
+        }
+    }
+}

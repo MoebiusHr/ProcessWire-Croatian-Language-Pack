@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/ImageSizerEngineGD.php",
+    "textdomain": "wire--core--imagesizerenginegd-php",
+    "translations": {
+        "fa08346eefc233da84efcce389e121f6": {
+            "text": "u\u010ditana datoteka '%s' nije na popisu ispravnih slika"
+        },
+        "c95521fede03ff8a1b5d17b5b8bcdef7": {
+            "text": "Nema dovoljno memorije za \"%1$s\" u slikovnoj datoteci: %2$s"
+        }
+    }
+}

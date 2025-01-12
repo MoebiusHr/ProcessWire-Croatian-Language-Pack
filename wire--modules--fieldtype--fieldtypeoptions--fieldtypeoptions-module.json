@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/FieldtypeOptions.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--fieldtypeoptions-module",
+    "translations": {
+        "69b3176dd209b9a908446d55ceb0cfd2": {
+            "text": "Konfigurirani predodabir nije popunjen jer vrijednost nije uvijek potrebna. Ispravite ovu konfiguraciju polja."
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Naslov"
+        },
+        "d88cb87988c18a5b8e9652d49d857d4c": {
+            "text": "Tekst vrijednosti"
+        },
+        "aee44a384657fe502a5b91c94fbc7713": {
+            "text": "Uvoz opcija jo\u0161 nije implementiran. Iako se lako mogu uvesti s jednog mjesta na drugo kopiranjem\/lijepljenjem izravno sa zaslona za ure\u0111ivanje polja."
+        },
+        "aa4c3e66841030399406dbc07e179a86": {
+            "text": "Pojedina\u010dna opcija:"
+        },
+        "490c0cb936421cca0433ef4af53158c1": {
+            "text": "Vi\u0161e opcija:"
+        },
+        "446be6c9a3b09c4af5a9f6a8d70fb186": {
+            "text": "Vi\u0161e opcija za sortiranje:"
+        },
+        "33568d5ff03072672cce95681df20964": {
+            "text": "Odaberite opcije"
+        },
+        "440494bea619acd17c0a19326d9030fd": {
+            "text": "Polje koje pohranjuje opcije pojedina\u010dnog i vi\u0161estrukog odabira."
+        }
+    }
+}

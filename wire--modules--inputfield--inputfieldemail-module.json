@@ -1,0 +1,63 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldEmail.module",
+    "textdomain": "wire--modules--inputfield--inputfieldemail-module",
+    "translations": {
+        "70d9be9b139893aa6c69b5e77e614311": {
+            "text": "Potvrdi"
+        },
+        "16f09bacbf690906417db0a60cda359c": {
+            "text": "Molimo unesite va\u017ee\u0107u e-mail adresu"
+        },
+        "729be41e3a896b691a703fda562f4c98": {
+            "text": "E-mail adrese koje ste unijeli ne odgovaraju, unesite ih ponovno"
+        },
+        "14d866744fd30744389cd711c4a8d4c7": {
+            "text": "E-mail adresa \"%s\" ve\u0107 se koristi, molimo upotrijebite drugu"
+        },
+        "0b3011446bcaaad42a9a544dbb09a3ed": {
+            "text": "E-po\u0161ta s pro\u0161irenim znakovima u lokalnom dijelu lokalna-dio@domena.com nije omogu\u0107ena"
+        },
+        "2e24bd715edd4dbbff781d4aa0355e99": {
+            "text": "E-po\u0161ta s internacionaliziranim nazivom domene (IDN) nije omogu\u0107ena, koristite e-po\u0161tu koja nije IDN"
+        },
+        "f462a55cf22cc9382696a17a198c2aae": {
+            "text": "E-po\u0161ta prema\u0161uje maksimalnu dopu\u0161tenu du\u017einu od %d znakova"
+        },
+        "afce6fcb2d736e43b0bf509e385d477a": {
+            "text": "Potvrditi adresu e-po\u0161te?"
+        },
+        "f98e5e5fd93bc01f60e2a0a30c90618a": {
+            "text": "Kada je ozna\u010deno, pojavit \u0107e se dva unosa e-po\u0161te i korisnik \u0107e morati dvaput unijeti svoju adresu e-po\u0161te kako bi je potvrdio. To poma\u017ee smanjiti mogu\u0107nost tipfelera."
+        },
+        "dbc0ea7ae14b0b77eca995f4ba7aa9e8": {
+            "text": "Dopustiti e-po\u0161tu s internacionaliziranim nazivom domene (IDN)?"
+        },
+        "35faac2c070c8d9722bc01c2c60509e3": {
+            "text": "Imajte na umu da ne podr\u017eavaju svi sustavi e-po\u0161te slanje\/primanje e-po\u0161te koja sadr\u017ei IDN i\/ili UTF-8 znakove."
+        },
+        "7dd390401b61e8e6e4a7559e5fa9a4cb": {
+            "text": "Odaberite e-mail adresu sa standarnim ASCII znakovima za naj\u0161iru kompatibilnost."
+        },
+        "d906bf971f8572d11f7b4d040b3fbf2d": {
+            "text": "Koristite ASCII standard ako se adresa e-po\u0161te koristi za bilo koju vrstu provjere autenti\u010dnosti ili prijave."
+        },
+        "b038597ded41c029ae3476c546aad739": {
+            "text": "Tako\u0111er preporu\u010dujemo standardnu \u200b\u200bASCII e-po\u0161tu ako \u0107ete slati poruke na adresu e-po\u0161te."
+        },
+        "4f514521d7af0462558b76d5d3417c98": {
+            "text": "Odaberite e-mail adresu sa standarnim ASCII znakovima"
+        },
+        "40b99901bce42a7638315b36c0bec462": {
+            "text": "(preporu\u010deno)"
+        },
+        "949a6edbe4db961f93c5a31476e8b8b3": {
+            "text": "Dopusti IDN host\/domenu"
+        },
+        "ec06902273583078f0de63360295d321": {
+            "text": "Dopusti UTF-8 lokalni dio i IDN host\/domena"
+        },
+        "3918809b01dd88b1c1c892aec102512b": {
+            "text": "Adresa e-po\u0161te u va\u017ee\u0107em formatu"
+        }
+    }
+}

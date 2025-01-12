@@ -1,0 +1,108 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageAdd\/ProcessPageAdd.module",
+    "textdomain": "wire--modules--process--processpageadd--processpageadd-module",
+    "translations": {
+        "a3e80c9c5e2dfb9f58712a83e2006a5e": {
+            "text": "Gdje \u017eelite dodati novi %s?"
+        },
+        "100e1438e523c6553ac21fd872262d56": {
+            "text": "Odaberite nadre\u0111enu stranicu ispod:"
+        },
+        "2298e69a8c95260f81457d8bb74b91ba": {
+            "text": "Trenuta\u010dno ne postoje predlo\u0161ci s definiranim odnosima roditelj\/dijete potrebni za prikaz pre\u010daca \"Dodaj novo\" ovdje."
+        },
+        "bf4ac1b27288d052237b266bafed78a5": {
+            "text": "Da biste to konfigurirali, uredite bilo koji predlo\u017eak (Pode\u0161avanje > Predlo\u0161ci) i kliknite na karticu \u201cObitelj\u201d."
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "U redu"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Dodaj novo"
+        },
+        "46b60bab6d1b7ba1219e3e973f798bb8": {
+            "text": "Nadre\u0111eni predlo\u017eak navodi da se ovdje ne smiju dodavati djeca"
+        },
+        "4adda0ba499618f088c016218590568a": {
+            "text": "Predlo\u017eak \"%1$s\" ne dopu\u0161ta roditelje tipa \"%2$s\""
+        },
+        "8ac79db907beb1536bae6c8bebcd2d8f": {
+            "text": "Roditelj tipa \"%1$s\" ne dopu\u0161ta djecu tipa \"%2$s\""
+        },
+        "66734a327a9407446a6c13da6d7e88ad": {
+            "text": "Nemate pristup za dodavanje stranica nadre\u0111enom %s"
+        },
+        "950464785f49f016bb3488b4bead5c7e": {
+            "text": "Navedeni roditelj nije dopu\u0161ten (%s)"
+        },
+        "5ffb937a7aaced6b2c652cd8b8650135": {
+            "text": "Uneseno ime ve\u0107 se koristi. Ako ga ne izmijenite, naziv \u0107e automatski postati jedinstven nakon \u0161to ga spremite."
+        },
+        "d337f7f6b3b52602b84f206e80fc6a85": {
+            "text": "Ovdje nisu dopu\u0161teni predlo\u0161ci za dodavanje novih stranica."
+        },
+        "76effbf5625101a8e29d5720e986ee6a": {
+            "text": "Predlo\u017eak \"%s\" ovdje nije dopu\u0161ten."
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Predlo\u017eak"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Roditelj"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Snimi"
+        },
+        "7d4be9f67818bd22d064880270a3e4af": {
+            "text": "Snimi + Objavi"
+        },
+        "591d3e7786bdfa26890da22a5565f1f5": {
+            "text": "Snimi + Objavi + Dodaj novo"
+        },
+        "41553b358b6daba19bf079d5ad3eefb1": {
+            "text": "Neiskori\u0161tena privremena stranica"
+        },
+        "9c99ecab6aa8967c077e01a0b3f51668": {
+            "text": "Stvorena stranica %1$s pomo\u0107u predlo\u0161ka: %2$s"
+        },
+        "bd71df4fde063d60b0fe33d87f52f7ff": {
+            "text": "Upozorenje, ime koje ste odabrali \"%1$s\" ve\u0107 je bilo u upotrebi i promijenjeno je u \"%2$s\"."
+        },
+        "abc32b2bc5cd1b61b5d3738f09405c0d": {
+            "text": "Nedostaje obavezno polje: naziv"
+        },
+        "9d9c4e8d05601024166b9a3b0cb46ad6": {
+            "text": "Potreban je odabir predlo\u0161ka"
+        },
+        "a713b3cf3828f00d541e6ae14b294a8f": {
+            "text": "Stranice koje ste odabrali iznad predstavljaju knji\u017ene oznake za nadre\u0111ene stranice na koje \u017eelite dodati djecu. Imajte na umu da ako korisnik nema dopu\u0161tenje za dodavanje stranice odre\u0111enoj nadre\u0111enoj stranici (bilo zbog kontrole pristupa ili obiteljskih postavki predlo\u017eaka), oznaka se ne\u0107e pojaviti."
+        },
+        "e0f8c45404ac3252900cc035530cd905": {
+            "text": "Redoslijed sortiranja pre\u010daca predlo\u0161ka"
+        },
+        "94eef4670f102676a952d0989f852649": {
+            "text": "Da biste promijenili redoslijed pre\u010daca \"Dodaj novi\" predlo\u017eak stranice, povucite i ispustite opcije redoslijedom kojim ih \u017eelite."
+        },
+        "557335482992652fdefe6cc17332688f": {
+            "text": "Za dodavanje ili uklanjanje predlo\u017eaka iz ovih pre\u010daca, pogledajte Obiteljsku karticu ure\u0111iva\u010da predlo\u017eaka."
+        },
+        "bb8bbda58833ce19eef6193e1918e8cf": {
+            "text": "Onemogu\u0107i automatsko objavljivanje"
+        },
+        "b2a25c3747d55c5c17c8fdd9df6b4fb5": {
+            "text": "Prema zadanim postavkama, stranice koje nemaju samo globalna polja (naj\u010de\u0161\u0107e \"naslov\") bit \u0107e objavljene automatski nakon dodavanja."
+        },
+        "586ac396098f671914f6d39ca427dfe8": {
+            "text": "Ovime se zaobilazi neobjavljeno stanje, \u0161to u nekim slu\u010dajevima mo\u017ee biti po\u017eeljna u\u0161teda vremena."
+        },
+        "fdea6cb8047656097fa26264565210a0": {
+            "text": "Po \u017eelji mo\u017eete poni\u0161titi ovo pona\u0161anje ozna\u010davanjem okvira u nastavku."
+        },
+        "c4f4f1adddc771c086745ca04050d415": {
+            "text": "Dodavanje stranice"
+        },
+        "e1622ba9f41f5b695bddc69e3ceaa204": {
+            "text": "Dodaj novu stranicu"
+        }
+    }
+}

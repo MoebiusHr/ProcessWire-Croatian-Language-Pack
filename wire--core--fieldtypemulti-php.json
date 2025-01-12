@@ -1,0 +1,36 @@
+{
+    "file": "wire\/core\/FieldtypeMulti.php",
+    "textdomain": "wire--core--fieldtypemulti-php",
+    "translations": {
+        "e2942a04780e223b215eb8b663cf5353": {
+            "text": "broja\u010d"
+        },
+        "0f87dcdd9cbafb48e5d9e444ba7c14a7": {
+            "text": "Sortiranje i Paginacija"
+        },
+        "7f99274f686fafb79a69fb49fd22b087": {
+            "text": "Ove se postavke odnose i na front-end (web-mjesto) i na back-end (ure\u0111iva\u010d)."
+        },
+        "bfc4400f3a3f1f3ad8647c7391cc3f1c": {
+            "text": "(obrnuto)"
+        },
+        "1785200c818e6b465cab76d18f05aa40": {
+            "text": "Automatsko sortiranje"
+        },
+        "c1e2087d761e1449f626c96d45bb1c3e": {
+            "text": "U nastavku odaberite jedno ili vi\u0161e polja za sortiranje. Za ru\u010dno sortiranje ostavite ovu postavku praznu."
+        },
+        "53fc83e55c6d5a04fd63ffe5c4e90d1c": {
+            "text": "Ograni\u010denje paginacije \/ stavki po stranici"
+        },
+        "cc4713abaa08f23ce8f1a1143a04ee77": {
+            "text": "Ovo ograni\u010dava broj u\u010ditanih\/ure\u0111enih stavki po paginaciji. Vrijednost \"0\" ozna\u010dava da nema ograni\u010denja (zadano)."
+        },
+        "0b01fc6afe7ee324751846ccf0dfc735": {
+            "text": "Paginacija se preporu\u010duje ako \u0107ete raditi sa stotinama do tisu\u0107a stavki (ili vi\u0161e)."
+        },
+        "ab7c5fc204d8e160a7b731a0799bf450": {
+            "text": "Ova postavka ne stupa na snagu osim ako se ne odabere \"Automatsko sortiranje\"."
+        }
+    }
+}

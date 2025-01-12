@@ -1,0 +1,114 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageTable\/InputfieldPageTable.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagetable--inputfieldpagetable-module",
+    "translations": {
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[prazno]"
+        },
+        "140092f149378fe66bcd1b7e472cde79": {
+            "text": "Prije upotrebe konfigurirajte ovo polje s odabirom predlo\u0161ka."
+        },
+        "541d5efe9732bde27704a4d578691629": {
+            "text": "Unesite jedan ili vi\u0161e stupaca u svoje postavke polja prije kori\u0161tenja ovog polja."
+        },
+        "ff63ad7fe05686c64e062c5c034ad04f": {
+            "text": "Prona\u0111ena su djeca koja se mogu dodati u ovu tablicu. Ozna\u010dite ku\u0107icu pokraj bilo koje stavke koju \u017eelite dodati."
+        },
+        "4c41e0bd957698b58100a5c687d757d9": {
+            "text": "Odaberi sve"
+        },
+        "3c59f93c033e789777be18c1ad66b13b": {
+            "text": "U tablicu je dodano %d postoje\u0107ih stranica"
+        },
+        "9ea0c76f6c8f1bc93ccb7f5825d8da15": {
+            "text": "Polja tablice za prikaz u adminu"
+        },
+        "d074a1c108c36f5cd1ad08b7b1af956f": {
+            "text": "Unesite nazive polja (1 po retku) koja \u017eelite prikazati kao stupce u tablici."
+        },
+        "b4defb37338400f9b9d8fea43ce91d5d": {
+            "text": "Da biste odredili \u0161irinu stupca za polje, navedite \"field_name=30\" gdje je \"30\" \u0161irina (u postocima) stupca."
+        },
+        "13d4ce65721e3a572b5f089398240c50": {
+            "text": "Kada specificirate \u0161irine, neka zbroj svih stupaca bude 100."
+        },
+        "8da668acfc6b5861c2d277e8045dabb8": {
+            "text": "Mo\u017eete navesti bilo koje izvorno ili prilago\u0111eno polje."
+        },
+        "ef69a322821bbe5d9851f05bd132068d": {
+            "text": "Tako\u0111er mo\u017eete koristiti potpolja (field.subfield) s poljima koja sadr\u017ee vi\u0161estruka svojstva, poput referenci stranica."
+        },
+        "c775db1b4b86e060f703a4e7cedc292f": {
+            "text": "Prilago\u0111ena polja dodijeljena va\u0161im odabranim predlo\u0161cima uklju\u010duju sljede\u0107e:"
+        },
+        "8ea5a88f78fabcfdc906c9cb8ec013f2": {
+            "text": "Da biste ovdje vidjeli popis mogu\u0107ih prilago\u0111enih polja, odaberite predlo\u017eak na kartici Detalji, Spremi i vratite se ovdje."
+        },
+        "34ff6bbc0c075f35e92dc68a218b7cc2": {
+            "text": "Automatski format naziva stranice"
+        },
+        "a5049200083d5f9dc1767587f109869f": {
+            "text": "Kada se popune, stranice \u0107e se automatski izraditi koriste\u0107i ovaj format imena kad god korisnik klikne gumb \"Dodaj novo\"."
+        },
+        "50716328038d96ec903e9aa46536fba9": {
+            "text": "Ako se ostavi prazno, od korisnika \u0107e se tra\u017eiti da unese naziv stranice prije nego \u0161to se ona izradi."
+        },
+        "0c0b6a3b9dd7e6b8885490d74f2306e7": {
+            "text": "Ako format naziva sadr\u017ei znakove koji nisu alfanumeri\u010dki, smatra se da je to [PHP format datuma](%s) ."
+        },
+        "6fd483af216b700d4e5a1cbaecfc170f": {
+            "text": "Ako sadr\u017ei samo alfanumeri\u010dke znakove, koristit \u0107e se izravno, s brojem dodanim na kraj (kada je potrebno) kako bi se osigurala jedinstvenost."
+        },
+        "9ad1067becc6f575ac4c13c7294fdffe": {
+            "text": "Primjer: **Ymd:His** je dobar format imena za imena stranica temeljena na datumu\/vremenu."
+        },
+        "1b599a361b1d70e9e618b990e78c3bac": {
+            "text": "Pona\u0161anje modalnog prozora za ure\u0111ivanje"
+        },
+        "ddc5451d4ec8474b52d0c29aa3a0d475": {
+            "text": "Automatski zatvori nakon spremanja (zadano)"
+        },
+        "7d3bd56da0d093058cd12ccf10411b3d": {
+            "text": "Dr\u017eite prozor otvoren, zatvorite ru\u010dno"
+        },
+        "fd77179553ab23331a3bb360662cbf47": {
+            "text": "ProFields: Tablica stranica"
+        },
+        "0a897fae6e81285f1da55dd87457ec94": {
+            "text": "Polje za unos koje prati FieldtypePageTable"
+        },
+        "ab11deae48aaa0e5cadf227120ed4ade": {
+            "text": "Ime"
+        },
+        "848656e110ec0bd90b47b5bf7c961c95": {
+            "text": "Stvoreno"
+        },
+        "872db811a5e431cc819ba322361af380": {
+            "text": "Izmijenjeno"
+        },
+        "f45cf450f2435b8e50cee88a4ac15112": {
+            "text": "Objavljeno"
+        },
+        "036eabaedf4f638437a5ecdf7582d541": {
+            "text": "Izmijenio"
+        },
+        "5058207150146a31a3722ea410dac987": {
+            "text": "Stvorio"
+        },
+        "fab3cb63defc8837e34f8ff45d16299f": {
+            "text": "Putanja"
+        },
+        "df286bfb6dd8fa62b0271fac208797fe": {
+            "text": "Predlo\u017eak"
+        },
+        "615d41dc9054191178b392de366b7168": {
+            "text": "Roditelj"
+        },
+        "1817eacf444b166d0c26160f2176ae96": {
+            "text": "Dijete"
+        },
+        "d02df721111f58d691538543749d7ce0": {
+            "text": "Dodaj novo"
+        }
+    }
+}

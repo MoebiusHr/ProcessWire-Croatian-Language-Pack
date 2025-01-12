@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldTinyMCE\/InputfieldTinyMCE.module.php",
+    "textdomain": "wire--modules--inputfield--inputfieldtinymce--inputfieldtinymce-module-php",
+    "translations": {
+        "b51000000ff730e7cacd10980186c1a4": {
+            "text": "Odaberi sliku"
+        },
+        "221593037a5835ee4689a1042bffdd1b": {
+            "text": "Uredi sliku"
+        },
+        "c97c12dea7825a2fa7f2b23032c6aeb4": {
+            "text": "Ovdje je va\u0161 tekst naslova"
+        },
+        "5c0c8c704fe1487a85a1901dec284b1b": {
+            "text": "Snimanje slike"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Odustani"
+        },
+        "21051abf79012a1b2ee50d13b9731a16": {
+            "text": "Umetni sliku"
+        },
+        "073b2b9e8d78b9523c0f1eda1c0c8f8c": {
+            "text": "Odaberi slijede\u0107u"
+        },
+        "92987a0bdafb6d7ae317581d48f723a8": {
+            "text": "Umetni poveznicu"
+        },
+        "76d1048c452cefa5c6fe82d7edc0a7e0": {
+            "text": "Uredi poveznicu"
+        }
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeTextareaHelper.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypetextareahelper-php",
+    "translations": {
+        "ffb81312066680e472a3392467b06d40": {
+            "text": "Uklonite \"HTML Entity Encoder\" iz \"Text formatters\" jer ovo polje dopu\u0161ta Markup\/HTML."
+        },
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Vrsta polja za unos"
+        },
+        "127852afa67b41673ab8ea17b383847c": {
+            "text": "Vrsta polja koje \u0107e se koristiti za prikupljanje unosa (Textarea je zadana vrijednost). Imajte na umu da ako ovo promijenite i po\u0161aljete, dostupne opcije konfiguracije u tabu kartice \"unos\" mogu se promijeniti."
+        },
+        "e9d6c26a86350de8002c93886f74249f": {
+            "text": "Preporu\u010damo kori\u0161tenje TinyMCE umjesto CKEditora kada stvarate nova polja oboga\u0107enog teksta."
+        },
+        "5bed2fb5d791f65cae338238f04c0ac4": {
+            "text": "Kliknite ovdje za instalaciju TinyMCE"
+        },
+        "2effa58f13159d138a634233e246713d": {
+            "text": "Vrsta sadr\u017eaja"
+        },
+        "a9b2702617bab3152e6c7018a2285a92": {
+            "text": "Nepoznato\/Tekst"
+        },
+        "d337592463bb66726521716a080b78da": {
+            "text": "Opcija [u]Markup\/HTML[\/u] preporu\u010duje se za polja koja koriste ure\u0111iva\u010de oboga\u0107enog teksta (kao \u0161to je CKEditor) i ona koja sadr\u017ee HTML. Omogu\u0107uje dodatne provjere tijekom rada, filtriranje za osiguranje kvalitete."
+        },
+        "0601bf716a208a7476c5f97c040fc44c": {
+            "text": "Ako odaberete opciju [u]Nepoznato\/Tekst[\/u], sna\u017eno se preporu\u010duje [radi sigurnosti] da odaberete i \"HTML Entity Encoder\" u gornjem polju [u]Text Formatters[\/u]."
+        },
+        "f49044eb0f5ff823c157a2feedf2b9f8": {
+            "text": "Za vi\u0161e informacija o gornjim opcijama pogledajte [opis opcija vrste sadr\u017eaja](%s)."
+        },
+        "2addde1795e171e77196f84ba88dbcbf": {
+            "text": "HTML opcije"
+        },
+        "22f8b4c1c9e9fb845bebab08141575db": {
+            "text": "Sljede\u0107e opcije pru\u017eaju dodatno osiguranje kvalitete za HTML tijekom izvo\u0111enja."
+        },
+        "6691dadd4bc16c7d23fee64a309e2eaa": {
+            "text": "**Napomena:** ove opcije trenutno su eksperimentalne. Pripazite na probleme i prijavite sve pogre\u0161ke."
+        },
+        "8985f62bfdbc5d278d07342bc4a7f5c2": {
+            "text": "Gornje opcije bilje\u017ee pogre\u0161ke u Pode\u0161avanje > Dnevnici > markup-qa-errors."
+        },
+        "4518ac1588b93d4b89d45741c610a3f5": {
+            "text": "Apstrakcija veze:"
+        },
+        "9bf757dce49f1b058b55e0234e5b422a": {
+            "text": "Automatski a\u017eurirajte href atribute kada se interne veze promijene"
+        },
+        "1721f5bf2ec99fbb54f5ff6cea84968c": {
+            "text": "A\u017eurirajte alt atribute slike:"
+        },
+        "e18d0ae0d4d738e2afb687643527b107": {
+            "text": "Zamijenite prazne alt atribute opisom slike"
+        },
+        "87b47dca906c93d9e1a035e8d14e6e95": {
+            "text": "Popravi pokvarene slike:"
+        },
+        "1d88fc19dbd058dc84585c30ab49b306": {
+            "text": "Uklonite img tagove koje bi rezultirale gre\u0161kom 404 ili ponovno izradite slike kada je to mogu\u0107e"
+        },
+        "3b51a8c40e3436386b687d45ddb5f836": {
+            "text": "Kontrola pristupa slici:"
+        },
+        "4d1e0f588db26c2678b311717d9d5c65": {
+            "text": "Uklonite slike iz oznaka kojima korisnik nema pristup pregledavanju"
+        },
+        "8ab4f511bd5b2971beecbe09b1462818": {
+            "text": "Primijenite HTML opcije sada"
+        },
+        "5fe0528e0c4b792b394749289ad392f1": {
+            "text": "Da biste odmah primijenili gornje opcije na sve postoje\u0107e stranice, ozna\u010dite ovaj okvir. Ovo se prvenstveno usredoto\u010duje na opciju apstrakcije veze."
+        },
+        "7b4f1bb8cb43086b5d5f3b850d06a6c3": {
+            "text": "Upozorenje, ovo izvr\u0161ava a\u017euriranje na potencijalno stotinama stranica (maksimalno 300 po pokretanju) i a\u017eurira vrijeme izmjene stranice. Ako va\u0161a web-lokacija ima puno stranica, mo\u017eda \u0107ete ovo morati pokrenuti vi\u0161e puta."
+        },
+        "d9acd327c0ee998a16c85324936d214d": {
+            "text": "**Kao dodatnu mjeru opreza preporu\u010duje se da napravite sigurnosnu kopiju svoje baze podataka prije pokretanja ovoga.**"
+        },
+        "0f754c670b9d8c02b22eaeebd630181e": {
+            "text": "\u010cini se da smo gotovi! HTML opcije sada su u potpunosti primijenjene."
+        },
+        "2029a900eb62eecaaf188a654c2c084d": {
+            "text": "Budu\u0107a a\u017euriranja primjenjivat \u0107e se automatski kada se svaka stranica spremi."
+        },
+        "4b9ad9f31022ef1c2c6d202da55a0365": {
+            "text": "Ima jo\u0161 stranica za prijavu. Ponovno potvrdite okvir da biste primijenili preostale stranice."
+        },
+        "2c1df5375d9f20282b3df677f8a4bc0c": {
+            "text": "Trebate primijeniti vi\u0161e stranica odjednom? Mo\u017eete dodati %s postavku u svoju datoteku \/site\/config.php."
+        },
+        "d4705c271d7e1e75a05e9b6236ad836c": {
+            "text": "(pogledajte log zapis %s)"
+        },
+        "d53200ec5949152baffbeed6c4d58966": {
+            "text": "A\u017eurirano %1$d od %2$d stranica za HTML opcije."
+        },
+        "8a64cae4f29b541d3e532599d513e04e": {
+            "text": "Sa\u017eetak osiguranja kvalitete ozna\u010davanja\/HTML-a:"
+        },
+        "7b538279515341a88a5fcfb4197111f6": {
+            "text": "Ostale HTML opcije primjenjuju se tijekom izvo\u0111enja."
+        },
+        "9b039b000924bae6bb0977867cc455a0": {
+            "text": "%d vanjskih a[href] tagova"
+        },
+        "211db397a32350b16b977f65a9acada6": {
+            "text": "%d lokalnih a[href] tagova"
+        },
+        "bb83c854fd76ba88b57f700280e65291": {
+            "text": "%d interne\/sa\u017eetke veze na stranicu"
+        },
+        "52b8044e625821dcc4f2002c70f05881": {
+            "text": "%d file\/asset referenci"
+        },
+        "b49218c47bb7e184c12776471a865612": {
+            "text": "%d relativnih a[href] oznaka a\u017eurirano"
+        },
+        "84a543e559f6e8ae86ba9ca203f6c57f": {
+            "text": "%d lokalnih a[href] \"non-page\/unrecognized\" tagova"
+        },
+        "2fb3cb1dbd223aca0a255df639afabb1": {
+            "text": "%d veza koje nisu http a[href] kao \u0161to su mailto, tel itd."
+        },
+        "a0b71249600398fd6f497273a8fbd0c6": {
+            "text": "%d nerazrije\u0161enih a[href] tagova"
+        },
+        "9a2c2c21237a6938a98824b3993a9623": {
+            "text": "%d lokalnih img[src] tagova"
+        },
+        "1207ad89efff06ef7ff663d9b3a61af4": {
+            "text": "%d nerazrije\u0161enih img[src] tagova"
+        },
+        "29cf35e7a0357a5a759b715afbcfa857": {
+            "text": "%d nerazrije\u0161enih i popravljenih img[src] tagova"
+        },
+        "bf488dca57621015b17e715b49053f72": {
+            "text": "%d praznih img[alt] tagova koji \u0107e se popuniti tijekom izvo\u0111enja"
+        }
+    }
+}

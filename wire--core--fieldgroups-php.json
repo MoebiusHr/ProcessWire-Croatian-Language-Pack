@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/Fieldgroups.php",
+    "textdomain": "wire--core--fieldgroups-php",
+    "translations": {
+        "abce719a5ff28157e0e92337d8dcf8bd": {
+            "text": "Nije mogu\u0107e prona\u0107i polje: %s"
+        },
+        "f1d3c736f589a82f1519c711fd4123c0": {
+            "text": "Nije mogu\u0107e prona\u0107i polje za postavljanje konteksta polja: %s"
+        },
+        "fdd1e49a5de74a22586acf7420fcbd8d": {
+            "text": "Upozorenje, svi podaci u ovim poljima bit \u0107e trajno izbrisani (molim potvrdite): %s"
+        }
+    }
+}

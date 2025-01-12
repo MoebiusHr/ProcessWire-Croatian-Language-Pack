@@ -1,0 +1,9 @@
+{
+    "file": "wire\/modules\/Process\/ProcessHome.module",
+    "textdomain": "wire--modules--process--processhome-module",
+    "translations": {
+        "3555f18b32d499274ee3fcfb73c15558": {
+            "text": "Djeluje kao proces rezerviranog mjesta za korijen administratora. Osigurava pravilnu kontrolu protoka nakon prijave."
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeOptions\/SelectableOptionConfig.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypeoptions--selectableoptionconfig-php",
+    "translations": {
+        "d5d394071928f1f25b0e3c0f0a336d13": {
+            "text": "Potvrdite da \u017eelite izbrisati opcije"
+        },
+        "1465fa2b1c38fd4e8579e84e2b31a6d6": {
+            "text": "\u0160to treba koristiti za unos?"
+        },
+        "a088b8e4d1d572f82e2661ab0862f00b": {
+            "text": "Ovisno o vrsti unosa koju odaberete, korisnik \u0107e mo\u0107i odabrati jednu ili vi\u0161e opcija. Neke vrste unosa (kao \u0161to je AsmSelect) tako\u0111er podr\u017eavaju odabire koje mo\u017ee sortirati korisnik. Neke vrste unosa tako\u0111er pru\u017eaju vi\u0161e postavki na kartici *Input* (vidljivo nakon spremanja)."
+        },
+        "2b19b4791a203f60ffe7369493dd7b5f": {
+            "text": "Koje su mogu\u0107nosti izbora?"
+        },
+        "7ca00a9ac9a521d8e1d62919da2e66c6": {
+            "text": "Unesite jednu opciju koju mo\u017eete odabrati po retku. Nakon \u0161to spremite, ID broj \u0107e biti dodijeljen svakoj od va\u0161ih opcija, \u0161to \u0107ete vidjeti kao `123=title`, na primjer. Pogledajte na\u0161e [upute za kori\u0161tenje ovog polja](%s)."
+        },
+        "ebe68b1a7edd199230885058ca3f3351": {
+            "text": "Napomena za vi\u0161e jezika: definirajte opcije na zadanom jeziku i spremite ih prije nego ih prevedete na druge jezike."
+        },
+        "0581f7830fb426e1d56efadbc1a09edb": {
+            "text": "Koje opcije \u017eelite unaprijed odabrati? (ako postoje)"
+        },
+        "ad560982b535502d63dbf2f46ea8b3a6": {
+            "text": "Ovo polje tako\u0111er slu\u017ei kao pregled va\u0161e odabrane vrste unosa (%s) i opcija."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ni\u0161ta"
+        },
+        "69a114a946943d26c4ea03ba031b4124": {
+            "text": "Imajte na umu: va\u0161 predodabir nije aktivan jer ovo polje nije obavezno polje. Aktivirajte opciju \u201cobavezno\u201d u kartici za unos polja."
+        },
+        "67f541f6547ed8217b9d81909acc241f": {
+            "text": "Predodabir je aktivan jer je ovo polje obavezno polje."
+        },
+        "7a55572484844c1b337505ee266d3007": {
+            "text": "Primjer kori\u0161tenja API-ja"
+        },
+        "9786dd72ff72c22b5cde66e2ef3a6c6a": {
+            "text": "Ispis jednog odabira:"
+        },
+        "c575fc08137bccf13da4fff3117ff3e2": {
+            "text": "Izlaz vi\u0161estrukog odabira:"
+        },
+        "d51f7ee41ebdd5252b9a4410e297b306": {
+            "text": "Ako \u017eelite ispisati vrijednosti umjesto naslova, zamijenite \"title\" s \"value\" u gornjim primjerima."
+        },
+        "c3524d56fb147114b84d6e9dd56110a9": {
+            "text": "Obri\u0161i ovu opciju"
+        },
+        "c766e5be484b0e0a2104bc2fe925000c": {
+            "text": "Obri\u0161i ove opcije"
+        }
+    }
+}

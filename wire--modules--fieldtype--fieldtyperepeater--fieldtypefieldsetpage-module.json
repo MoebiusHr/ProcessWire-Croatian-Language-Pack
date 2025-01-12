@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/FieldtypeFieldsetPage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--fieldtypefieldsetpage-module",
+    "translations": {
+        "ad59ad3d4d7edf6963e2547a6436effd": {
+            "text": "Polja u skupu polja"
+        },
+        "cc50c812a69f0bae59a44a023c8c58b2": {
+            "text": "Definirajte polja koja koristi ovaj skup polja. Tako\u0111er mo\u017eete povu\u0107i i ispustiti polja \u017eeljenim redoslijedom."
+        },
+        "001059727a69c3158a6716b9430d5d1f": {
+            "text": "Skup polja (Stranica)"
+        },
+        "c1aa12461889e9773f2c053ae68fb817": {
+            "text": "Skup polja s poljima izoliranim za odvojeni prostor imena (stranica), omogu\u0107uju\u0107i ponovnu upotrebu polja."
+        }
+    }
+}

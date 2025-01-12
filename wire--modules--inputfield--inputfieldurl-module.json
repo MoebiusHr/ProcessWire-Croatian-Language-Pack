@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldURL.module",
+    "textdomain": "wire--modules--inputfield--inputfieldurl-module",
+    "translations": {
+        "5edb7300e25ff8ec5431cabe04c82592": {
+            "text": "Lokalne URL-ove zapo\u010dnite s \u201c\/\u201d i izostavite dio \u201c%s\u201d."
+        },
+        "31d3da8cb2ee3f26243a6157ce0e5634": {
+            "text": "Prona\u0111ena je gre\u0161ka - provjerite je li to va\u017ee\u0107i URL"
+        },
+        "d3900709c4f1a95486e071e072d412c5": {
+            "text": "Imajte na umu da je %s dodan"
+        },
+        "1a30197ddff7dc9d65d91f285125cdc2": {
+            "text": "URL u va\u017ee\u0107em formatu"
+        }
+    }
+}

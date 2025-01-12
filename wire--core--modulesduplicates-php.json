@@ -1,0 +1,12 @@
+{
+    "file": "wire\/core\/ModulesDuplicates.php",
+    "textdomain": "wire--core--modulesduplicates-php",
+    "translations": {
+        "58a6d03e30331d26f3ab31c392c104ab": {
+            "text": "\u010cini se da postoji vi\u0161e kopija modula \"%s\" u datote\u010dnom sustavu."
+        },
+        "47edefbd0afb7d34d9a1ea2e99a18d1b": {
+            "text": "Uredite postavke modula kako biste pojasnili ProcessWireu koji treba koristiti:"
+        }
+    }
+}

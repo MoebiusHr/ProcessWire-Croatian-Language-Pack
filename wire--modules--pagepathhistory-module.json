@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/PagePathHistory.module",
+    "textdomain": "wire--modules--pagepathhistory-module",
+    "translations": {
+        "112a51baa056cba6320b36b7a71bcb1c": {
+            "text": "Minimalna dob (sekunde)"
+        },
+        "6f6974b30b7af85a0b0b8e3382fc9345": {
+            "text": "Po\u010dnite bilje\u017eiti povijest stranice toliko sekundi nakon \u0161to je stvorena. Preporu\u010da se najmanje 2 ili vi\u0161e sekundi."
+        },
+        "b26126a5fdfea23d379aa813c392d533": {
+            "text": "Zadano: %s"
+        },
+        "2bcf586c695b0ada1781efb8ac78d294": {
+            "text": "Izbrisano %d povijesnih putanja stranice"
+        },
+        "c6d134febe49205b49a3d50c095359e1": {
+            "text": "Izbrisati cijelu povijest putanja stranice?"
+        },
+        "49ec38867ac66d1ebc5e03d7d27b5939": {
+            "text": "Trenuta\u010dno postoji %d povijesnih putanja stranica u bazi podataka."
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Da li ste sigurni?"
+        },
+        "7d77cfb1efb2f2ae3b3870708b58d7ee": {
+            "text": "Ove se informacije koriste za automatska preusmjeravanja i vi\u0161e. Ne mo\u017ee se vratiti nakon brisanja. Ozna\u010dite okvir kako biste potvrdili da to stvarno \u017eelite u\u010diniti."
+        }
+    }
+}

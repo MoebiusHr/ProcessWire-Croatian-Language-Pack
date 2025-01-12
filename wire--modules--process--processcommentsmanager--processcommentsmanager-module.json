@@ -1,0 +1,279 @@
+{
+    "file": "wire\/modules\/Process\/ProcessCommentsManager\/ProcessCommentsManager.module",
+    "textdomain": "wire--modules--process--processcommentsmanager--processcommentsmanager-module",
+    "translations": {
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "uredi"
+        },
+        "15422d54ec0d47000dc86a9820a5237e": {
+            "text": "Istaknuto"
+        },
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "Odobreno"
+        },
+        "2d13df6f8b5e4c5af9f87e0dc39df69d": {
+            "text": "Na \u010dekanju"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Obri\u0161i"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Sve"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Ne"
+        },
+        "8cc46df5ae23686a6fbb8e132f4aaf26": {
+            "text": "Odgovori"
+        },
+        "98a0736c51255f757cf109bccfa1d7e2": {
+            "text": "Nema instaliranih polja za komentare"
+        },
+        "adf240c38c161d42244e9eb21f515ba2": {
+            "text": "Odaberite polje za komentare"
+        },
+        "9f97f1e4ae9c77faa2f4d30bb84dd69b": {
+            "text": "U URL-u nije navedeno polje komentara"
+        },
+        "4f85d037300d5f7efcf7fdc3f973db7f": {
+            "text": "Neprepoznato polje"
+        },
+        "6a65e2235642194467bf83001d23639d": {
+            "text": "Odgovori na"
+        },
+        "193cfc9be3b995831c6af2fea6650e60": {
+            "text": "Stranica"
+        },
+        "d63635a63603e4ef806df97294a902ed": {
+            "text": "Meta podaci za komentar #%d"
+        },
+        "ca962ca6f37c2772794953e327cd7cb2": {
+            "text": "Komentar trenutno nema meta podatke"
+        },
+        "78159fc614d1e3df7d39aa351f0578e2": {
+            "text": "Meta JSON ure\u0111iva\u010d"
+        },
+        "daa6b483e9f6ca081ec7e0b4a352f9e9": {
+            "text": "Snimi promjene"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Odustani"
+        },
+        "40fe8d33d2cf8c5f10422b0b229dbcc4": {
+            "text": "Nisu otkrivene promjene"
+        },
+        "646282aa96109d00b491937c02c1753a": {
+            "text": "A\u017eurirana meta za komentar #%d"
+        },
+        "7126c205afb1135079ad7a47630a2cba": {
+            "text": "Gre\u0161ka pri a\u017euriranju meta za komentar #%d"
+        },
+        "663cac8a406b356e671fb273a143ab84": {
+            "text": "Nije mogu\u0107e spremiti jer JSON nije valjan"
+        },
+        "5d25563c1a89451d742876569bc17e1c": {
+            "text": "Uredi komentar #%d"
+        },
+        "a8232bdb3f7f5bd453b463e79fbf9864": {
+            "text": "Komentar #%d od %s"
+        },
+        "d754a9e8cb640da12849a040f3ca8176": {
+            "text": "Va\u0161 odgovor"
+        },
+        "90f2f5cb0d375a1b5d2ef2888c551e1e": {
+            "text": "Odabrana stranica se ne mo\u017ee ure\u0111ivati"
+        },
+        "62f6fe8b39b423d3d3c6056557b86f78": {
+            "text": "Odabrana stranica nema polje: %s"
+        },
+        "301fdff99e595b9e55d94b9b51b24277": {
+            "text": "Izbrisan komentar #%d"
+        },
+        "9ee770091bc28969ca49eb8b60826002": {
+            "text": "A\u017eurirani komentar #%d"
+        },
+        "42c2e3ae4b782ca91970d7420496f69f": {
+            "text": "Dodan komentar #%d"
+        },
+        "30d34af303a36cdbee9d37d27980cdfe": {
+            "text": "Pogre\u0161ka pri spremanju komentara"
+        },
+        "b692fa2b57872b7a287d9acb6c616828": {
+            "text": "Citiraj \/ autor"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Stvoreno"
+        },
+        "4c9d8240b71a9037b069004ccaa62aad": {
+            "text": "Web lokacija\/URL"
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Tekst"
+        },
+        "63e90287fd383e2e42e4778c0e9d7a71": {
+            "text": "Glasovi za"
+        },
+        "b45352aeca3646b5fb15baa385d44224": {
+            "text": "Glasovi protiv"
+        },
+        "d37c550d781bfb93b0088a2470598bcf": {
+            "text": "Zvijezdice"
+        },
+        "5d97927a6eed8f7f5a628428615d1174": {
+            "text": "Obavijestite gore navedenu e-po\u0161tu kada"
+        },
+        "6e7b34fa59e1bd229b207892956dc41c": {
+            "text": "NIkada"
+        },
+        "988c8ef2841b65928303615052466c17": {
+            "text": "Postoji odgovor na ovaj komentar"
+        },
+        "67ac3c361b7fe0ebf62c067bf3e31500": {
+            "text": "Kad god se na ovoj stranici objavi novi komentar"
+        },
+        "7cc293f9e7daf09af51e3e04210059af": {
+            "text": "Dopustiti obavijesti drugima?"
+        },
+        "1a595440a8aebad5a30f09f2fd73cf66": {
+            "text": "Kada je odabrano \"Da\", e-poruke o ovom novom komentaru bit \u0107e poslane korisnicima koji su odabrali primanje obavijesti."
+        },
+        "54370b79c5171298a76fecdc5bb56e8e": {
+            "text": "Nije mogu\u0107e prona\u0107i stranicu: %d"
+        },
+        "13cda2cfc29efb3f6a7b8b9f7c24acd9": {
+            "text": "Stranica %d nema polje: %s"
+        },
+        "36099fd1f86153fbe98d6d09ad5c64fd": {
+            "text": "Premje\u0161ten komentar #%1$d sa stranice %2$d na stranicu %3$d"
+        },
+        "1bda80f2be4d3658e0baa43fbe7ae8c1": {
+            "text": "pogledaj"
+        },
+        "4e97aeeaa8b15ca1180fcd1f3ac478d1": {
+            "text": "Kada"
+        },
+        "004bf6c9a40003140292e97330236c53": {
+            "text": "Akcija"
+        },
+        "6f9e04c43332fd4945f2c933c8eea611": {
+            "text": "Citiraj"
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ni\u0161ta"
+        },
+        "30269022e9d8f51beaabb52e5d0de2b7": {
+            "text": "Roditelj"
+        },
+        "b3c5b21d2cb47cc950fd4667edaf404c": {
+            "text": "Gdje"
+        },
+        "e84afaab83ecb301b3d97ce4174d2773": {
+            "text": "odgovor"
+        },
+        "06d9d9227a6c26ee0148439a24dd351f": {
+            "text": "Odgovor %s"
+        },
+        "8c3560971347019d5f97199e943831f0": {
+            "text": "Glasova"
+        },
+        "aaf9ed605d0193362321ba0def15c9b7": {
+            "text": "Obavijesti"
+        },
+        "9b4a46700a216e7f86402b5a11722f5f": {
+            "text": "Komentar ID"
+        },
+        "0b5be322b470d22de5cd2ecdf9e9361f": {
+            "text": "ID komentara na koji ovaj odgovara."
+        },
+        "e8108834c7ffb39092e8284f6ebeae5d": {
+            "text": "ID stranice na kojoj postoji ovaj komentar."
+        },
+        "824d3f8e2abf1d4d5501516dafa0797c": {
+            "text": "Pogledajte sve koji imaju vrijednost"
+        },
+        "f64f516a321829f21a8686d7411c184e": {
+            "text": "Pogledaj stranicu"
+        },
+        "5bcd278346ef0ee9a549bd38478ed1e6": {
+            "text": "Uredi vrijednost"
+        },
+        "3fa4031425bbfdb55a03849422d8d9dc": {
+            "text": "Uredi stranicu"
+        },
+        "436ab3711aae372f3890d1885f4d4d2a": {
+            "text": "Prika\u017ei samo komentare sa stranice"
+        },
+        "cd8c15f27abadeefe68a23b7333543aa": {
+            "text": "Urednik komentara"
+        },
+        "bc9e60a9d89ccff64f5282425aa1374e": {
+            "text": "Odgovorite na ovaj komentar"
+        },
+        "02334c757771bda658242d624c167dc7": {
+            "text": "Pregledajte\/uredite meta podatke"
+        },
+        "a690f09cec7c496921a55201d25b9a09": {
+            "text": "Odgovori #"
+        },
+        "d442d63d91aee0c27fffe480c591f6d8": {
+            "text": "Podesi status:"
+        },
+        "4f5d5f295ddc8fd8673e74dd5fbe114a": {
+            "text": "po stranici"
+        },
+        "1ef29a5a234edee09d7e54a321740181": {
+            "text": "Ozna\u010dite\/odzna\u010dite sve"
+        },
+        "67148361142da466e462aed78d201888": {
+            "text": "Nema ozna\u010denih stavki"
+        },
+        "a46e2270222c49988714ec7916109fc4": {
+            "text": "Radnje (ozna\u010dene stavke)"
+        },
+        "e8eaf777c8e1f5b4e219d2e79cfd755f": {
+            "text": "Poni\u0161ti: glasovi za"
+        },
+        "cf2dd3571dc6f61216f9f14785d7e227": {
+            "text": "Poni\u0161ti: glasovi protiv"
+        },
+        "dec8ba3ab6e0a24199eb5b6c43a9c846": {
+            "text": "Datum (novi\u2013stari)"
+        },
+        "33abd1fd65941eb346da43ae77afbbb0": {
+            "text": "Datum (stari\u2013novi)"
+        },
+        "ff138d55cfc1cb9ad05eff795e830b6c": {
+            "text": "Zvjezdice (vi\u0161e\u2013ni\u017ee)"
+        },
+        "5a4745441b4ca1eaecd9d27664d7a667": {
+            "text": "Zvjezdice (ni\u017ee\u2013vi\u0161e)"
+        },
+        "eee1a3d85e91b9944c98c7558f706b27": {
+            "text": "Imate nespremljene promjene!"
+        },
+        "aa55eeb3bfe951eb9d56e8a919d80781": {
+            "text": "od %d"
+        },
+        "30f29dc6505d24512de6f3189a5bda62": {
+            "text": "Ni\u0161ta za prikazati"
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Komentari"
+        },
+        "37128d5a4c6200152c60cd46c829d635": {
+            "text": "Upravljajte komentarima na svojoj web stranici izvan ure\u0111iva\u010da stranice."
+        },
+        "43ffce869929998c02ec3de3dd218d03": {
+            "text": "%d odgovor"
+        },
+        "af617b357692e5cded9ff1dd859080b3": {
+            "text": "%d odgovora"
+        },
+        "a35fa72f9544ae5e79a5ec2fab77a292": {
+            "text": "%d vrijednost"
+        },
+        "98c29131727c2ed01bf8da85368e996b": {
+            "text": "%d vrijednosti"
+        }
+    }
+}

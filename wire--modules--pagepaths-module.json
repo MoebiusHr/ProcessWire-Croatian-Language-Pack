@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/PagePaths.module",
+    "textdomain": "wire--modules--pagepaths-module",
+    "translations": {
+        "c78ef210c4712423d0b4d857718f9bed": {
+            "text": "Dovr\u0161ena obnova za %d sekundi"
+        },
+        "197b94887c65d8aa396bb5080f7d66ff": {
+            "text": "Ponovno izgradi indeks staza stranice za %d stranice"
+        },
+        "2eac6090faeb03e3bc9dab9323642864": {
+            "text": "Obnovi sada"
+        },
+        "db40fb4d30b0f723a429818f05983c74": {
+            "text": "Procijenjeno vrijeme obnove je do 5 sekundi na 1000 stranica."
+        },
+        "c46d2f416d22eb335a7f85725b516a6d": {
+            "text": "Postoji %d stranica za obradu."
+        },
+        "059ede5738edbc41d9d2037e1785f3a9": {
+            "text": "Ovaj modul trenuta\u010dno ima %d redaka pohranjenih (staze staza i verzije staza staza)."
+        },
+        "fff87d4b1b8c614ab3389cb892a53361": {
+            "text": "Odaberite opciju \"ponovno izgradi sada\" da biste stvorili indeks staza stranice."
+        },
+        "d6fee4e5741568290c0f4c4edc81f70f": {
+            "text": "A\u017eurirana %d putanja"
+        },
+        "b198072961bf47ed9c790c1006f98372": {
+            "text": "A\u017eurirano %d putanja"
+        }
+    }
+}

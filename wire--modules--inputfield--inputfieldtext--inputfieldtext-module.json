@@ -1,0 +1,105 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldText\/InputfieldText.module",
+    "textdomain": "wire--modules--inputfield--inputfieldtext--inputfieldtext-module",
+    "translations": {
+        "3c046b3ba4bce0e808ae74b1f17d4cdc": {
+            "text": "1 rije\u010d"
+        },
+        "4694403722611f0dab5b4020626b289b": {
+            "text": "%d rije\u010di"
+        },
+        "266be751f6043dd6f14366d90c02e395": {
+            "text": "1 znak"
+        },
+        "1799f67dd85c2b51921d814c95bc30dc": {
+            "text": "%d znakova"
+        },
+        "42eab4ec87a7e8c172ab10a645ab9301": {
+            "text": "(potrebno najmanje %d)"
+        },
+        "cd4377f9e686f1024a3d4358bf96235e": {
+            "text": "(%d maks.)"
+        },
+        "3c5d93eab9cf5f9c46905bcf44e863af": {
+            "text": "Ne odgovara tra\u017eenom uzorku"
+        },
+        "587a544effd13d88cb89456df1222d73": {
+            "text": "Potrebno je najmanje %1$d znakova (trenutno ima %2$d znakova)."
+        },
+        "773726357c07d9847f900eef6ed9b6af": {
+            "text": "Vrijednost prema\u0161uje maksimalnu dopu\u0161tenu du\u017einu od %d znakova i skra\u0107ena je."
+        },
+        "65be4bb9e294bfb3e8b7c09ca0017ef4": {
+            "text": "Minimalna duljina"
+        },
+        "9df187935ceb54067692c568b45e042b": {
+            "text": "Minimalna duljina (u znakovima) koju zahtijeva ovo polje."
+        },
+        "8eaf7dcee17c55fd550a28c803b47718": {
+            "text": "Ako polje nije \"obavezno\", tada se minimalna duljina primjenjuje samo kada je prisutna vrijednost."
+        },
+        "94f0e608658539187d65dddeea593677": {
+            "text": "Maksimalna duljina"
+        },
+        "a4965347ff8523a66897b92fec81e04e": {
+            "text": "Maksimalna duljina (u znakovima) koju dopu\u0161ta ovo polje."
+        },
+        "62b926a914028b7677a7c1e33ae9306e": {
+            "text": "Vrijednost \"0\" ozna\u010dava da nema maksimuma."
+        },
+        "64d129224a5377b63e9727479ec987d9": {
+            "text": "Broja\u010d"
+        },
+        "e98d599c27d0cc5eac6f2306b4c5891a": {
+            "text": "Nema broja\u010da"
+        },
+        "00914008e58920e2994f712269d2e306": {
+            "text": "Broja\u010d znakova"
+        },
+        "e5be16f125cae69d8a9185392d6b3393": {
+            "text": "Broja\u010d rije\u010di"
+        },
+        "8f72b73949c8127fb6e116573cbb970c": {
+            "text": "Preporu\u010da se da prika\u017eete broja\u010d znakova kada koristite gore navedene postavke minimalne\/maksimalne duljine."
+        },
+        "6f6cb72d544962fa333e2e34ce64f719": {
+            "text": "Veli\u010dina"
+        },
+        "0c576bc57cb2f57f4a2632d59599c26e": {
+            "text": "Strip tagovi"
+        },
+        "e79dbc99408f4949cb46ad5b73c7408a": {
+            "text": "Kada je ozna\u010deno, sve HTML oznake bit \u0107e uklonjene iz unosa prilikom obrade obrasca."
+        },
+        "e69230ccdb60475aa38ea2c4cdc72ea0": {
+            "text": "Ovo se preporu\u010duje ako polje ne mora podr\u017eavati HTML u sebi."
+        },
+        "6485c7641245873388f0170f472183c6": {
+            "text": "Tekst rezerviranog mjesta"
+        },
+        "dc08a8f73b667ceb56b5a22449e41d3e": {
+            "text": "Neobavezna fraza rezerviranog mjesta teksta koja se pojavljuje u polju kada je prazno."
+        },
+        "57391192dfa1f247ad015a0fe2eca48e": {
+            "text": "Uzorak"
+        },
+        "6a5e3a3d3be1a3d27b96e1e378c31ad9": {
+            "text": "Neobavezni uzorak regularnog izraza koji se zahtijeva u unosu. Ovo se koristi i na strani klijenta (atribut uzorka HTML5) i na strani poslu\u017eitelja za provjeru valjanosti. Obavezno navedite primjer potrebnog uzorka u opisu polja."
+        },
+        "27615527f65d7d865a330397568fe263": {
+            "text": "Pogledajte [html5pattern.com](http:\/\/html5pattern.com) za primjere uzoraka koje mo\u017eete koristiti i izraditi."
+        },
+        "68adfe27201a615848e5da595ae9f690": {
+            "text": "Po\u010detna vrijednost"
+        },
+        "c3924ea34ee91e9de3ff80493fce8527": {
+            "text": "Izborna po\u010detna\/zadana vrijednost unaprijed popunjena za korisnika."
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Tekst"
+        },
+        "03272093fac940815539048b032444ea": {
+            "text": "Jedan redak teksta"
+        }
+    }
+}

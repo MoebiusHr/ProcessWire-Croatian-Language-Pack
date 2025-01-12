@@ -1,0 +1,63 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/AdminThemeReno.module",
+    "textdomain": "wire--modules--admintheme--adminthemereno--adminthemereno-module",
+    "translations": {
+        "f0a5fc96d36fdda66a2a10b79be6d7fb": {
+            "text": "Set boja"
+        },
+        "77b6e24f5b78b6eb0697aa8994ce15e9": {
+            "text": "Reno"
+        },
+        "d35b51b639528d580362ca7042de6a0e": {
+            "text": "Klasi\u010dni"
+        },
+        "9594eec95be70e7b1710f730fdda33d9": {
+            "text": "Plavi"
+        },
+        "3e3780bdd59279494ba0eeed55f551d9": {
+            "text": "Slike korisnika"
+        },
+        "bbe7b2d443c26552faeb0e0c7d4541fe": {
+            "text": "Da biste koristili ovu zna\u010dajku, va\u0161 korisni\u010dki predlo\u017eak\/predlo\u0161ci mora imati polje slike. Ako nema polje za sliku, avatar \u0107e zadano biti ikona. Za dodavanje slikovnog polja zadanom korisni\u010dkom predlo\u0161ku idite na Postavke > Predlo\u0161ci > Filtri (Prika\u017ei predlo\u0161ke sustava). Predlo\u017eak \"korisnik\" sada \u0107e se prikazati na popisu. Ako ste izradili dodatni\/alternativni korisni\u010dki predlo\u017eak, mo\u017eete omogu\u0107iti ovu zna\u010dajku dodavanjem polja slike tom predlo\u0161ku."
+        },
+        "b012c7da60d514a8d126979210fa1f8e": {
+            "text": "Polje slike za predlo\u017eak %s"
+        },
+        "20db21c89b31fa16e87dc79c98dd4afb": {
+            "text": "Ovom predlo\u0161ku nisu dodijeljena polja za slike"
+        },
+        "b30e371dcaa3d2b157ef7566aa157b8a": {
+            "text": "Dodano polje \"%s\" poljima koja korisnik mo\u017ee ure\u0111ivati \u200b\u200bu svom profilu."
+        },
+        "c89a8fcd5422ef9d592d35af51ad242d": {
+            "text": "Prikazana imena korisnika"
+        },
+        "713128d7e4e2ab180d2126b0cea259b9": {
+            "text": "Popis polja odvojenih zarezima koja se koriste kao ime za prikaz u administratoru. (primjer: first_name, last_name)"
+        },
+        "ebb4a6d411a325b9c4d626f842cd6ed1": {
+            "text": "To mogu biti samo tekstualna polja. Ostale vrste polja bit \u0107e zanemarene."
+        },
+        "71151aa83128f4189875470f7e2a8d82": {
+            "text": "Ime za prikaz za predlo\u017eak %s"
+        },
+        "8f67973007158337346584551b093be8": {
+            "text": "Ikone"
+        },
+        "f69110441f08575ffbedd45591ddc4e1": {
+            "text": "Definirajte ikone za navigaciju"
+        },
+        "0fe8dceda2440ee8d71e0ed8869f075d": {
+            "text": "Gornja navigacija: Obavijesti"
+        },
+        "a5cf3b1e924454eb5f3b0579e2f40830": {
+            "text": "Gornja navigacija: Pogledaj po\u010detnu stranicu"
+        },
+        "c87aacf5673fada1108c9f809d354311": {
+            "text": "Odjava"
+        },
+        "787989d17c5a57298dd6959fcc70ba1a": {
+            "text": "Administratorska tema za ProcessWire 2.5+ autora Tom Reno (Renobird)"
+        }
+    }
+}

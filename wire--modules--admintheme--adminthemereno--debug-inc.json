@@ -1,0 +1,51 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/debug.inc",
+    "textdomain": "wire--modules--admintheme--adminthemereno--debug-inc",
+    "translations": {
+        "7421d68c70dfc346497573bf4e08acc5": {
+            "text": "Debug mod alati"
+        },
+        "b9a880607682d7ff74c39ef4cdefca90": {
+            "text": "Stranice u\u010ditane"
+        },
+        "dc62e13d18c4cec89567255a0bbd8a67": {
+            "text": "API Varijable"
+        },
+        "71c7ae294b7abd866b3fb295b3b9e4a4": {
+            "text": "Sesija"
+        },
+        "f929d2763e272dc4669d972bae9708e0": {
+            "text": "Moduli u\u010ditani"
+        },
+        "554c5efaf6a3411ec0c56132825ce0f1": {
+            "text": "%d u\u010ditanih modula"
+        },
+        "5e9171024adf23f0e7e7f298f251a935": {
+            "text": "%d nije u\u010ditano"
+        },
+        "35ad48797a780091740cbcf14ebc094d": {
+            "text": "Kuke (\"Hooks\")"
+        },
+        "62483fbc1d13ed84612061e24f6e72fb": {
+            "text": "PDO upiti ($database)"
+        },
+        "92dd35cc61ffc41d02defdcef071856d": {
+            "text": "Broja\u010di vremena"
+        },
+        "951102c6edd76f552294869d42635888": {
+            "text": "MySQLi Queries ($db) - Deprecated"
+        },
+        "8f9bfe9d1345237cb3b2b205864da075": {
+            "text": "Korisnik"
+        },
+        "5351e7d8b45acb7070fc165ce3b738c6": {
+            "text": "Trenutne korisni\u010dke uloge"
+        },
+        "1b272e451c327dcb796367163a2c403b": {
+            "text": "Trenuta\u010dne korisni\u010dke dozvole"
+        },
+        "e386ede4750a227397715b73b7727273": {
+            "text": "Trenutne korisni\u010dke dozvole na ovoj stranici"
+        }
+    }
+}

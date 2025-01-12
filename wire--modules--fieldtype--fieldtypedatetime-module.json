@@ -1,0 +1,42 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeDatetime.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypedatetime-module",
+    "translations": {
+        "eb44c7b0eebc98a8441abb862a254b3d": {
+            "text": "Izlazni format datuma"
+        },
+        "e7033eefffec056f8898dab5295ef2f6": {
+            "text": "Odaberite format koji \u0107e se koristiti pri ispisivanju datuma s ovim poljem."
+        },
+        "5bdb46a370b6d6a509c68a76551e5e3d": {
+            "text": "Za relativne formate datuma\/vremena pogledajte format izlaznog vremena."
+        },
+        "6adf97f83acf6453d4a6a4b1070f3754": {
+            "text": "Ni\u0161ta"
+        },
+        "8a4b7daad69389d978a2ea6bab5b07f8": {
+            "text": "Izlazni format vremena"
+        },
+        "cce774e589c4c23ce9c8cc7cb958861a": {
+            "text": "Ako uz datum \u017eelite ispisati i vrijeme, odaberite format koji \u0107e se koristiti pri ispisu vremena s ovim poljem. Ovo \u0107e se kombinirati s formatom datuma."
+        },
+        "c1a326c2753f410fad585781390da97f": {
+            "text": "Kod izlaznog formata datuma\/vremena"
+        },
+        "7b9ea642d1b10d7efc18d2c64a8940f8": {
+            "text": "Datum\/vrijeme \u0107e se ispisati prema donjem formatu. Ovo se automatski gradi od gore navedenih odabira datuma\/vremena, ali ga mo\u017eete promijeniti prema potrebi kako bi odgovaralo va\u0161im potrebama."
+        },
+        "933a4e03586f37e44d1daeff7431cf9b": {
+            "text": "Pogledajte referencu funkcije [PHP datum](https:\/\/www.php.net\/manual\/en\/function.date.php) za vi\u0161e informacija o tome kako prilagoditi ovaj format. Alternativno, mo\u017eete koristiti [PHP strftime](https:\/\/www.php.net\/manual\/en\/function.strftime.php) format ako \u017eelite za lokalizaciju."
+        },
+        "22a396f3a84b3aff1960dbed98c1fb31": {
+            "text": "Datum i Vrijeme"
+        },
+        "a6e25708f325c204e3e7e9dfebd1eea7": {
+            "text": "Datum"
+        },
+        "428e3341e08cd52abb9578cca03936c1": {
+            "text": "Vrijeme"
+        }
+    }
+}

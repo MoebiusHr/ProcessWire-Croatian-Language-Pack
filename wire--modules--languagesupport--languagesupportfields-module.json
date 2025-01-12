@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportFields.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportfields-module",
+    "translations": {
+        "16d43921f6466356a5420de1d357ffb6": {
+            "text": "Jezi\u010dna podr\u0161ka \/ Prazno pona\u0161anje"
+        },
+        "d5984c66ace0dae1773e991655e79484": {
+            "text": "\u0160to bi se trebalo dogoditi kada je vrijednost ovog polja prazna?"
+        },
+        "2890518e61caa93e64ca13dbc48fd26a": {
+            "text": "Primjenjuje se samo na vrijednosti jezika koje nisu zadane na prednjem dijelu va\u0161e web-lokacije."
+        },
+        "b22ada5d7a2fc27462f6c477fc5c4dbd": {
+            "text": "Naslijedi vrijednost iz zadanog jezika"
+        },
+        "58d2e94541b468a4154422bbbc8a6ba5": {
+            "text": "Neka ostane prazno"
+        }
+    }
+}

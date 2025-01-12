@@ -1,0 +1,648 @@
+{
+    "file": "wire\/modules\/Process\/ProcessField\/ProcessField.module",
+    "textdomain": "wire--modules--process--processfield--processfield-module",
+    "translations": {
+        "f44c0dcd3537024ab1be348dffe383de": {
+            "text": "sistem"
+        },
+        "e2159a4c36a7a7881992637d1da6e379": {
+            "text": "pristup"
+        },
+        "c9cc8cce247e49bae79f15173ce97354": {
+            "text": "Snimi"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Uvezi"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "Izvezi"
+        },
+        "a60852f204ed8028c1c58808b746d115": {
+            "text": "U redu"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "Tagovi"
+        },
+        "c145e5825899a7a53cf8a14b64e53639": {
+            "text": "Upravljanje tagovima"
+        },
+        "a4ca5edd20d0b5d502ebece575681f58": {
+            "text": "Polja"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Prika\u017ei sve"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Filteri"
+        },
+        "f62aef3d1bcf85a63cf9af0e03a46c0f": {
+            "text": "Filtriraj prema predlo\u0161ku"
+        },
+        "410267bd4e3c99784bab90c5e64b5209": {
+            "text": "Kada se odabere, prikazat \u0107e se samo polja iz odre\u0111enog predlo\u0161ka. Ugra\u0111ena polja tako\u0111er se prikazuju prilikom filtriranja prema predlo\u0161ku. Zvjezdica (*) ozna\u010dava predlo\u0161ke sustava."
+        },
+        "363746a770985e537565b276b37c438e": {
+            "text": "Prikazuju se polja iz predlo\u0161ka: %s"
+        },
+        "a81c2112e97c64099ff86d5b97cb13c6": {
+            "text": "Polja po predlo\u0161ku"
+        },
+        "8870ba7044d8bb0fd95686ec955f9109": {
+            "text": "Filtriraj po vrsti"
+        },
+        "db2b4f5915e2053955edfec38776a17f": {
+            "text": "Kada je navedeno, bit \u0107e prikazana samo polja odabrane vrste. Ugra\u0111ena polja tako\u0111er se prikazuju prilikom filtriranja prema vrsti polja."
+        },
+        "cca90d2e0854b62dc0c77ad0e1679be4": {
+            "text": "Prikazuju se polja vrste: %s"
+        },
+        "a922cb7ffa163fa26dfe9e44aaa24d32": {
+            "text": "Prika\u017ei sistemska polja?"
+        },
+        "2a7b956033d031e555889f8ddd52754f": {
+            "text": "Kada je ozna\u010deno, tako\u0111er \u0107e biti prikazana ugra\u0111ena polja. To uklju\u010duje sistemska polja i trajna polja. Sistemska polja su potrebna od strane sustava i ne mogu se brisati niti im se mo\u017ee promijeniti naziv. Stalna polja su ona koja se ne mogu ukloniti iz predlo\u0161ka. Ova polja koristi interno ProcessWire."
+        },
+        "7db27839ce9f9208f2b52bb9a48220a9": {
+            "text": "Prikazuju se sva polja, uklju\u010duju\u0107i ugra\u0111eni sustav i stalna polja."
+        },
+        "4cca2a863deef0fc4de9115b9164537b": {
+            "text": "Netagirano"
+        },
+        "f9757067733747aed406043e5915f1d7": {
+            "text": "Naziv taga"
+        },
+        "5da3b0e9c19f86443f6ad42f6d0d1456": {
+            "text": "Odaberite sva polja koja bi trebala imati ovu oznaku"
+        },
+        "2eea24744a636478929cd8cbbe444ded": {
+            "text": "Prika\u017ei kao sa\u017eeto na popisu polja?"
+        },
+        "cd83a77df71e48e6273b925549e0af71": {
+            "text": "Da biste izbrisali ovaj tag, uklonite sva polja iz nje."
+        },
+        "ed4def612e69863794dc9c98db08b464": {
+            "text": "Dodan tag\u201c%1$s\u201d polju: %2$s"
+        },
+        "ab7c81ccbce2415afa58b092a3c58162": {
+            "text": "Uklonjen tag \u201c%1$s\u201d iz polja: %2$s"
+        },
+        "d80b6b9388a3f3767f80be5c2ab78976": {
+            "text": "Tagovi vam omogu\u0107uju stvaranje zbirki polja za popis ili pretra\u017eivanje."
+        },
+        "718bd4be79fcb0bac1a4ff2e4528d45d": {
+            "text": "Upozorenje: tag \u201c%s\u201d ima isti naziv kao polje."
+        },
+        "9fc8691fab39cc1433cd39430edb0501": {
+            "text": "Dodaj novi tag"
+        },
+        "0056888ec574ec487da813f9c577b27c": {
+            "text": "Mo\u017eete koristiti slova, znamenke ili podvlaku."
+        },
+        "288fc0452049b753c8a75464d299ffe3": {
+            "text": "Nijedno polje ne odgovara va\u0161em filtru"
+        },
+        "133027c82744d7b44344c6d2fdd3cd2e": {
+            "text": "(ne koristi se)"
+        },
+        "4b170345be16c4cee0984c08ab54614d": {
+            "text": "kada se koristi s: %s"
+        },
+        "aa4c25b56e75fc2bb56256932d820a04": {
+            "text": "kada se koristi s predlo\u0161kom \u201c%1$s\u201d u kontekstu \u201c%2$s\u201d"
+        },
+        "113304cf8780906880d1e29935deab16": {
+            "text": "kada se koristi s predlo\u0161kom: %s"
+        },
+        "94f0fa1e6b7f766dc6432b4d8fd960ae": {
+            "text": "Prijavljeno polje provjere:"
+        },
+        "64348e0f887e58c6002080b6153add90": {
+            "text": "%d prona\u0111enih redova tablice bez roditelja"
+        },
+        "4fd5d5323fc3d2535f351e46ba740d3c": {
+            "text": "...i tako dalje..."
+        },
+        "f46277b28f420e695210233a9f1401fc": {
+            "text": "Pokrenite \"Akcije > Provjeri podatke polja\" na polju %s"
+        },
+        "bd5aef6293f875aa908466a69c08a14a": {
+            "text": "Nisu prona\u0111eni problemi za polje %s"
+        },
+        "8334c41e37dbbfb061177998028c6d0d": {
+            "text": "Nepoznata svojstva"
+        },
+        "50092a77c044bc5d91bb703429c29157": {
+            "text": "Sljede\u0107a svojstva prona\u0111ena su s ovim poljem s nula pristupa tijekom konfiguracije. Ponekad to mo\u017ee zna\u010diti da se svojstva vi\u0161e ne koriste. Ozna\u010dite okvir pokraj svakog svojstva koje \u017eelite ukloniti. Ako niste sigurni, nema \u0161tete ostaviti ih ondje."
+        },
+        "b2ab31c6f8fbc066d4840baa6c081821": {
+            "text": "Potencijalna nepoznata svojstva prona\u0111ena u ovom polju. Pogledajte karticu \"Upozorenje\"."
+        },
+        "292694f229d9162dd0a6510ff0745d4f": {
+            "text": "Ukloniti %d retka tablice bez roditelja?"
+        },
+        "d94836b689b2cd95f920084c5f27e770": {
+            "text": "Prona\u0161li smo retke podataka u tablici za ovo polje koji se ne podudaraju ni s jednom stranicom ili se podudaraju sa stranicama koje nemaju ovo polje."
+        },
+        "cca387b459a5b38bdc63657a1c52c82b": {
+            "text": "Nadja\u010daj prema predlo\u0161ku"
+        },
+        "0ca08f8f4a8a19f7f1ae87c119494327": {
+            "text": "Nadja\u010dava"
+        },
+        "b98e1358fd47b54afceecd12ace8e18c": {
+            "text": "Navedeni predlo\u0161ci nadja\u010davaju sljede\u0107e postavke za ovo polje. Ozna\u010dite okvir s desne strane bilo kojeg retka da biste uklonili nadja\u010davanje postavki (vra\u0107anje izvorne vrijednosti)."
+        },
+        "be777931cbea33cf8f3a5f5cd994ea93": {
+            "text": "Postavljanje nadja\u010davanja za namespace polja: %s"
+        },
+        "4eea024c6b0c3cd104fe2b37edf668f9": {
+            "text": "Postavljanje nadja\u010davanja za predlo\u017eak: %s"
+        },
+        "7d10eb77b41ac086ecfca9a7d417b1c6": {
+            "text": "Postavljanje nadja\u010davanja prema predlo\u0161ku"
+        },
+        "62d09c342e50351059153e99a2fdbb47": {
+            "text": "Da biste uredili postavku nadja\u010davanja ili nadja\u010dali druge postavke, uredite bilo koji predlo\u017eak i kliknite naziv polja na popisu polja."
+        },
+        "f08b82b9bcde7ff240df5ed0057e7b08": {
+            "text": "Da biste podesili koje su postavke dopu\u0161tene za nadja\u010davanje, pogledajte polje u nastavku."
+        },
+        "760b4bbc37693597edf00f9eeda38cd0": {
+            "text": "Trenuta\u010dno nema postavki koje bi nadja\u010dale predlo\u017eak."
+        },
+        "ecd6ac32b4369912ca3321c1dd169dc9": {
+            "text": "Postavke koje predlo\u017eak mo\u017ee nadja\u010dati"
+        },
+        "7710897a6218283716118180cd494f1e": {
+            "text": "Ozna\u010dene postavke pojavit \u0107e se kao opcije konfiguracije prilikom ure\u0111ivanja ovog polja u kontekstu odre\u0111enog predlo\u0161ka."
+        },
+        "089ff074f0a08e950aae098cce20eff4": {
+            "text": "**UPOZORENJE:** omogu\u0107avanje postavki izvan onih navedenih u modulu Fieldtype\/Inputfield mo\u017eda ne\u0107e uvijek raditi ili mo\u017ee uzrokovati probleme."
+        },
+        "8b55debf249cfc13cc6dc6791ee5d69f": {
+            "text": "Kao rezultat toga, preporu\u010dujemo da prvo testirate sve izmjene ovih postavki u neproizvodnom (razvojnom) okru\u017eenju."
+        },
+        "a28cb5dda04811b1ee1749f8b7a5b51d": {
+            "text": "Napomena:"
+        },
+        "cb69676cc6783d1f5bf44dc1680f6e2a": {
+            "text": "**Podebljane** postavke su one koje je modul Fieldtype\/Inputfield ozna\u010dio kao uvijek dopu\u0161tene za nadja\u010davanje."
+        },
+        "efd28a1fcd7d855ff111e2f110ae0b20": {
+            "text": "Druge postavke mogu, ali ne moraju funkcionirati za nadja\u010davanje konteksta."
+        },
+        "da23f7900566628f7658f3a693d6bfda": {
+            "text": "Trebali biste isklju\u010diti sve postavke za koje smatrate da ne rade ili na neki drugi na\u010din uzrokuju probleme."
+        },
+        "2babe53026309ed1bc4d26626dbaf9b3": {
+            "text": "Dealji:"
+        },
+        "4759b9b64d72e5a1a226e72b31ff919e": {
+            "text": "Front-end ure\u0111ivanje"
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Instaliraj"
+        },
+        "b35a1460619c7aebb19fddf043d4953d": {
+            "text": "Instalirajte modul za ure\u0111ivanje front-end stranice kako biste omogu\u0107ili front-end ure\u0111ivanje za polja. Nakon instalacije ponovno u\u010ditajte i vratite se ovdje za vi\u0161e opcija."
+        },
+        "c64f8a38fc13441f6cc860a4cbae887a": {
+            "text": "Obri\u0161i polje"
+        },
+        "8bcb61f8472471a1619f7bd55e2c9ad2": {
+            "text": "Ovo polje nije u upotrebi i sigurno ga je izbrisati."
+        },
+        "1fa78a97c113bed4e867ec21d9ca918f": {
+            "text": "Ovo polje se ne mo\u017ee izbrisati jer ga koristi jedan ili vi\u0161e predlo\u017eaka."
+        },
+        "405231013da488699f3761636027e651": {
+            "text": "Opis se pojavljuje ovdje i izgleda ovako."
+        },
+        "d421f74dd8c605a337e57a6224f23478": {
+            "text": "Dodatne informacije koje opisuju ovo polje i\/ili upute za unos sadr\u017eaja."
+        },
+        "64a747bce9561ce24781600d47b1cd66": {
+            "text": "Napomene o kori\u0161tenju ili dodatne informacije koje se pojavljuju ispod unosa."
+        },
+        "d3528910cb9ca888a0c859b37fe3cb28": {
+            "text": "Bilje\u0161ke se pojavljuju ovdje i izgledaju ovako."
+        },
+        "db1620090ae1c6d74219a84f00a71360": {
+            "text": "Oznaka za tab"
+        },
+        "4cadbe25399aaee62e9d2f735703a5ec": {
+            "text": "Ako je polje prikazano u vlastitoj kartici, po izboru navedite alternativnu oznaku kartice ako se razlikuje od oznake polja."
+        },
+        "9578890ecca660be2de225f2a4339c8d": {
+            "text": "Oznaka taba idealno bi trebala biti vrlo kratka, kao samo jedna rije\u010d."
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Ikona"
+        },
+        "ee9fe18e631383755ce658daed18b15e": {
+            "text": "Ako \u017eelite pridru\u017eiti ikonu polju, odaberite ikonu ispod. Kliknite vezu \"Prika\u017ei sve ikone\" za vizualni odabir."
+        },
+        "c64518704ce0c0d5501a45763f464276": {
+            "text": "Kori\u0161tenje"
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Te"
+        },
+        "b2ee912b91d69b435159c7c3f6df7f5f": {
+            "text": "Broj"
+        },
+        "f9ce9fb40f59e6e3f902d37ce9a6d869": {
+            "text": "Ostale osnovne vrste"
+        },
+        "27b392b00c460ef1af0f0607105eb198": {
+            "text": "Ostale neosnovne vrste"
+        },
+        "4c70e4df2e78286835669f9b70900ba5": {
+            "text": "Nije jo\u0161 instalirano"
+        },
+        "158b56553ee2e91623b2568e46a4fb82": {
+            "text": "Kloniraj postoje\u0107e polje"
+        },
+        "c32404a847502e9920d7582aa7fcd811": {
+            "text": "Dodaj ili ukloni polja iz predlo\u017eaka"
+        },
+        "bd4e327785b1573fd5108da2d97210b5": {
+            "text": "Ovo polje se koristi na ozna\u010denim predlo\u0161cima ispod."
+        },
+        "50a4257e8c785ebeb46a186bb2c3e08e": {
+            "text": "Ovo polje mo\u017eete brzo dodati ili ukloniti iz predlo\u017eaka tako da ozna\u010dite ili poni\u0161tite odgovaraju\u0107e okvire i kliknete Spremi."
+        },
+        "8e4fd886f63504810bb594b41a48d32b": {
+            "text": "Od vas \u0107e se tra\u017eiti da potvrdite dodavanja i uklanjanja na sljede\u0107em zaslonu nakon \u0161to spremite."
+        },
+        "5920c0593225b73a0d667fe26c95d0f7": {
+            "text": "%d predlo\u017eaka sustava nije prikazano jer je napredni na\u010din rada isklju\u010den."
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Predlo\u017eak"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "Oznaka"
+        },
+        "4dd35391663d2adc8123a95b3d725399": {
+            "text": "Pogledajte karticu Akcije za dodavanje\/uklanjanje iz predlo\u017eaka."
+        },
+        "f0165e158f427105fe57cb91d5fa53df": {
+            "text": "Ovo polje trenutno nije u upotrebi."
+        },
+        "983f66857047c1e6fc8878e54c5c9939": {
+            "text": "Dupliciraj\/kloniraj ovo polje?"
+        },
+        "4debafe5cde021385dce21b063054b59": {
+            "text": "Za kloniranje ovog polja unesite naziv novog polja koje \u017eelite stvoriti."
+        },
+        "ff0d9fae2d1ae47cb2e3c16ce883ed4e": {
+            "text": "Imajte na umu da \u0107ete urediti svoju kloniranu kopiju nakon \u0161to po\u0161aljete ovaj obrazac."
+        },
+        "011e30aea1ad8c8e81405e295f032cc8": {
+            "text": "Provjerite podatke na terenu"
+        },
+        "494bfa7cbe1a6aaf0e24e92c54664859": {
+            "text": "Provjerite polje za neiskori\u0161tene podatke ili druge mogu\u0107e optimizacije. Ako se prona\u0111u bilo kakvi problemi, imat \u0107ete priliku da ih ispravite na kartici Upozorenje nakon spremanja."
+        },
+        "94109d0b682a5ee9086924792ab5d349": {
+            "text": "\u017delite li upravljati kontrolom pristupa za ovo polje?"
+        },
+        "8c234d4afc42f71cef48c0093be30aa5": {
+            "text": "Kada je omogu\u0107eno, mo\u017eete ograni\u010diti pristup pregledu i ure\u0111ivanju ovog polja prema korisni\u010dkoj ulozi."
+        },
+        "6809fda0cf4fa4c12e63de08c0aa8b45": {
+            "text": "Ovo je sistemsko polje, NE preporu\u010duje se uklju\u010divanje kontrole pristupa."
+        },
+        "146cec6f36689ef0531abb613c24f68d": {
+            "text": "Koje uloge mogu pregledavati i\/ili ure\u0111ivati \u200b\u200bovo polje?"
+        },
+        "f66ca574111495a45f458a04c77f3c03": {
+            "text": "Korisnici tako\u0111er moraju imati pristup pregledu stranice ili ure\u0111ivanju na stranici na kojoj postoji polje prije nego \u0161to se ova dopu\u0161tenja mogu primijeniti."
+        },
+        "d39bf1bfbc9aef37bb8d6b935d73e53d": {
+            "text": "Kada nijedan okvir nije ozna\u010den, samo superkorisnik mo\u017ee pregledavati\/ure\u0111ivati \u200b\u200bsadr\u017eaj polja."
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(svi)"
+        },
+        "f41f3f2472b654b9853580182a36144a": {
+            "text": "Pristupni prekida\u010di"
+        },
+        "2a154a6134b85f7f936aac0194df1bc0": {
+            "text": "Prika\u017ei polje u ure\u0111iva\u010du stranice ako se mo\u017ee vidjeti, ali ne i ure\u0111ivati \u200b\u200b(korisnik mo\u017ee vidjeti, ali ne i mijenjati)"
+        },
+        "8a643d587e2bf89aa615d22c5e9efa6a": {
+            "text": "U\u010dini vrijednost polja dostupnom iz API-ja \u010dak i ako nije vidljiva (pogledajte dolje)*"
+        },
+        "517e6c314a1ee61caa35000768dca057": {
+            "text": "Kada polje nije vidljivo (na prednjem dijelu s uklju\u010denim formatiranjem izlaza), vrijednost $page->%s bit \u0107e prazna verzija o\u010dekivanog tipa, \u0161to sprje\u010dava prikazivanje vrijednosti."
+        },
+        "5dab87f5242c802765e397e82db0840b": {
+            "text": "Ozna\u010dite gornji okvir da biste zaobi\u0161li ovo pona\u0161anje, \u010dine\u0107i vrijednost uvijek API dostupnom. Ovo \u0107e vas ostaviti za provjeru pristupa."
+        },
+        "d96a1b8071d5f5f8eb8bc96839d85407": {
+            "text": "Mo\u017eete provjeriti pristup pregledu iz API-ja za ovo polje ovako:"
+        },
+        "3df354a032179f36ea493c3df6643ce1": {
+            "text": "Ako \u017eelite vizualno grupirati ovo polje s ostalima na popisu polja, unesite oznaku od jedne rije\u010di. Unesite istu oznaku u druga polja s kojima \u017eelite grupirati. Za navo\u0111enje vi\u0161e oznaka, odvojite svaku razmakom. Kori\u0161tenje oznaka mo\u017ee se isplatiti ako va\u0161a stranica ima velik broj polja."
+        },
+        "c6e44f0384ed0d130e044f153e7b772f": {
+            "text": "Svaka oznaka mora biti jedna rije\u010d (podvlake su u redu)."
+        },
+        "89e1299f98120a24c999cdffa860d2cb": {
+            "text": "Obrisano polje"
+        },
+        "7d09843a01448bd5ac4ad4bcfb2c388e": {
+            "text": "Naziv polja je obavezan"
+        },
+        "a9c97bb1362d6960df5b6489b9454678": {
+            "text": "Vrsta polja je obavezna"
+        },
+        "584afda122df1e41e3a533afdc1b3f6e": {
+            "text": "Dodano polje"
+        },
+        "f173ffbd0f010d4e164484785d07b7c1": {
+            "text": "Uklonjeno neiskori\u0161teno svojstvo: %s"
+        },
+        "1d44463bf74c66ac465f0f51cee9a827": {
+            "text": "Izbrisano je %d redaka bez roditelja"
+        },
+        "d4a2d56009360cb3a587f17538631ce9": {
+            "text": "Snimljeno polje"
+        },
+        "acdd6513356b1414e6d7ec0181240672": {
+            "text": "Sada ure\u0111ujete polje koje ste klonirali."
+        },
+        "f2b83b9c6e7b4b10852e2920effd3433": {
+            "text": "Gre\u0161ka pri stvaranju klona ovog polja"
+        },
+        "0a198ede7ab46185f2e9fb2a3628419b": {
+            "text": "(kopirati)"
+        },
+        "2f449cde553921e24ebc7b252209b1dc": {
+            "text": "Klonirano polje"
+        },
+        "48cf9aec9ee1cd5173596f31f65b83e5": {
+            "text": "Naziv polja je prazan"
+        },
+        "4072bd91cd44efb5ae4ef51a319fbd79": {
+            "text": "Nazivi polja mogu sadr\u017eavati samo ASCII slova, znamenke ili podvlaku."
+        },
+        "2d596b898eecf76afa1f7cca2490f219": {
+            "text": "Naziv polja \"%s\" ve\u0107 se koristi"
+        },
+        "d0de87a477316bfd58f0bf2b1ae2d40d": {
+            "text": "Naziv polja \"%s\" je rezervirana rije\u010d"
+        },
+        "65016ddfb236155b595fb479c695866b": {
+            "text": "Nazivi polja ne smiju po\u010dinjati s \"_\" ili znamenkama"
+        },
+        "7d21b87f847b61b92648b2050c3c0529": {
+            "text": "Naziv polja ne mora biti isti kao naziv jezika"
+        },
+        "6ed7cdaf5655ad6feaf61425896fca0e": {
+            "text": "Gre\u0161ka u postavci \u201c%s\u201d"
+        },
+        "86cdc0e0ad458e6450b25153b0ca0248": {
+            "text": "(naveli ste \u201c%s\u201d)"
+        },
+        "ce1e5086faa587952093bfb31f7af1c1": {
+            "text": "Nije mogu\u0107e potvrditi"
+        },
+        "07f32475d23721446e940087c7e26b53": {
+            "text": "Ovo ne\u0107e raditi jer vrijednosti moraju biti ID-ovi stranica"
+        },
+        "71f8bd77c0780518e62960d62ebd72bd": {
+            "text": "Uklonjeno nadja\u010davanje konteksta"
+        },
+        "e49f1e280534321564ea8d40be20e4d0": {
+            "text": "Promjena vrste za polje: %s"
+        },
+        "a3d843d337eabebe3e81df9bfef414ea": {
+            "text": "Promjena vrste polja iz \"%1$s\" u \"%2$s\""
+        },
+        "7d04592612713885f95f51cca38d5708": {
+            "text": "Imajte na umu da promjena vrste polja mijenja shemu baze podataka. Ako nova vrsta polja nije kompatibilna sa starom ili ako sadr\u017ei znatno druga\u010diju shemu, mogu\u0107e je da \u0107e do\u0107i do gubitka podataka. Kao rezultat toga, savjetujemo vam da napravite sigurnosnu kopiju baze podataka prije dovr\u0161etka promjene vrste polja."
+        },
+        "cc84c47ce264c6a27bd49ff004d4c555": {
+            "text": "Potvrdite promjenu tipa polja"
+        },
+        "c2311f219b7dc0a845a537a7a26fa8b3": {
+            "text": "Ako ste sigurni da \u017eelite promijeniti vrstu polja, potvrdite okvir ispod i po\u0161aljite ovaj obrazac."
+        },
+        "58425be3f17ffb9574fd3e5947653330": {
+            "text": "Zadr\u017ei postavke polja?"
+        },
+        "7d912a6056deaad44add9eda5494d120": {
+            "text": "Ozna\u010dite ovaj okvir kako biste zadr\u017eali sve prilago\u0111ene postavke za ovo polje (s kartica Detalji i Unos). Ovo je po\u017eeljno ako novi tip polja ima ista ili sli\u010dna svojstva konfiguracije kao stari tip polja. Me\u0111utim, to tako\u0111er mo\u017ee rezultirati nepotrebnim ili suvi\u0161nim konfiguracijskim podacima koji zauzimaju prostor na terenu. To uvijek mo\u017eete kasnije analizirati iz: Napredno > Provjeri podatke polja."
+        },
+        "c2fd10d6fa7d3e1e8bd7c83de24c4d95": {
+            "text": "Promjena vrste polja prekinuta"
+        },
+        "b3dd3da27d2927b5c36e28d771388c7d": {
+            "text": "Vrsta polja promijenjena"
+        },
+        "b9b9ac08c6bde335d1b5758d4dfcd1da": {
+            "text": "Ukloni polje \"%1$s\" iz predlo\u0161ka \"%2$s\""
+        },
+        "e84730e92daf0ff6f2ff21874c281f4e": {
+            "text": "Potvrdite uklanjanje polja \"%1$s\" iz predlo\u0161ka \"%2$s\""
+        },
+        "d3abfd9fce44bd366ad49c2614136c14": {
+            "text": "UPOZORENJE: Ovo \u0107e dovesti do trajnog brisanja podataka povezanih s poljem."
+        },
+        "cdd2e54d443ebc672c6a53d756e682cd": {
+            "text": "Nakon \u0161to po\u0161aljete, budite strpljivi jer mo\u017ee pro\u0107i neko vrijeme dok se ova operacija ne zavr\u0161i."
+        },
+        "501a7415f8881524421e7a19287a2c62": {
+            "text": "\u010cini se da nema redaka podataka povezanih s ovom kombinacijom polja\/predlo\u0161ka"
+        },
+        "cbf08d0edf67562708d7ce679defc030": {
+            "text": "Ozna\u010dite okvir za potvrdu."
+        },
+        "4da66962948d7a922e24b9821417f14f": {
+            "text": "Predlo\u017eak: %s"
+        },
+        "8aa6cad0a41ed8f9776dd6a09805c5ae": {
+            "text": "Dodajte polje \"%1$s\" predlo\u0161ku \"%2$s\""
+        },
+        "968c4c39df4617d7356ee14137658f3f": {
+            "text": "Gdje \u017eelite dodati \"%s?\""
+        },
+        "6620d0d6ed9996e374e77091f72102be": {
+            "text": "Prije %s"
+        },
+        "631a909b3eb785b8b3ae6d4d1a0ed886": {
+            "text": "Poslije %s"
+        },
+        "57a9412e7a9b1f328ffef4cd468dabeb": {
+            "text": "Dodaj kao prvo polje"
+        },
+        "c40f632e4b3c69bbd1af89f5c5f5c617": {
+            "text": "Nemoj dodavati"
+        },
+        "7c88547fdcfb8db979ff8e01a8af3cab": {
+            "text": "Dodaj ili ukloni iz predlo\u0161ka"
+        },
+        "c7d0e111bad6f0fd32c701944fb16475": {
+            "text": "Pregledajte i prilagodite ili potvrdite svoje promjene"
+        },
+        "368f6a2142a5d1f203ccd1a9bd8d974f": {
+            "text": "Dodano polje \"%1$s\" predlo\u0161ku \"%2$s\" ispred \"%3$s\""
+        },
+        "43f591d56700e6bc6184a8457711d4ed": {
+            "text": "Dodano polje \"%1$s\" predlo\u0161ku \"%2$s\" nakon \"%3$s\""
+        },
+        "2dc7474fc7cd98da4c757c25d5acd451": {
+            "text": "Uklonjeno polje \"%1$s\" iz predlo\u0161ka \"%2$s\""
+        },
+        "092a2d93903f42f67e257ba6fb82d6a2": {
+            "text": "Gre\u0161ka prilikom uklanjanja \"%1$s\" iz predlo\u0161ka \"%2$s\""
+        },
+        "521c36a31c2762741cf0f8890cbe05e3": {
+            "text": "Uklju\u010deno"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Isklju\u010deno"
+        },
+        "b1c94ca2fbc3e78fc30069c8d0f01680": {
+            "text": "Sve"
+        },
+        "30069b6e08c01b280dea5aec4bf871e0": {
+            "text": "[prazno]"
+        },
+        "8db6f3dfa2f2e5da6a736ec49e54f6f9": {
+            "text": "Prezentacija\/vidljivost polja"
+        },
+        "722302e393e0ef80cae21af3a433fd64": {
+            "text": "Uloge dopu\u0161tene za pregled ovog polja"
+        },
+        "7c5a8ae55e59746ba619775959127870": {
+            "text": "Uloge dopu\u0161tene za ure\u0111ivanje ovog polja"
+        },
+        "b1176bb4251df736f9046c88f2752937": {
+            "text": "Omogu\u0107i kontrolu pristupa"
+        },
+        "d8b6bdb4b7004ffa8118daf92c70085d": {
+            "text": "Ukloni kontrolu pristupa"
+        },
+        "4ed588740999fc9926706a97d3e6b3ff": {
+            "text": "Neka API vrijednosti polja bude dostupna \u010dak i kada nije vidljivo"
+        },
+        "03161f60700feb1e18fcb34de842c31a": {
+            "text": "Neka vrijednost polja NIJE API dostupna kada nije vidljiva"
+        },
+        "23831f621c230fae228ca5bccd05b83e": {
+            "text": "Prika\u017ei u ure\u0111iva\u010du stranice \u010dak i ako se ne mo\u017ee ure\u0111ivati"
+        },
+        "7a3d219a780c47deeba29f396adfc6d0": {
+            "text": "Sakrij u ure\u0111iva\u010du stranice kada se ne mo\u017ee ure\u0111ivati"
+        },
+        "7cdb55d0d84a64ee84c14621892d8e10": {
+            "text": "Povratak na popis polja nakon spremanja polja?"
+        },
+        "503eff76a9f0b3c0c78997aa4370e2f0": {
+            "text": "Prema zadanim postavkama ostat \u0107ete u ure\u0111iva\u010du polja nakon spremanja polja. Ako se umjesto toga \u017eelite vratiti na popis polja, potvrdite ovaj okvir."
+        },
+        "4b2bcb0478b24201a7d60fed561d1b42": {
+            "text": "Uredite pojedina\u010dna polja koja sadr\u017ee podatke o stranici"
+        },
+        "0b6c421579ca54de1ee2d79df5df6f05": {
+            "text": "Ime"
+        },
+        "83cfa166d441c1b47108e5d6b3f21cbe": {
+            "text": "Oznaka"
+        },
+        "516a15631804c8878a63ecc155a067fa": {
+            "text": "Vrsta"
+        },
+        "b26a4731ede28b0686cf017804aa3574": {
+            "text": "Ne"
+        },
+        "6855bfdf44496210543dabeb8f88a1c0": {
+            "text": "Sistem"
+        },
+        "d665a1b10e02b9de8f4115d5b7078976": {
+            "text": "Dodaj novo polje"
+        },
+        "46c5d71a7ab758f0ce5b9124cd8c53a4": {
+            "text": "trajno"
+        },
+        "b1100a1a039c319674c740cdc6382e92": {
+            "text": "obaveno"
+        },
+        "06dacbad9c7587cdace10537b20b43ca": {
+            "text": "prika\u017ei ako..."
+        },
+        "0151b4b3cfa88e85b9387dc9490961cf": {
+            "text": "unikatno"
+        },
+        "ab17e61adc90fe446ec49fe7cd795864": {
+            "text": "nadja\u010davanja\/konteksti"
+        },
+        "dcd217d86ebc19480f6602a1835f440d": {
+            "text": "Uredi polje: %s"
+        },
+        "f98b1dd6f292ac2dfa3f8b0f9a8df9b0": {
+            "text": "Dodaj novo polje"
+        },
+        "cb4e4304ce3fbf227cdae7fecc193fbf": {
+            "text": "Uzbuna"
+        },
+        "1f2b73286f18ea71c594652199e86dff": {
+            "text": "Odustani"
+        },
+        "47ee982b17f699a3dffff43c76df78ec": {
+            "text": "Predlo\u017eak"
+        },
+        "a360c947f7ea8bd51220987c073edf15": {
+            "text": "Postavka"
+        },
+        "e036648db74b48abc2b6af1d56d4596c": {
+            "text": "Promjene"
+        },
+        "a90b5efafea041e94da7fffd2bd530a3": {
+            "text": "Osnove"
+        },
+        "9ea1f3769ad9c72e3ebf7de539b53aa1": {
+            "text": "Opis"
+        },
+        "a6f1b7f6b210b19d1d4ff7722c8fd790": {
+            "text": "Napomene"
+        },
+        "a698a809093ad1c25ea277ff03ae5fc7": {
+            "text": "Akcije"
+        },
+        "995ed8becc596409849c6a652fbf5cd4": {
+            "text": "Popunjene stranice"
+        },
+        "799ef6a367b3b36deb5be25ef8e7c91a": {
+            "text": "Pristup"
+        },
+        "afd2f2d22bac5fd1faf1abf753685366": {
+            "text": "Uloga"
+        },
+        "904c279e535c872896eab899b55e9c46": {
+            "text": "Pregled"
+        },
+        "32bcbddae2df658b6d193932ab97720e": {
+            "text": "Uredi"
+        },
+        "3be3efa6643b5a3f2af79ace0a5145c4": {
+            "text": "Napredno"
+        },
+        "2e97680673e9f48756601bd5672b0d45": {
+            "text": "%d predlo\u017eak"
+        },
+        "f78cb52b393842a378dcbee7bd241ffe": {
+            "text": "%d predlo\u0161ci"
+        },
+        "c869dd452643fae1887833d527dc86d0": {
+            "text": "Ovo \u0107e tako\u0111er izbrisati %d redak podataka."
+        },
+        "59da98ece56eec26f5f9edd6f051da0b": {
+            "text": "This will also delete %d rows of data."
+        }
+    }
+}

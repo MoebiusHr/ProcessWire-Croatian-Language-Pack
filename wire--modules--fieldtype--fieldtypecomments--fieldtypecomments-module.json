@@ -1,0 +1,252 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/FieldtypeComments.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--fieldtypecomments-module",
+    "translations": {
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Onemogu\u0107eno"
+        },
+        "b39a035a995fc6597c8eb942210d1527": {
+            "text": "Pona\u0161anje"
+        },
+        "0c6e8a761530efc7ecfe773a5b5a6f7e": {
+            "text": "Ni\u0161ta - komentari su objavljeni odmah"
+        },
+        "4f214f3246f03a94773427de4f2e7699": {
+            "text": "Sve - sve komentare mora odobriti korisnik s pristupom ure\u0111ivanju stranice"
+        },
+        "d3a76eec189143c6945282d37bd81bb5": {
+            "text": "Samo novi - Samo komentari korisnika bez prethodno odobrenih komentara zahtijevaju odobrenje"
+        },
+        "c98106d2a3b2a0a14016f73894f59d10": {
+            "text": "Moderiranje komentara"
+        },
+        "18800239150e923984ade45f5e961fbd": {
+            "text": "Ovo odre\u0111uje kada \u0107e se novoobjavljeni komentar pojaviti na va\u0161oj stranici."
+        },
+        "b7f00c1afdf69f32c12c300c02ac1da7": {
+            "text": "Preusmjeravanje nakon objave komentara?"
+        },
+        "cea2870f162b18b9ab95c8c84da6d05a": {
+            "text": "Kada je ozna\u010deno, ProcessWire \u0107e izdati preusmjeravanje nakon \u0161to je komentar objavljen kako bi se sprije\u010dilo dvostruko podno\u0161enje. Preporu\u010deno."
+        },
+        "e90234905413e689d67361b8f618b63f": {
+            "text": "Tiho snimanje?"
+        },
+        "d2c1e7bd67d4253ff76376ed718cf94f": {
+            "text": "Kada je ozna\u010deno, vrijeme izmjene stranice i korisnik ne\u0107e biti a\u017eurirani kada se doda komentar."
+        },
+        "152cae5f743b4ea655ef70fab6684593": {
+            "text": "Vrsta obavijesti"
+        },
+        "1df95d9b624496ecb2f4158676c98825": {
+            "text": "Ne slati obavijesti"
+        },
+        "eac16a1e6e640d0fd649262cc154287d": {
+            "text": "Slati obavijesti na odre\u0111enu e-mail adresu"
+        },
+        "56c6193a67167dcdd8befdc1cf3f7958": {
+            "text": "Slati obavijesti korisniku koji je kreirao stranicu"
+        },
+        "176686fd5ea38cce85007c58bc91861a": {
+            "text": "Slati obavijesti to\u010dno odre\u0111enom korisniku"
+        },
+        "a274f4d4670213a9045ce258c6c56b80": {
+            "text": "Obavijesti"
+        },
+        "e3b1a956fff16a2f9b781479bcbea925": {
+            "text": "Admin email za obavijesti"
+        },
+        "f895a3cb718c7d7cacdf08e19c72a19b": {
+            "text": "E-mail adresa za primanje obavijesti kada se objavi novi komentar. Odvojite vi\u0161e adresa e-po\u0161te zarezima ili razmacima."
+        },
+        "e793b132f67e3437dae254ad00e2cc48": {
+            "text": "Korisnici koji prime ovu e-poruku imat \u0107e mogu\u0107nost odobriti ili odbiti objave izravno s poveznica u e-poruci."
+        },
+        "abf48974ca61ec74f073f2359c29da03": {
+            "text": "Uz (ili umjesto) adresa e-po\u0161te, tako\u0111er mo\u017eete koristiti jedno ili vi\u0161e od sljede\u0107eg:"
+        },
+        "d0ffa91c19a6c97eac905834065a48a4": {
+            "text": "1. Unesite **user:karen** za slanje e-po\u0161te odre\u0111enom korisniku, zamjenjuju\u0107i \"karen\" imenom stvarnog korisnika."
+        },
+        "e703c4cbaf0b1030f389f7a3f4c91f34": {
+            "text": "2. Unesite **field:email** da povu\u010dete e-po\u0161tu iz polja na stranici, zamjenjuju\u0107i \"email\" nazivom polja koje sadr\u017ei adresu e-po\u0161te."
+        },
+        "0cf8830f9d1aaf42ad9e178f9af4f3d0": {
+            "text": "3. Unesite **123:email** da povu\u010dete e-po\u0161tu s danog ID-a stranice i naziva polja, zamjenjuju\u0107i \"123\" ID-om stranice i \"e-po\u0161tu\" nazivom polja koje sadr\u017ei adresu e-po\u0161te."
+        },
+        "be4676f05d7147b99e5addd2b27b6889": {
+            "text": "4. Unesite **\/path\/to\/page:email** da biste povukli e-po\u0161tu sa zadane putanje stranice i naziva polja, zamjenjuju\u0107i \"\/path\/to\/page\" putanjom stranice i \"email\" nazivom polja koje sadr\u017ei e-mail adresa."
+        },
+        "f6fdd0b4b152fc4fb6fa144eb7718873": {
+            "text": "Obavijesti s e-po\u0161te"
+        },
+        "a5356041796dfb51e1131f9557cf7225": {
+            "text": "Neobavezna adresa e-po\u0161te s koje \u0107e se prikazivati \u200b\u200bobavijesti. Ostavite prazno za kori\u0161tenje zadane e-po\u0161te poslu\u017eitelja."
+        },
+        "0ad4c8b2b43eb0c8cfa21dd7571401b5": {
+            "text": "Poslati e-mail obavijest o spamu?"
+        },
+        "ec8fbd0794fa6fafb9061431f9bffa03": {
+            "text": "Kada je ozna\u010deno, ProcessWire \u0107e vam i dalje slati obavijest e-po\u0161tom \u010dak i ako je poruka identificirana kao ne\u017eeljena po\u0161ta."
+        },
+        "031de71d8bede5de985c354bbd23cdc6": {
+            "text": "Dopustiti obavijesti o komentarima e-po\u0161tom?"
+        },
+        "dc8c7869896eed885ca7b7cc73de8e0a": {
+            "text": "Ova opcija omogu\u0107uje svakome tko objavi komentar primanje obavijesti e-po\u0161tom o novim komentarima."
+        },
+        "0ad051f48ed2ca988a4b60689eb13ad5": {
+            "text": "Korisnici mogu primati obavijesti e-po\u0161tom samo o odgovorima na svoj komentar"
+        },
+        "4795eaf7300ae848d67ca8c64cfa357f": {
+            "text": "Korisnici mogu primati obavijesti putem e-po\u0161te za sve nove komentare na stranici"
+        },
+        "13bf9d7a10643fcd246e4c242499f945": {
+            "text": "Dopustiti tekst komentara u obavijestima?"
+        },
+        "898ded7b2375a02a2642e39971e59cd3": {
+            "text": "Kada je ozna\u010deno, cijeli tekst komentara tako\u0111er \u0107e se pojaviti u e-porukama obavijesti, a ne samo poveznica na njega."
+        },
+        "e9dfd31cc505d51fc26975250750deab": {
+            "text": "Ne\u017eeljena po\u0161ta (Spam)"
+        },
+        "694c233e3c1cf5b97224bd5fcbebb340": {
+            "text": "Koristiti uslugu filtriranja ne\u017eeljene po\u0161te Akismet?"
+        },
+        "13df57b389c6175fd742098a67385895": {
+            "text": "Ova \u0107e usluga automatski prepoznati ve\u0107inu ne\u017eeljene po\u0161te. Prije kori\u0161tenja, provjerite jeste li unijeli Akismet API klju\u010d pod Moduli > Filtar komentara: Akismet."
+        },
+        "bf31492fe5d4821b483bc7cb8cfe07a3": {
+            "text": "Broj dana nakon kojih treba izbrisati ne\u017eeljenu po\u0161tu"
+        },
+        "72fe450a750c9f11bf0531e5395e6e75": {
+            "text": "Nakon navedenog broja dana, spam \u0107e se automatski izbrisati."
+        },
+        "29c2c02a361c9d7028472e5d92cd4a54": {
+            "text": "Izlaz"
+        },
+        "9e6530a34353d7610fd5455767b28df4": {
+            "text": "Dubina odgovora"
+        },
+        "1f33bbe656fa140ce52347fb0af13a18": {
+            "text": "Navedite 0 za tradicionalne ravne kronolo\u0161ke komentare. Za komentare u nizu (odgovori se pojavljuju s komentarom na koji se odgovara) navedite najve\u0107u dopu\u0161tenu dubinu za odgovore (preporu\u010duje se od 0 do 4)."
+        },
+        "9bf3d3d959883d38b84f1990340bff84": {
+            "text": "Poredati od najnovijeg do najstarijeg?"
+        },
+        "0c9743be855a9e62ab36d4d4eb321932": {
+            "text": "Prema zadanim postavkama, komentari \u0107e biti poredani kronolo\u0161ki (od najstarijih prema najnovijim). Da biste preokrenuli to pona\u0161anje, potvrdite ovaj okvir."
+        },
+        "cba07fe99979c9f01d9c61a39aae3045": {
+            "text": "Koristiti polje web stranice u obrascu za komentar?"
+        },
+        "bb28b3686215b773129c8259cf0e6525": {
+            "text": "Kada je ozna\u010deno, obrazac za podno\u0161enje komentara tako\u0111er \u0107e uklju\u010divati \u200b\u200bpolje za web stranicu."
+        },
+        "b3dc4b8696a26f0852afc3df1785ce24": {
+            "text": "Format datuma\/vremena (za popis komentara)"
+        },
+        "d8b14b9294abd99cef7ccd468f92282e": {
+            "text": "Unesite format datuma\/vremena koji \u017eelite da koristi zadani izlaz popisa komentara."
+        },
+        "033acb4cf2bad26f8dc0a9263c3bbe40": {
+            "text": "Mo\u017ee biti PHP format [date](%s) ili [strftime](%s)."
+        },
+        "9b627919cf0a2a80c2feaa17bac8f299": {
+            "text": "Mo\u017ee biti i \"relative\" za relativni format datuma."
+        },
+        "9fbc91b8ace5ac4afdc754d6d81d1f28": {
+            "text": "Dopustiti glasovanje za komentare?"
+        },
+        "3ffa920a9c00477904f187e62f9d8582": {
+            "text": "Glasovanje za komentare omogu\u0107uje posjetiteljima da daju pozitivan i\/ili negativan glas za komentare. Brojevi glasova prikazani su uz svaki komentar. Dopu\u0161ten je samo jedan glas za i\/ili protiv po komentaru, po IP adresi, po satu."
+        },
+        "2d020e5cbf014a734c83323e430afce0": {
+            "text": "Isklju\u010deno glasanje"
+        },
+        "e344d6ca196c888a521047effab607b3": {
+            "text": "Dopusti glasanje \"za\""
+        },
+        "3404fab8f99ccde53b123699711e6b6c": {
+            "text": "Dopusti glasanje \"za\" i \"protiv\""
+        },
+        "40e8db84e220fe9c816eb334d1b42a70": {
+            "text": "Koristiti ocjenu zvjezdicama?"
+        },
+        "00837cdf48d92331ec9c355847ed9ef5": {
+            "text": "Ocjenjivanje zvjezdicama omogu\u0107uje komentatoru da ocijeni temu koju komentira koriste\u0107i ljestvicu od 1 do 5 zvjezdica."
+        },
+        "924daa0b046449bd4fb99af3c97b5f2b": {
+            "text": "Za promjenu zadane zvjezdice koja se koristi za izlaz (HTML je tako\u0111er u redu):"
+        },
+        "359310b90581d6b9baa3cdccc10607b2": {
+            "text": "Da (ocjenjivanje zvjezdicama nije obavezno)"
+        },
+        "806e88271605e15a20e9d6d47673f42e": {
+            "text": "Da (obavezna ocjena)"
+        },
+        "b70aad8c6cb77fde247be00630d7f5ef": {
+            "text": "G: Prikladno za prikaz na svim web stranicama s bilo kojom vrstom publike."
+        },
+        "8e25a98f71c3244890fa8ecf2230fe18": {
+            "text": "PG: Mo\u017ee sadr\u017eavati nepristojne geste, provokativno odjevene pojedince, manje psovke ili blago nasilje."
+        },
+        "2900074213d129e33d5d4b6e74076f29": {
+            "text": "R: Mo\u017ee sadr\u017eavati stvari poput o\u0161tre psovke, intenzivnog nasilja, golotinje ili upotrebe te\u0161kih droga."
+        },
+        "043cab853d189bb505d101c3c7ab3176": {
+            "text": "X: Mo\u017ee sadr\u017eavati grube seksualne slike ili izuzetno uznemiruju\u0107e nasilje."
+        },
+        "a4949d12f429ca4af2feb4e30c1e84e4": {
+            "text": "Koristiti Gravatar?"
+        },
+        "c5fce56aee82d2bc007cbf213998945b": {
+            "text": "Ova usluga uz svaki komentar daje sliku avatara (jedinstvenu za adresu e-po\u0161te). Za uklju\u010divanje odaberite maksimalnu ocjenu gravatara. To su iste ocjene kao i filmske ocjene, gdje je G najprikladniji za obitelj, a X nije."
+        },
+        "e9f6051c655ca4a6773af3f2d8458815": {
+            "text": "Opise ocjena pru\u017ea  [Gravatar](https:\/\/en.gravatar.com\/site\/implement\/images\/)."
+        },
+        "82829c5912f395b029a87c565359835c": {
+            "text": "Alati za oblikovanje teksta"
+        },
+        "53a682f62e65f496a659d3a12c754f75": {
+            "text": "Po \u017eelji odaberite jedan ili vi\u0161e alata za oblikovanje teksta koji \u0107e se primijeniti na tekst komentara, odabranim redoslijedom. Ako ne odaberete nijednu, tekst \u0107e biti kodiran entitetom, novi redovi \u0107e biti pretvoreni u oznake <br> i biti ispisani u oznaci <p>."
+        },
+        "81958f1863ae9ebb74b7a23cbf0dbd78": {
+            "text": "Upozorenje: odaberite samo formate teksta za koje se zna da su sigurni s anonimnim korisni\u010dkim unosom, poput Entity Encoder (core) ili Textile Restricted (3rd party). Ako niste sigurni, nemojte ni\u0161ta odabrati ovdje jer pogre\u0161an izbor mo\u017ee biti sigurnosni problem."
+        },
+        "b672f52ade975e864ae6b58722c03689": {
+            "text": "Provedba"
+        },
+        "309ccca9b8ae5408ee15a28c2bd2c9c2": {
+            "text": "Ovaj odjeljak je ovdje kako bi vam pomogao da po\u010dnete s ispisivanjem komentara na prednjem dijelu va\u0161e web-lokacije. Ovdje je sve izborno."
+        },
+        "c0cf19f012781de14679b0d857fe4cbd": {
+            "text": "Ako koristite predmemoriju za izlaz, konfigurirajte je da zaobi\u0111e predmemoriju kada je prisutna GET varijabla \"comment_success\"."
+        },
+        "e2ee73419f58949b9fdfb97f23a8a6ac": {
+            "text": "PHP kod za izlaz komentara"
+        },
+        "2b961475041b8a085eae4ed1a597f76a": {
+            "text": "CSS za front-end komentare"
+        },
+        "4a08db526853d7aa35400a97c968e60d": {
+            "text": "JS za ispis komentara na su\u010delju"
+        },
+        "cf5bd74bd24d341a63cdcf36fba20dbb": {
+            "text": "Ve\u0107 ste glasali za ovaj komentar"
+        },
+        "511c09f7e853bcc074d29ba36a8da7f7": {
+            "text": "Pogre\u0161ka pri bilje\u017eenju glasovanja"
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Komentari"
+        },
+        "a27c92ebebda4931039636893b5c716d": {
+            "text": "Polje koje pohranjuje komentare korisnika za jednu stranicu"
+        },
+        "1f2f44c370f66e4d06d25042e93e39c1": {
+            "text": "Onesposobljeno"
+        }
+    }
+}

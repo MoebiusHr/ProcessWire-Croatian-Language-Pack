@@ -1,0 +1,24 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldAsmSelect\/InputfieldAsmSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldasmselect--inputfieldasmselect-module",
+    "translations": {
+        "74e906bc8df82271d879cf0df37fc13c": {
+            "text": "\u017delite li povezati odabrane stranice s ure\u0111iva\u010dem stranica?"
+        },
+        "341aefc07b2236054d74eb4c5b312c8a": {
+            "text": "Kada je omogu\u0107eno, odabrane oznake povezat \u0107e se za ure\u0111ivanje odabrane stranice."
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Ne"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Da"
+        },
+        "1cd298de417a75485be2184aab1f77b2": {
+            "text": "(u modalnom prozoru)"
+        },
+        "74c0ecf830d7e594ea8491c932418590": {
+            "text": "Vi\u0161estruki odabir, progresivno pobolj\u0161anje za vi\u0161estruki odabir"
+        }
+    }
+}

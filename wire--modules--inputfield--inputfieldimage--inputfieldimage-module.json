@@ -1,0 +1,126 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/InputfieldImage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--inputfieldimage-module",
+    "translations": {
+        "d388632d05e8826abe4b95de0b110529": {
+            "text": "Obrezivanje"
+        },
+        "e24ee2487879116dcab772c0ac4fe341": {
+            "text": "Fokus"
+        },
+        "a4374740662193b987e63eb5b727c994": {
+            "text": "Varijacije"
+        },
+        "f4843c1c797abf1a256c8802b6cd9f51": {
+            "text": "Dimenzije"
+        },
+        "b18c29b8470190a02813415a04a2191f": {
+            "text": "Veli\u010dina datoteke"
+        },
+        "7dce122004969d56ae2e0245cb754d35": {
+            "text": "Ure\u0111ivanje"
+        },
+        "f6462f94fa453f425245109b06f64d22": {
+            "text": "povucite i ispustite nove slike iznad"
+        },
+        "382b0f5185773fa0f67a8ed8056c7759": {
+            "text": "nije omogu\u0107eno"
+        },
+        "f4795ac01103c68bc75e637665b7bd12": {
+            "text": "Ovo polje za slike mo\u017eda ima nespremljene promjene koje bi se mogle izgubiti nakon ove radnje. Spremite prije izrezivanja ili svejedno dvaput pritisnite gumb Nastavi."
+        },
+        "d6a369d29506d3151a76c33791fc80b6": {
+            "text": "ispustite novu slikovnu datoteku za zamjenu"
+        },
+        "819258e827e9ef9ba926940f30b2697e": {
+            "text": "povucite krug u sredi\u0161te fokusa"
+        },
+        "f0b3dbf5ce5950ff0ecc7dbea5f8a874": {
+            "text": "Iznad se nalaze starije\/niske kvalitete minijaturnih slika za pregled \u2013 potvrdite ovaj okvir da biste ih ponovno izradili."
+        },
+        "126b21ce46c39d12c24058791a236777": {
+            "text": "Neispravna slika"
+        },
+        "41cfe40655c4b51507eff9d22bd777f2": {
+            "text": "Slika %s ne zadovoljava zahtjeve minimalne veli\u010dine"
+        },
+        "5e244fccb2d4cda18bebf756dacce94c": {
+            "text": "Slika %s prema\u0161uje najve\u0107u dopu\u0161tenu veli\u010dinu"
+        },
+        "7e4cc6c00140cefcecd178df1836fbba": {
+            "text": "Veli\u010dina slike je promijenjena kako bi odgovarala najve\u0107im dopu\u0161tenim dimenzijama"
+        },
+        "180481333cbd9cb56beaae68deab6541": {
+            "text": "Kliknite za preimenovanje"
+        },
+        "3311dff3fd166c37c1bf2e9014cdee71": {
+            "text": "Izvorno"
+        },
+        "96733a97d96b04ddd6e06cdf3147df1e": {
+            "text": "Nije uredivo"
+        },
+        "06df33001c1d7187fdd81ea1f5b277aa": {
+            "text": "Akcije"
+        },
+        "9356bea0f207cd50faacd40798850038": {
+            "text": "Radnja primijenjena prilikom spremanja."
+        },
+        "9ffbd422925a6839ee820ddbc59278c5": {
+            "text": "Preokreni"
+        },
+        "8d2de5368588552fbae54044ac5c7b3d": {
+            "text": "Rotiraj"
+        },
+        "ed75712b0eb1913c28a3872731ffd48d": {
+            "text": "Dupliciraj"
+        },
+        "9d639c16d0e22f1f4f9b79593e260ce6": {
+            "text": "Ukloni varijacije"
+        },
+        "baca1adb243ae63002bbb02b3ce5c28d": {
+            "text": "Obnovite varijacije"
+        },
+        "40c760714d188227815e2e1ed3369c29": {
+            "text": "Ukloni fokus"
+        },
+        "f6cb3e816496528d4187db53bc66567f": {
+            "text": "oboje"
+        },
+        "5fb63579fc981698f97d55bfecb213ea": {
+            "text": "Kopiraj"
+        },
+        "36bb6559696dc9124986ae120515984f": {
+            "text": "Zalijepi"
+        },
+        "e4ddc7e3d69547eea44ee08c02eb350d": {
+            "text": "Smanji 50%"
+        },
+        "60e7841801c8734e320b527cbfa8d022": {
+            "text": "C&B"
+        },
+        "b84a9a38377dc1ab6c6d5005cb461f0d": {
+            "text": "Sepija"
+        },
+        "36400352f439e8894099e79dc33fada1": {
+            "text": "Ponovno su stvorene sve naslije\u0111ene sli\u010dice"
+        },
+        "0cb9400e4e73f627d6587cf549c60907": {
+            "text": "Duplicirana datoteka %1$s => %2$s"
+        },
+        "80a599081d30053c4cf6bc91230a9e6c": {
+            "text": "Izvr\u0161ena radnja \u201c%1$s\u201d na datoteci %2$s"
+        },
+        "a45c16f718396868c97a72efcc571842": {
+            "text": "Neuspje\u0161na radnja \u201c%1$s\u201d na datoteci %2$s"
+        },
+        "ac8883f9998c8b328a96855575eebcc5": {
+            "text": "Nije prona\u0111en rukovatelj za radnju \u201c%1$s\u201d na datoteci %2$s"
+        },
+        "fff0d600f8a0b5e19e88bfb821dd1157": {
+            "text": "Slike"
+        },
+        "8a29508fcba587b8af0cfb36c544ee0d": {
+            "text": "Jedna ili vi\u0161e u\u010ditanih slika (mogu\u0107e sortiranje)"
+        }
+    }
+}

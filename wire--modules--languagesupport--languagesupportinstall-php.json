@@ -1,0 +1,33 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportInstall.php",
+    "textdomain": "wire--modules--languagesupport--languagesupportinstall-php",
+    "translations": {
+        "3ae44849cea119dd44333ce66ad5b388": {
+            "text": "Kliknite za instalaciju:"
+        },
+        "f62784baf73b04e9986e5e2e5141c1ac": {
+            "text": "Dodajte i konfigurirajte nove jezike"
+        },
+        "b326de895188c390f00d3e3165a4e183": {
+            "text": "Promijenite vrstu polja \"naslov\" iz \"Naslov stranice\" u \"Naslov stranice (vi\u0161e jezika)\""
+        },
+        "38655673ed547e757e9275d9132e8002": {
+            "text": "Promijenite vrstu svih drugih \u017eeljenih polja \"Tekst\" u \"Tekst (vi\u0161e jezika)\""
+        },
+        "e28586cd56c48fc4522b6f5838c69781": {
+            "text": "Promijenite vrstu svih drugih \u017eeljenih polja \"Textarea\" u \"Textarea (vi\u0161e jezika)\""
+        },
+        "cce78dc6ebbec7385a01f2146d6d01c8": {
+            "text": "Slijede\u0107i koraci"
+        },
+        "11073190b7d624dffd2b0ed1d24e99be": {
+            "text": "Za nastavak postavljanja vi\u0161ejezi\u010dne podr\u0161ke preporu\u010dujemo sljede\u0107e korake."
+        },
+        "03936c46ccc75e527d1c061c9307cb2b": {
+            "text": "Veze u nastavku otvorit \u0107e se u novom prozoru\/kartici. Zatvorite svaki nakon zavr\u0161etka da biste se vratili ovdje."
+        },
+        "02860eb2acccc8d47fc0503ceae2b550": {
+            "text": "Instalirajte modul LanguageSupportFields prije poku\u0161aja promjene vrste tekstualnih polja."
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "file": "wire\/core\/FieldsTableTools.php",
+    "textdomain": "wire--core--fieldstabletools-php",
+    "translations": {
+        "94777a4cdd469b1dc32114c7b148336e": {
+            "text": "Izbrisano %d praznih redova za polje %s"
+        },
+        "a4db6555067e463d9e1fb57bd771d115": {
+            "text": "Jedinstveni indeks jo\u0161 se ne mo\u017ee dodati jer ve\u0107 postoje nejedinstveni redovi:"
+        },
+        "f4775f230d3ee4ca1c2dfd515cde799a": {
+            "text": "Pojavljuje se %d puta"
+        },
+        "019b1bbcaa4011c7a88e681bc504656c": {
+            "text": "(ID-ovi stranica: %s)"
+        },
+        "a452be585de41c827d68057d84a60524": {
+            "text": "Dodan unikatni indeks"
+        },
+        "95295f6c09473739797030905b9e7239": {
+            "text": "Uklonjen unikatni indeks"
+        },
+        "d019979a29c88c8d69bab3a63388da97": {
+            "text": "Unikat"
+        },
+        "2091d533e5569b95274f7f7c93cb5a73": {
+            "text": "Kada je ozna\u010deno, dana vrijednost ne mo\u017ee se koristiti vi\u0161e od jednom u ovom polju i stoga se ne mo\u017ee pojaviti na vi\u0161e od jedne stranice."
+        }
+    }
+}
