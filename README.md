@@ -1,6 +1,6 @@
 # Croatian Language Pack for ProcessWire
 
-Brazilian Portuguese (pt-BR) translation files for ProcessWire 3.x
+Croatian translation files for ProcessWire 3.x
 
 ### Installation Guide
 
