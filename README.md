@@ -28,6 +28,6 @@ You can test the new language by editing your profile and selecting the newly ad
 If you want to replace the default language (e.g., English) with another language:
 
 1. Enable the Language Support module.
-2. Change the title/label of the default language to your preferred language (e.g., "Português" for Brazilian Portuguese).
+2. Change the title/label of the default language to your preferred language.
 3. Upload the language pack for the admin backend into the default language.
 4. You're now set up with a single-language site in your chosen language.
