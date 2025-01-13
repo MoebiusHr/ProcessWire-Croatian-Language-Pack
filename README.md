@@ -1,6 +1,7 @@
 # Croatian Language Pack for ProcessWire
 
 Croatian translation files for ProcessWire 3.x
+Compatibile with the latest ProcessWire master version 3.0.229
 
 ### Installation Guide
 
@@ -16,8 +17,8 @@ After enabling Language Support, you can add a new language. Navigate to **Setup
 
 To add the language files:
 
-- **If ZIP uploads are supported:** Drag and drop the ZIP file containing the language pack into the files field.
-- **If ZIP uploads are not supported:** Unzip the language pack and drag the JSON files (either individually or as a group) into the files field.
+-   **If ZIP uploads are supported:** Drag and drop the ZIP file containing the language pack into the files field.
+-   **If ZIP uploads are not supported:** Unzip the language pack and drag the JSON files (either individually or as a group) into the files field.
 
 Save your changes.
 
