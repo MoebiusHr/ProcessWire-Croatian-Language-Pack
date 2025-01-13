@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageType\/ProcessPageType.module",
+    "textdomain": "wire--modules--process--processpagetype--processpagetype-module",
+    "translations": {
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Dodaj novo"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Ime"
+        },
+        "9f8f70e6d54311627f02da284603db7a": {
+            "text": "Jo\u0161 nema stavki za prikaz."
+        },
+        "89872ab3eb9af52f34b4dd82077758fc": {
+            "text": "Filtriraj prema predlo\u0161ku"
+        },
+        "8cd0d0c99b062b3d22e8c7188ba33ab2": {
+            "text": "Prika\u017ei sve"
+        },
+        "bce455aa81509f2a4dbb9acb3581a0be": {
+            "text": "Koja bi polja trebala biti prikazana na popisu stranica?"
+        },
+        "6a5b847af3d97df722040debdbccfbed": {
+            "text": "Vrsta stranice"
+        },
+        "3d10fda1b8b9895bade8da5233636cbf": {
+            "text": "Popis, ure\u0111ivanje i dodavanje stranica odre\u0111ene vrste"
+        }
+    }
+}

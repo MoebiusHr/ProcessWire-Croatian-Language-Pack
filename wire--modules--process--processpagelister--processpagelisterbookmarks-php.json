@@ -1,0 +1,105 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageListerBookmarks.php",
+    "textdomain": "wire--modules--process--processpagelister--processpagelisterbookmarks-php",
+    "translations": {
+        "7cdd12aae1c258859c039c4d544338ef": {
+            "text": "Moje oznake"
+        },
+        "7f4b49b68a661359eaa86b12fd09cdce": {
+            "text": "Javne oznake"
+        },
+        "639bae9ac6b3e1a84cebb7b403297b79": {
+            "text": "vi"
+        },
+        "4195dd0db33f6f97904fd72fa4386de9": {
+            "text": "Ozna\u010dite okvir kako biste potvrdili da \u017eelite izbrisati ovu oznaku"
+        },
+        "bfa974ff994bf6af816d695d88659fda": {
+            "text": "Izbrisati ovu oznaku?"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Odustani"
+        },
+        "1dd63dcbc0f27a97c60433bff0936901": {
+            "text": "Uredi oznaku"
+        },
+        "149e49fd8162d8224947dfe253a802b5": {
+            "text": "Dodaj novu oznaku"
+        },
+        "a84bed79c3b725dbbd17b6c4b8337a17": {
+            "text": "Stvara novu oznaku koja odgovara va\u0161im trenutnim filtrima, stupcima i redoslijedom."
+        },
+        "d448b4319171ecbd0c92be8ddbff245b": {
+            "text": "Vrsta oznake"
+        },
+        "47f9082fc380ca62d531096aa1d110f1": {
+            "text": "Privatna"
+        },
+        "3d067bedfe2f4677470dd6ccf64d05ed": {
+            "text": "Javna"
+        },
+        "644a574fca8608c6447c23ba5c9fb907": {
+            "text": "Koje \u0107e korisni\u010dke uloge vidjeti ovu oznaku? Ako nije odabrana nijedna korisni\u010dka uloga, tada sve uloge s dopu\u0161tenjem za kori\u0161tenje ovog Listera mogu vidjeti oznaku."
+        },
+        "c8a5544122c29a7c5ad0d117b19851d6": {
+            "text": "Dopustiti drugim korisnicima pristup ovom URL-u oznake?"
+        },
+        "c3cb8a8cca3fc5a906f5c4aa252a856a": {
+            "text": "Ako po\u0161aljete URL knji\u017ene oznake nekom drugom tko je ve\u0107 prijavljen u administratorski sustav, oni mogu vidjeti oznaku ako potvrdite ovaj okvir."
+        },
+        "aea2613b569e126e1bf04794045d9214": {
+            "text": "URL oznake za dijeljenje: [Pregled](%s)"
+        },
+        "a240fa27925a635b08dc28c9e4f9216d": {
+            "text": "Redoslijed"
+        },
+        "6756b991b141463aebfaa74809adb83c": {
+            "text": "Obrisana oznaka"
+        },
+        "4192fc415b996e703cd7368de70024b2": {
+            "text": "Oznaku nije mogu\u0107e obrisati"
+        },
+        "84233339a29fc410e77ac95e377b0318": {
+            "text": "Oznake"
+        },
+        "bdb19863504282bccbd04237092c8ecb": {
+            "text": "Oznaka"
+        },
+        "611554e91bd3fc300cb89db36b831c82": {
+            "text": "Opis"
+        },
+        "0a88328254c6d3104aaf5aa1416e5493": {
+            "text": "Pristup"
+        },
+        "5a8bc98a8e1cbe7e4aa65ef02ca4626e": {
+            "text": "Akcije"
+        },
+        "97d0cf512abc18c75dc4200fb4102696": {
+            "text": "sve"
+        },
+        "3964c1856a3770efc8de99fb7d71854f": {
+            "text": "Pregled"
+        },
+        "2403884dadada347eaf8537a2dc0e572": {
+            "text": "Izmijeni"
+        },
+        "2ae0c04d53921492ca01d03f4913b75b": {
+            "text": "Obri\u0161i"
+        },
+        "624cb003e73151369680ecae1fe53f47": {
+            "text": "Naslov"
+        },
+        "997a44675b11fac14a95280eda5557f5": {
+            "text": "Opis"
+        },
+        "8ca63fc5a95e5a226137f8dd03ad81f0": {
+            "text": "Koje bi stranice ova knji\u017ena oznaka trebala prikazati?"
+        },
+        "e7b51c4fbf19dfd1df7c4e05d1be6ca0": {
+            "text": "Stupci"
+        },
+        "a68194569adc7b00a73840fceb912c24": {
+            "text": "Pristup"
+        }
+    }
+}

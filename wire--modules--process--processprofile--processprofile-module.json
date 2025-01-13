@@ -1,0 +1,72 @@
+{
+    "file": "wire\/modules\/Process\/ProcessProfile\/ProcessProfile.module",
+    "textdomain": "wire--modules--process--processprofile--processprofile-module",
+    "translations": {
+        "2ed85673c671a4f6a96ccccf154dab83": {
+            "text": "Korisni\u010dko ime za prijavu"
+        },
+        "9fbf3617c6172a75648e9ac0a864bb56": {
+            "text": "Profil:"
+        },
+        "75ac88c5fefdf1235b5f0484d3c88a2b": {
+            "text": "Radi sigurnosti unesite svoju trenutnu lozinku da biste spremili ove promjene:"
+        },
+        "cb6f985e3af3f01a7f7f9e2d3cc6fe77": {
+            "text": "Korisni\u010dko ime mo\u017ee sadr\u017eavati mala slova a-z, 0-9, crticu ili podvlaku."
+        },
+        "f9e0ddbbff17d789d7844835e71e789f": {
+            "text": "Profil nije snimljen"
+        },
+        "31ed16771212c1b9c52ea8680a61c5bb": {
+            "text": "Potrebna lozinka je navedena, ali nije ispravna"
+        },
+        "b54db85c5475befbb8e4d05e3985853b": {
+            "text": "Potrebna lozinka nije navedena"
+        },
+        "d57a97a659253e107095a0ad40576d9f": {
+            "text": "Adresu e-po\u0161te \"%is\" ve\u0107 koristi drugi korisnik."
+        },
+        "f29de224c874ad891ea1c3627aa468be": {
+            "text": "Profil snimljen"
+        },
+        "c0902bb307af1c623dc07a6070c33261": {
+            "text": "Nije dopu\u0161teno"
+        },
+        "c41276451b92f986f438a836dd99ed69": {
+            "text": "O\u010di\u0161\u0107eno na \"%s\", \u0161to se razlikuje od onoga \u0161to ste unijeli"
+        },
+        "c012e2a8b9e129403f8b93547086500a": {
+            "text": "Prekratko"
+        },
+        "b2df7887a34999a0fee743420750a9ec": {
+            "text": "Preduga\u010dko"
+        },
+        "8d7dadc018de46d934c7f3a9c0ade8b7": {
+            "text": "Ve\u0107 u upotrebi"
+        },
+        "0be33c8c71eb4cbffd8ff2999d0660db": {
+            "text": "Ne smije zapo\u010deti ili zavr\u0161iti znakovima koji nisu alfa ili znamenke"
+        },
+        "642249113906da67a3b9d3d446555c93": {
+            "text": "Ne smije sadr\u017eavati susjedne crtice, podvlake ili to\u010dke"
+        },
+        "85337e04345622f27e1230c61efa9fd0": {
+            "text": "Koja polja korisnik mo\u017ee ure\u0111ivati \u200b\u200bu vlastitom profilu?"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Ime"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "Oznaka"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Vrsta"
+        },
+        "90b1f6651953fcf8b43ddc0da6760aaf": {
+            "text": "Korisni\u010dki profil"
+        },
+        "1a59a80bd045dd8cb5a37b841028cc00": {
+            "text": "Omogu\u0107uje korisniku promjenu lozinke, adrese e-po\u0161te i drugih postavki."
+        }
+    }
+}

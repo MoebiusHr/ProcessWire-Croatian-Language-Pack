@@ -1,0 +1,81 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageSearch\/ProcessPageSearchLive.php",
+    "textdomain": "wire--modules--process--processpagesearch--processpagesearchlive-php",
+    "translations": {
+        "2c44229630ad7e2758a89bd14435a31b": {
+            "text": "Nije navedena pretraga"
+        },
+        "453aceb005ceaf54a47da15fee8b2a26": {
+            "text": "Stranice"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Sme\u0107e"
+        },
+        "bf17ac149e2e7a530c677e9bd51d3fd2": {
+            "text": "Moduli"
+        },
+        "d8d7ad6abfd08c27baa8bedb78c72ddb": {
+            "text": "Pogledaj sve"
+        },
+        "32df01b9cf0491a879250b58ba2744ba": {
+            "text": "Rezultati pretrage"
+        },
+        "945331eb8feee661c7a01a7da50e7e7e": {
+            "text": "ili bilo koji naziv polja"
+        },
+        "9da4c632d92b0a319e8e963f8b7dd19f": {
+            "text": "Tra\u017ei %1$s za: %2$s"
+        },
+        "0c79bedd451ec4becdb006eabf461f3b": {
+            "text": "Pretra\u017euje svojstvo \u201c%1$s\u201d od %2$s za: %3$s"
+        },
+        "aa22617dfe85dc625769bb90cf1edc82": {
+            "text": "Primjeri koriste operator jednakosti \u201c=\u201d."
+        },
+        "9b39d6b66fd46b375480103f46850760": {
+            "text": "U nekim slu\u010dajevima mo\u017eete koristiti i ove:"
+        },
+        "3e31303f6c94d429ef522d10a2d421d8": {
+            "text": "operatori:"
+        },
+        "e2d5a00791bce9a01f99bc6fd613a39d": {
+            "text": "konfigurirati"
+        },
+        "64a16c6ab0b0e6113aa92f7f6d40410b": {
+            "text": "Kliknite ovdje za konfiguraciju postavki pretra\u017eivanja"
+        },
+        "b7208f6d5abab822d6ab05b1016d409a": {
+            "text": "Isto kao gore (kra\u0107a sintaksa ako se imena ne preklapaju)"
+        },
+        "963e1f84e80d24245a65e61120d9d212": {
+            "text": "Ograni\u010di rezultate na predlo\u017eak: %s"
+        },
+        "29a251084e8675a8d52d945e2f58d726": {
+            "text": "Ograni\u010dite rezultate na polje %s na predlo\u0161ku"
+        },
+        "bd42869f654344076a72479ecdb1d45f": {
+            "text": "Prona\u0111ite predlo\u0161ke koji imaju polje: %s"
+        },
+        "173512440f350caacc754ddd1a392b71": {
+            "text": "Prona\u0111ite polja s \"ckeditor\" u postavkama"
+        },
+        "1624b2059f3271b1213456999221e2df": {
+            "text": "(pre\u0111ite mi\u0161em za vi\u0161e)"
+        },
+        "d6b75fe82918572d3828601219286147": {
+            "text": "Primjeri koriste svojstvo \"%s\"."
+        },
+        "c3f4f45cbebefe1b25a8c7965516a79b": {
+            "text": "Tako\u0111er mo\u017eete koristiti bilo koje od ovih svojstava:"
+        },
+        "74693d2fc58b46bd06410f278e39aa71": {
+            "text": "svojstva"
+        },
+        "627b11fa495dc928e31ab76310d934f9": {
+            "text": "%s pomo\u0107"
+        },
+        "cf1e3d72714f82f85aa7f326af340459": {
+            "text": "%d stavke"
+        }
+    }
+}

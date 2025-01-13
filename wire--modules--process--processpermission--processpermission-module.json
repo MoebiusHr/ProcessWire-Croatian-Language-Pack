@@ -1,0 +1,36 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPermission\/ProcessPermission.module",
+    "textdomain": "wire--modules--process--processpermission--processpermission-module",
+    "translations": {
+        "179e210d56ed91c1da0ac7cff7234b21": {
+            "text": "Instalirajte unaprijed definirana dopu\u0161tenja sustava"
+        },
+        "f6a3c2ccb1bf0db768a1e710b1bb4b8f": {
+            "text": "Ozna\u010dite okvir pored svake neobavezne dozvole koju \u017eelite instalirati."
+        },
+        "f42c0a03ea62c2f657939fd15ef033cb": {
+            "text": "Kada je instaliran, korisnik mora imati ovo dopu\u0161tenje za dovr\u0161etak opisanog zadatka."
+        },
+        "76455df332216051d893a89ac3b39deb": {
+            "text": "Kada NIJE instaliran, dopu\u0161tenje se pretpostavlja ako korisnik ve\u0107 ima pristup ure\u0111ivanju opisanog resursa."
+        },
+        "3900b58fd6fe4828f0595efc2d4f574f": {
+            "text": "Kao rezultat toga, ako je instalirano, ovo dopu\u0161tenje mo\u017ee ukloniti postoje\u0107i pristup dok se ne dodijeli ulogama."
+        },
+        "349838fb1d851d3e2014b9fe39203275": {
+            "text": "Instaliraj"
+        },
+        "934d155461a5e54ed0cfed45b64272ed": {
+            "text": "Dodajte novo prilago\u0111eno dopu\u0161tenje"
+        },
+        "baa866af125aefed417409d878f6d013": {
+            "text": "Dodano izborno dopu\u0161tenje: %s"
+        },
+        "d08ccf52b4cdd08e41cfb99ec42e0b29": {
+            "text": "Dopu\u0161tenja"
+        },
+        "175111b089b0e62fbde2b5344f2a547f": {
+            "text": "Upravljanje dopu\u0161tenjima sustava"
+        }
+    }
+}

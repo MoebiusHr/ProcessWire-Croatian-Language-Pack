@@ -1,0 +1,117 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageSearch\/ProcessPageSearch.module",
+    "textdomain": "wire--modules--process--processpagesearch--processpagesearch-module",
+    "translations": {
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "uredi"
+        },
+        "2c44229630ad7e2758a89bd14435a31b": {
+            "text": "Nije navedena pretraga"
+        },
+        "f802f85dd1eb6a1b3fb0591c682807e9": {
+            "text": "Tra\u017ei u polju\/poljima:"
+        },
+        "52b9d143876d2754dd01be52587b1de8": {
+            "text": "Vrsta pretrage:"
+        },
+        "75ecaaafd1f677d07360709be6528768": {
+            "text": "Tra\u017ei"
+        },
+        "9e230fa5487a0172264f31c0a1b08b61": {
+            "text": "Ograni\u010di na predlo\u017eak:"
+        },
+        "6f9d01a14011f05fffe48559583fc609": {
+            "text": "Poredaj po:"
+        },
+        "fa4e2f0cea3ceef82c840df64fecb9e4": {
+            "text": "Obrnuto sortiranje?"
+        },
+        "1e9c565e43a1f652a2718003bbad887e": {
+            "text": "Polja za prikaz:"
+        },
+        "b4805a9af05d82889758dda70003cfc6": {
+            "text": "Opcije pretra\u017eivanja"
+        },
+        "9b6545e4cea9b4ad4979d41bb9170e2b": {
+            "text": "Napredno"
+        },
+        "03164877c3d4b788308e3fbfe3199751": {
+            "text": "Admin pretraga u\u017eivo"
+        },
+        "d1032e06eff58a781d56ae06b0ebeb85": {
+            "text": "Redoslijed pretra\u017eivanja"
+        },
+        "e8159c4a91a92ac26a6c03ef7aaf6dac": {
+            "text": "Ovo su vrste pretra\u017eivanja koje \u0107e se izvoditi tijekom administratorskog pretra\u017eivanja u\u017eivo."
+        },
+        "e6325f7d83769dd875f667c2dbcd5fd7": {
+            "text": "Povucite ih redoslijedom kojim \u017eelite da rezultati pretra\u017eivanja budu navedeni."
+        },
+        "94d8d93a863e2724dc409c7b5771bf76": {
+            "text": "(isklju\u010deno)"
+        },
+        "8cf4111a5e458360994845128c2b07b3": {
+            "text": "Isklju\u010di vrste pretra\u017eivanja"
+        },
+        "fbb4e524dc820fa07f82c23211611ad9": {
+            "text": "Odaberite sve vrste pretra\u017eivanja koje \u017eelite izuzeti iz pretra\u017eivanja u\u017eivo. Ovo mogu biti vrste koje ne morate \u010desto pretra\u017eivati."
+        },
+        "cee52fb451f657b046988a3535ad9fad": {
+            "text": "\u0160to je vi\u0161e tipova isklju\u010deno, to \u0107e pretra\u017eivanje u\u017eivo biti br\u017ee."
+        },
+        "1b803e4573be96837e8a286f9ba111c4": {
+            "text": "Sve odabrane vrste i dalje se mogu pretra\u017eivati \u200b\u200bako se to posebno zatra\u017ei u pretra\u017eivanju."
+        },
+        "5b2201bc8bf61333c472ab98b9f3b2c3": {
+            "text": "Na primjer, ako ste izuzeli vrstu \"trash\", i dalje se mo\u017ee pretra\u017eivati \u200b\u200bako ste pretrazi dodali \"trash=\", kao \u0161to je \"trash=hello\"."
+        },
+        "608da9c856f25abd4d2a774f9c5aa9a0": {
+            "text": "(postavke za vrstu stranica)"
+        },
+        "e1eee8c1f21fe51aa15f3006cd6419f4": {
+            "text": "Polja stranice za pretra\u017eivanje"
+        },
+        "14521e8e790db172e8c476f9d77291c0": {
+            "text": "Ovo se odnosi samo na rezultate pretra\u017eivanja iz \"stranica\" i \"otpada\"."
+        },
+        "4f745aea666e6efcb5ff18f1d9275693": {
+            "text": "Preporu\u010dujemo da ovo ograni\u010dite na najvi\u0161e 1 ili 2 polja kako biste osigurali da je pretra\u017eivanje u\u017eivo brzo. Obi\u010dno biste samo pretra\u017eivali polje \"naslov\"."
+        },
+        "719994663f2fff9ce4cd0935acc6c6a5": {
+            "text": "Polja stranice za pretra\u017eivanje ako korisnik pritisne \"enter\" u okviru za pretra\u017eivanje"
+        },
+        "50570447523d04b47c7c79f8c135a3ae": {
+            "text": "Obi\u010dno bi to bilo isto kao gore, ali mo\u017eda biste tako\u0111er \u017eeljeli dodati dodatna polja."
+        },
+        "72dc6e522da22345e91fd3dde26d792e": {
+            "text": "Na primjer, umjesto samo pretra\u017eivanja polja \"naslov\", mo\u017eda biste trebali pretra\u017eivati \u200b\u200bi polje \"tijelo\"."
+        },
+        "f9702fc01ddd6b314fe6d74ac54995b6": {
+            "text": "Zadani operator pretra\u017eivanja za pretra\u017eivanje jedne i djelomi\u010dne rije\u010di"
+        },
+        "bbeff731bf48359f60959f600e6240c2": {
+            "text": "Zadani operator pretra\u017eivanja za pretra\u017eivanja s vi\u0161e rije\u010di (fraza)."
+        },
+        "2d29cf36f3ebbd5bab570d70070e5102": {
+            "text": "Zadani naziv(i) polja za prikaz u rezultatima pretra\u017eivanja"
+        },
+        "6cfd6f09104bdac467bb40624aae4e9c": {
+            "text": "Ako navodite vi\u0161e od jednog polja, odvojite svako razmakom."
+        },
+        "4ecb0055aa1e66535afeaf6093585618": {
+            "text": "Pretra\u017eivanje"
+        },
+        "d27c07f4c0dd15e39cedd91c19cb279f": {
+            "text": "Tra\u017ei"
+        },
+        "8aa55d906b86496efeb66b0eae7d75ce": {
+            "text": "Stranice"
+        },
+        "1da914fe3f639d8b3d977a006d2b0c69": {
+            "text": "Prona\u0111ena %1$d stranica pomo\u0107u selektora: %2$s"
+        },
+        "dc87414810d43e27f63b89feabadc943": {
+            "text": "Prona\u0111eno %1$d stranica pomo\u0107u selektora: %2$s"
+        }
+    }
+}

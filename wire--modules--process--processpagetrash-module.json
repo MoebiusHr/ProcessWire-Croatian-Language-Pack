@@ -1,0 +1,54 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageTrash.module",
+    "textdomain": "wire--modules--process--processpagetrash-module",
+    "translations": {
+        "d97ed15efb05fad91c607749ebcab79e": {
+            "text": "Morate potvrditi okvir za potvrdu"
+        },
+        "dc097f8cfcf3251cf70e684e28515eb5": {
+            "text": "(%d stranica u sekundi)"
+        },
+        "7f3d24328c95805774f2fd34fc2a79e2": {
+            "text": "Ne mogu se izbrisati sve stranice (ostaje ih %d)"
+        },
+        "d7dd8da0daa978390eb2d2d08495b0f8": {
+            "text": "Dosegnuto je vremensko ograni\u010denje (%d sekundi)"
+        },
+        "2f8f6dfb12d1ccfb64a4bc419130dd5a": {
+            "text": "Ko\u0161 za sme\u0107e je prazan"
+        },
+        "a7ba99f8126601330132e87659987ca3": {
+            "text": "Isprazni sme\u0107e (potvrdi)"
+        },
+        "1012544490a2eae7e9782116062941b6": {
+            "text": "Ako u sme\u0107u ima previ\u0161e stavki, mo\u017eda \u0107ete ga morati isprazniti vi\u0161e puta."
+        },
+        "449d5f439f475ea845545769d93ec42f": {
+            "text": "Stranice u sme\u0107u"
+        },
+        "b7750c7b7ef35775735ea2133810d06b": {
+            "text": "Vremensko ograni\u010denje (u sekundama)"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Odustani"
+        },
+        "76c155bf8de0fe17853a8d8c231f72b0": {
+            "text": "Sme\u0107e (stranice)"
+        },
+        "920202a83e840023ebf5ac6e31ccfbf3": {
+            "text": "Pra\u017enjenje sme\u0107a stranice"
+        },
+        "b246b52c4b32fcf1d8ef0c6144f3fb53": {
+            "text": "Izbrisana %d stranica"
+        },
+        "adc38f6c0e8a0f6296294e08a2ca3c64": {
+            "text": "Izbrisano %d stranica"
+        },
+        "5f489bcc97cbc73f35cbd127c5c0053a": {
+            "text": "Trajno izbrisati %d stranicu u otpadu?"
+        },
+        "7d45095d03e58ce1a62afd6e0d149bf0": {
+            "text": "Trajno izbrisati %d stranice u otpadu?"
+        }
+    }
+}
