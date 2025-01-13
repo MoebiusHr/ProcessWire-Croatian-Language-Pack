@@ -1,5 +1,1035 @@
 {
     "file": "wire\/modules\/Process\/ProcessTemplate\/ProcessTemplate.module",
     "textdomain": "wire--modules--process--processtemplate--processtemplate-module",
-    "translations": []
+    "translations": {
+        "bd1ab8d7a2147046de89d54d6d03f39d": {
+            "text": "sistem"
+        },
+        "7de04564993d28e2b32be513c1575777": {
+            "text": "Access"
+        },
+        "93cba07454f06a4a960172bbd6e2a435": {
+            "text": "Da"
+        },
+        "bafd7322c6e97d25b6299b5d6fe8920b": {
+            "text": "Ne"
+        },
+        "5124b02da7ffa5ef666dc8bde11cd10d": {
+            "text": "Ili \/ nije bitno"
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "Da li ste sigurni?"
+        },
+        "0095a9fa74d1713e43e370a7d7846224": {
+            "text": "Izvoz"
+        },
+        "72d6d7a1885885bb55a565fd1070581a": {
+            "text": "Uvoz"
+        },
+        "1f1e0f35a65380b2fb521f45ebe074d4": {
+            "text": "Nazivi predlo\u017eaka mogu koristiti slova (a-z A-Z), brojeve (0-9), crtice i podvlake."
+        },
+        "121b570925fe79a1a61a5af3597db410": {
+            "text": "Mala slova nisu obavezna, ali se preporu\u010duju."
+        },
+        "f2b378843f03d80972622754302da574": {
+            "text": "Nemojte uklju\u010divati \u200b\u200bekstenziju datoteke."
+        },
+        "f24acee881db1337b08b7890e294f358": {
+            "text": "Nemojte koristiti samo broj\u010dane znamenke."
+        },
+        "9cc59ab6a716c29aa5e36e79f150552c": {
+            "text": "Naziv predlo\u0161ka ne odgovara potrebnom formatu."
+        },
+        "690d663be740c77b16476dfd06a4a4b7": {
+            "text": "Ime \"%s\" je ve\u0107 u upotrebi"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Ime"
+        },
+        "b021df6aac4654c454f46c77646e745f": {
+            "text": "Oznaka"
+        },
+        "a1fa27779242b4902f7ae3bdd5c6d508": {
+            "text": "Vrsta"
+        },
+        "189f63f277cd73395561651753563065": {
+            "text": "Tagovi"
+        },
+        "9b2692fa9c25a63ff93341c03734c067": {
+            "text": "Upravljanje oznakama"
+        },
+        "7df96b18c230f90ada0a9e2307226338": {
+            "text": "Predlo\u0161ci"
+        },
+        "4cca2a863deef0fc4de9115b9164537b": {
+            "text": "Netagirano"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Filteri"
+        },
+        "d52ab043aebc166d5bbf3b73e0bffb0f": {
+            "text": "Filtriraj po polju"
+        },
+        "602717d1b0adbf6ff41366d6371e375d": {
+            "text": "Odaberite polje i prikazat \u0107e se samo predlo\u0161ci koji koriste to polje."
+        },
+        "3f8255a0588417dee11d58e2b92c59b4": {
+            "text": "Predlo\u0161ci s poljem: %s"
+        },
+        "487cc58bb37a22e2cfc4d04c92267fee": {
+            "text": "Prika\u017ei predlo\u0161ke sustava?"
+        },
+        "19a3fc9f896f1ef86f69f782be122c37": {
+            "text": "Prema zadanim postavkama sistemski\/interni predlo\u0161ci nisu prikazani. Kliknite 'Da' da biste ih uklju\u010dili u donji popis predlo\u017eaka."
+        },
+        "86ec8350e4740a4cc47328ee7c984d40": {
+            "text": "Dodajte nove predlo\u0161ke"
+        },
+        "21c9aab0c5b8085a7b4a9267c6db3820": {
+            "text": "Naziv predlo\u0161ka \u201c%s\u201d nije dodan jer sadr\u017ei samo znamenke."
+        },
+        "ff6be05386ed6fc79ccf24b5eb9432ac": {
+            "text": "Dodan predlo\u017eak i grupa polja: %s"
+        },
+        "0dea25b9c7f4d4afbe59f7f9b2741d29": {
+            "text": "Predlo\u0161ci prona\u0111eni u: %s"
+        },
+        "66c97c50054d31c710d96c0073ec4c78": {
+            "text": "Prona\u0111eni su sljede\u0107i novi predlo\u0161ci. Ozna\u010dite okvir pored svakog predlo\u0161ka koji \u017eelite dodati."
+        },
+        "f392144a3652c7daf4ee4f0377497709": {
+            "text": "Nisu prona\u0111ene nove datoteke predlo\u017eaka u: %s"
+        },
+        "01582c3e65dc06c2cf178a0bdce2b4dd": {
+            "text": "Stvorite novi predlo\u017eak bez datoteke"
+        },
+        "524fe63ba99d979ba854d38529c9abc1": {
+            "text": "Ako \u017eelite stvoriti novi predlo\u017eak iako trenuta\u010dno nema datoteke povezane s njim, ovdje unesite naziv predlo\u0161ka."
+        },
+        "0e2511c51c799246bc640afd3b4cc07b": {
+            "text": "Mo\u017eete unijeti vi\u0161e naziva predlo\u017eaka tako da svaki odvojite razmakom."
+        },
+        "24a144ffc0e6aae299d3a23c2152e7fa": {
+            "text": "Uredi predlo\u017eak: %s"
+        },
+        "545d923164ab07a1b18e48e526f51259": {
+            "text": "Stranice koje koriste ovaj predlo\u017eak nisu vidljive jer datoteka predlo\u0161ka (%s) ne postoji [nema datoteke]."
+        },
+        "b3a57cf1770883844c8e986675546d20": {
+            "text": "Ako ste upravo dodali polja iznad, prvo ih spremite, a zatim se vratite ovdje da ih odaberete."
+        },
+        "a6cdf6c364498c02bdaa499492780445": {
+            "text": "Neobavezna oznaka za opis ovog predlo\u0161ka."
+        },
+        "817434295a673aed431435658b65d9a7": {
+            "text": "Ikona"
+        },
+        "4f50a13dad7a9fb97496e4b62718d3a8": {
+            "text": "Odaberite ikonu koja \u0107e biti povezana s ovim predlo\u0161kom i stranicama koje koriste ovaj predlo\u017eak (u administratoru)."
+        },
+        "c64518704ce0c0d5501a45763f464276": {
+            "text": "Kori\u0161tenje"
+        },
+        "0d4ca2b82aa1381b25348c8509009839": {
+            "text": "Obri\u0161i predlo\u017eak"
+        },
+        "833914963b9e76310195f43171e185a6": {
+            "text": "Ovaj predlo\u017eak se ne mo\u017ee izbrisati"
+        },
+        "af6397fe799c6883d32c1904e226a176": {
+            "text": "Nije dostupno iz dolje navedenih razloga"
+        },
+        "f7c9b4730186dec196b0eaf4be43f530": {
+            "text": "Predlo\u0161ci sustava ne mogu se izbrisati"
+        },
+        "f89bc18e7afb05b3ac03300bec624b63": {
+            "text": "Potvrdite brisanje"
+        },
+        "890f96a8e633d19ff700b360949982af": {
+            "text": "Imajte na umu da brisanje predlo\u0161ka samo uklanja iz baze podataka, ne bri\u0161e datoteku predlo\u0161ka na disku."
+        },
+        "0968f67bf85224770756cc134016da2b": {
+            "text": "Prema zadanim postavkama, svaki predlo\u017eak upravlja vlastitom grupom polja. Ako \u017eelite da ovaj predlo\u017eak koristi polja iz drugog predlo\u0161ka, \u200b\u200bodaberite ga ovdje."
+        },
+        "6f8d1b93e4aad53511c85e29ed36b3d0": {
+            "text": "(zadano)"
+        },
+        "6a0219d2a4cc5325013a373b1da9fa8f": {
+            "text": "Za va\u0161u referencu, ovo je popis polja koja koristi ovaj predlo\u017eak. Ovaj predlo\u017eak dobiva svoja polja iz predlo\u0161ka \u201c%s\u201d."
+        },
+        "78f0addb345c31ce3601b53076e87281": {
+            "text": "Definirajte prilago\u0111ena polja za \u201c%s\u201d. Ovdje nije potrebno ni\u0161ta vi\u0161e konfigurirati."
+        },
+        "1ee7f0f967f1817a4d0df8dac4105ebc": {
+            "text": "Odaberite polja koja koristi ovaj predlo\u017eak i povucite\/ispustite do \u017eeljenog redoslijeda."
+        },
+        "2e5b330cc3f63247217f9a7aff0ba468": {
+            "text": "Tako\u0111er mo\u017eete kliknuti naziv polja ili oznaku za ure\u0111ivanje u kontekstu ovog predlo\u0161ka, \u200b\u200bkliknuti\/povu\u0107i indikator postotka za pode\u0161avanje \u0161irine ili [stvoriti novo polje](%s)."
+        },
+        "5b55d084858290c6852cb1b0bd6be400": {
+            "text": "Spremite ovaj predlo\u017eak kako bi se novododana polja ovdje mogla ure\u0111ivati."
+        },
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "Dodaj polje"
+        },
+        "044c72d21891e006e09a78d32a1e3226": {
+            "text": "Zatvori i dodaj"
+        },
+        "8ad0889e260991fdddd4730a35287dad": {
+            "text": "Kliknite i povucite za pode\u0161avanje \u0161irine polja"
+        },
+        "710392d799626a77535d30648716ddd3": {
+            "text": "Spremite predlo\u017eak prije pode\u0161avanja \u0161irine novog polja"
+        },
+        "6d54a6464afb9baefe6dc9b5bb9407ba": {
+            "text": "Preimenuj predlo\u017eak"
+        },
+        "f1a2199b60e95006b3d66f9eb5a9e621": {
+            "text": "Naziv koji se koristi za ovaj predlo\u017eak. Ovo je tako\u0111er zadani naziv datoteke predlo\u0161ka (s nastavkom .php) u \/site\/templates\/."
+        },
+        "04f22e1af73c705475a4cc38a5c89ae3": {
+            "text": "Naziv datoteke predlo\u0161ka mo\u017ee se pisati i bit \u0107e tako\u0111er preimenovan."
+        },
+        "8d5a5a7af810d2ef80cf02082615c9dd": {
+            "text": "U datoteku predlo\u0161ka nije mogu\u0107e pisati pa \u0107ete je morati ru\u010dno preimenovati (upute \u0107e biti dostavljene nakon \u0161to spremite)."
+        },
+        "50b8391d080056ff0fef83460aec05c2": {
+            "text": "Dupliciraj\/kloniraj ovaj predlo\u017eak"
+        },
+        "4b5a4101eef9107a93653ecef0418ed1": {
+            "text": "Unesite naziv novog predlo\u0161ka koji \u017eelite izraditi. Klon \u0107e se stvoriti kada spremite. Ako va\u0161 direktorij predlo\u017eaka mo\u017ee pisati i predlo\u017eak ima datoteku, on \u0107e tako\u0111er biti kloniran."
+        },
+        "6a40b08ae62e68a7c0d75fbe482422bb": {
+            "text": "Kopirajte polja iz drugog predlo\u0161ka"
+        },
+        "8daeee7ba24747388991aebbef424aca": {
+            "text": "Ako \u017eelite kopirati polja koja koristi drugi predlo\u017eak, odaberite ga ovdje. Polja koja su ve\u0107 prisutna u ovom predlo\u0161ku bit \u0107e ostavljena sama."
+        },
+        "c5abeb6189c82d5b9d81bbcac604408b": {
+            "text": "Status predmemorije"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Onemogu\u0107eno"
+        },
+        "399c72ebbb8b618eeb11aab334a88369": {
+            "text": "Omogu\u0107eno (predmemorija predlo\u0161ka)"
+        },
+        "6d490a96685b13339b51530ee05a7c9a": {
+            "text": "Omogu\u0107eno (ProCache, konfigurirano ovdje)"
+        },
+        "404deca0459b84d7308fb7c434301657": {
+            "text": "Stranice koje koriste ovaj predlo\u017eak trenutno su predmemorirane u ProCacheu, ali su konfigurirane izravno u ProCacheu. Da biste ovdje konfigurirali postavke ProCache za ovaj predlo\u017eak, odaberite gornju opciju ProCache."
+        },
+        "0f62a8abd379b96004d8118b0d9a2399": {
+            "text": "Za spremanje izlaza ovog predlo\u0161ka u predmemoriju, unesite vrijeme (u sekundama) za koje se izlaz treba spremiti u predmemoriju. Spremanje u predmemoriju mo\u017ee zna\u010dajno pomo\u0107i u vremenu renderiranja stranice na stranicama koje zahtijevaju velike koli\u010dine resursa. No predmemoriranje se ne bi trebalo koristiti na predlo\u0161cima koji trebaju obra\u0111ivati \u200b\u200bpodatke koji se stalno mijenjaju, poput obrazaca ili sesija. Tako\u0111er imajte na umu da se URL segmenti mogu predmemorirati, ali GET i POST varijante nisu."
+        },
+        "e71a260bc8db16e30f2dedeba9440a25": {
+            "text": "Na primjer: 60 = 1 minuta, 600 = 10 minuta, 3600 = 1 sat, 86400 = 1 dan, 604800 = 1 tjedan, 2419200 = 1 mjesec."
+        },
+        "fa15c33b6ad59f9f8183f1b3c68ab082": {
+            "text": "Spremanje stranice \/ Istek predmemorije"
+        },
+        "7ff5f438d6cc10c5f333e97329c72daa": {
+            "text": "Kad se stranica koja koristi ovaj predlo\u017eak spremi, \u0161to bi se trebalo dogoditi s predmemorijom?"
+        },
+        "fe4a994d36e75cfb408bdf0b5dd7af09": {
+            "text": "O\u010disti predmemoriju samo za spremljenu stranicu (zadano)"
+        },
+        "e83d2e6601e2f724159034563ad4fde0": {
+            "text": "O\u010disti predmemoriju za cijelu stranicu*"
+        },
+        "3bba41317ab3da84fd247ebaa32ea821": {
+            "text": "O\u010disti predmemoriju za spremljenu stranicu i roditelje (uklju\u010duju\u0107i po\u010detnu stranicu)"
+        },
+        "f841b3150a439220f669e77e12ea0bda": {
+            "text": "O\u010disti predmemoriju za spremljenu stranicu i druge stranice koje navedem..."
+        },
+        "70445e42e2f9089020b0ba1c23063287": {
+            "text": "O\u010disti predmemoriju za spremljenu stranicu i druge stranice koje odgovaraju selektoru..."
+        },
+        "cd88ce600576fcc630878b5e374835a5": {
+            "text": "Ne \u010dini ni\u0161ta"
+        },
+        "cac7796ca8e88c31d8b23733cb7aaf03": {
+            "text": "*Da bi se maksimizirala brzina izvo\u0111enja, sve datoteke predmemorije istekle su kao grupa, a ne bri\u0161u se pojedina\u010dno."
+        },
+        "7ebdcad871020558be972578bdf46a10": {
+            "text": "Navedite ostale stranice za koje treba o\u010distiti predmemoriju"
+        },
+        "501a09415d30cab1819195e5566a0c0d": {
+            "text": "Kada se stranice koje koriste ovaj predlo\u017eak spreme, njihove datoteke predmemorije bit \u0107e izbrisane. U nastavku odaberite ostale stranice za koje bi tako\u0111er trebale biti izbrisane datoteke predmemorije."
+        },
+        "f62b09e2a4c1eb3583afe9c213b981c8": {
+            "text": "Selektor za pronala\u017eenje ostalih stranica za koje treba o\u010distiti predmemoriju."
+        },
+        "dcbec326309994892030ce4aa6f72f75": {
+            "text": "Spremite ovaj predlo\u017eak, a zatim se vratite ovdje kako biste konfigurirali svoj selektor."
+        },
+        "711aef464118d5be216c2879591fbb5a": {
+            "text": "Selektor isteka predmemorije"
+        },
+        "d6b522c2ed20093505dfa63be2ba0454": {
+            "text": "Predmemorija prilikom prikazivanja stranica za ove korisnike"
+        },
+        "787f82b093280bcb87901ea228d7b083": {
+            "text": "Samo gosti"
+        },
+        "8a8e700d3ef2487708d671db81ed8ce3": {
+            "text": "Gosti i prijavljeni korisnici"
+        },
+        "8d5e98c594942c49efea1af30c90efe5": {
+            "text": "Imajte na umu da je predmemorija uvijek onemogu\u0107ena za stranice na kojima korisnik ima pristup ure\u0111ivanju, bez obzira \u0161to ovdje odaberete."
+        },
+        "d1db89af3df82862d45c9755e9aa0075": {
+            "text": "Predmemorija onemogu\u0107uje GET varijable"
+        },
+        "ad63801f30d93a9f54257aa637d5ed89": {
+            "text": "Predmemorija onemogu\u0107uje POST varijable"
+        },
+        "dcc07e185c0c88ca7c4439fbaa56e4cb": {
+            "text": "Kada je izlaz va\u0161eg predlo\u0161ka predmemoriran, varijable ove vrste zanemaruju se prema zadanim postavkama. Po \u017eelji mo\u017eete navesti jedan ili vi\u0161e naziva varijabli koji \u0107e onemogu\u0107iti predmemoriju za taj zahtjev, uzrokuju\u0107i da se stranica prikazuje bez predmemorije."
+        },
+        "f32d42af055544c46a989bceee851733": {
+            "text": "Po \u017eelji unesite jedno ili vi\u0161e naziva varijabli. Ako unesete vi\u0161e od jednog, odvojite ih razmakom."
+        },
+        "fc5817e1bd14f3acbf2266635b0e30ed": {
+            "text": "Da biste onemogu\u0107ili predmemoriju kada je prisutna bilo koja varijabla, unesite samo zvjezdicu: * (preporu\u010deno)"
+        },
+        "5cb36b26303f4abb0dea36f9bb96887f": {
+            "text": "Ako \u017eelite vizualno grupirati ovaj predlo\u017eak s ostalima na popisu predlo\u017eaka, unesite oznaku od jedne rije\u010di. Unesite istu oznaku na druge predlo\u0161ke s kojima se \u017eelite grupirati. Za navo\u0111enje vi\u0161e oznaka, odvojite svaku razmakom. Kori\u0161tenje oznaka mo\u017ee se isplatiti ako va\u0161e web mjesto ima velik broj predlo\u017eaka."
+        },
+        "7f511c25eccff9ce7127eecfb136f443": {
+            "text": "Svaki tag mora biti samo jedna rije\u010d (crtice su u redu)."
+        },
+        "f578ef5a7330291e151dc6052fe85bfe": {
+            "text": "Po \u017eelji nadja\u010dajte zadani tag kartice \"Sadr\u017eaj\"."
+        },
+        "5fda5af59d211bd673998a69f051c3f2": {
+            "text": "Po \u017eelji nadja\u010dajte zadani tag kartice \"Djeca\"."
+        },
+        "4a49f761ce504d9c073de20eba6ca069": {
+            "text": "Po \u017eelji nadja\u010dajte zadanu oznaku svojstva \"Naziv\"."
+        },
+        "4a290c3c1090e21dd600de5f741fa083": {
+            "text": "Obavezna radnja na terenu"
+        },
+        "413c8d36faee24af361553c804386428": {
+            "text": "Koju radnju treba poduzeti kada se ve\u0107 objavljena stranica spremi s obaveznim poljem koje nedostaje?"
+        },
+        "6aa324ce3baf41a239eaa440caba0a51": {
+            "text": "Obavijesti korisnika o pogre\u0161ci (zadano)"
+        },
+        "df169cc44c2c05b1bc4f79938c03405b": {
+            "text": "Vrati prethodnu vrijednost (ako je dostupno)"
+        },
+        "90ffa24b83a6a28137f9063f7e6cdc4b": {
+            "text": "Poni\u0161ti objavu stranice (kada je dopu\u0161teno)"
+        },
+        "7328590933d4202f89220d6b435b0e8f": {
+            "text": "Popis polja za prikaz na popisu stranica administratora"
+        },
+        "61b468c296e8ff1ed4c18bd86392e1cc": {
+            "text": "Unesite jedno ili vi\u0161e naziva polja dodijeljenih ovom predlo\u0161ku za prikaz na popisu stranica administratora prilikom popisa stranica koje koriste ovaj predlo\u017eak. Ako se ostavi prazno, umjesto toga koristit \u0107e se polja navedena u konfiguraciji modula ProcessPageList. Nazivi polja trebaju biti odvojeni razmakom i\/ili zarezom. Prazna polja \u0107e se zanemariti."
+        },
+        "9a4127b29b0b6c40638af21074829f0e": {
+            "text": "Tako\u0111er mo\u017eete koristiti vlastiti format (i sve dodatne interpunkcijske znakove) navo\u0111enjem naziva polja u zagradama, npr. {name}, {categories.title}, itd."
+        },
+        "b1a8a50c7276f36aeca631c5f4d18c9d": {
+            "text": "Mo\u017eete unijeti jedno ili vi\u0161e od ovih polja:"
+        },
+        "9c16eb3042fbf6c2b73a21dea122d19e": {
+            "text": "Da biste odredili svojstvo polja, stavite polje u zagrade i unesite {field_name.property}, na primjer: {categories.title}."
+        },
+        "8f0944546d02e3fd7de73e9418494b3b": {
+            "text": "Prekida\u010di predlo\u017eaka"
+        },
+        "249d044ac9d6d23ba96d1515cc4717e4": {
+            "text": "Op\u0107enito biste trebali ostaviti te prekida\u010de neozna\u010dene osim ako ovdje nemate odre\u0111enu potrebu."
+        },
+        "6be7133083e1d91f772589bf24aa5e48": {
+            "text": "navedite 0 za onemogu\u0107avanje"
+        },
+        "b919a5aafc6740109c0c58fe51916178": {
+            "text": "Ne dopustiti stranicama da mijenjaju svoj predlo\u017eak?"
+        },
+        "6bb5af6d5240fb8b1d720a7e5bec4497": {
+            "text": "Kada je ozna\u010deno, stranice koje koriste ovaj predlo\u017eak ne\u0107e se mo\u0107i promijeniti u drugi predlo\u017eak."
+        },
+        "29f47bc61ea7a6f45ee3d36da3a3feff": {
+            "text": "Ne dopu\u0161taj neobjavljene stranice"
+        },
+        "94c9fe9ddbd9380ceb726bef40232ea3": {
+            "text": "Kada je ozna\u010deno, stranice koje koriste ovaj predlo\u017eak mogu postojati samo u objavljenom stanju i ne smiju biti poni\u0161tene."
+        },
+        "6064635b0dec3189859052c02adc0fc5": {
+            "text": "Dopustiti promjenu 'stvorenog korisnika' na stranicama?"
+        },
+        "16a657e6bf4576ef101f1bcca129694c": {
+            "text": "Kada je ozna\u010deno, stranice koje koriste ovaj predlo\u017eak imat \u0107e opciju promjene 'stvorio korisnik' (samo za superkorisnike). Tako\u0111er \u0107e omogu\u0107iti spremanje polja $page->createdUser ili $page->created_users_id putem API-ja."
+        },
+        "42a6e7a5ed0d0ae111fa88a2ccf1aca2": {
+            "text": "Ne dopu\u0161tate premje\u0161tanje stranica?"
+        },
+        "518270f594c5488ff1f8de2ac0429f0e": {
+            "text": "Ako \u017eelite sprije\u010diti premje\u0161tanje stranica koje koriste ovaj predlo\u017eak (promjena roditelja), ozna\u010dite ovaj okvir."
+        },
+        "4250b64aabe2bd1f7764377c2f5380c4": {
+            "text": "Onemogu\u0107iti vi\u0161ejezi\u010dnu podr\u0161ku za ovaj predlo\u017eak?"
+        },
+        "109da571222f1c753257a9ea7d9c0f23": {
+            "text": "Kada je ozna\u010deno, stranice koje koriste ovaj predlo\u017eak koristit \u0107e samo zadani jezik."
+        },
+        "dc8ce981931b1e9b1f784c57730a67c1": {
+            "text": "Imajte na umu da su sve ove postavke sustava namijenjene razvoju ProcessWire sustava (ne razvoju web mjesta). Koristite ih na vlastitu odgovornost."
+        },
+        "3920cc9a9feba6acfae659a68688f13c": {
+            "text": "Oznaka sustava?"
+        },
+        "e92f2f24e876c414f6cca0e1ed3bfa73": {
+            "text": "Ako je ozna\u010deno, ovaj \u0107e predlo\u017eak biti definiran kao za sustav i ne\u0107e se mo\u0107i izbrisati. Nakon \u0161to je zastavica sustava omogu\u0107ena, mo\u017ee se ukloniti samo putem API-ja (flagSystemOverride)."
+        },
+        "86c66b6c28f25016de70be40475eb881": {
+            "text": "API: $template->flagSystem = 1; \/\/ ili 0 za onemogu\u0107avanje"
+        },
+        "0b81495a48a77b7743e0a20fa02e6af9": {
+            "text": "Naziv klase stranice"
+        },
+        "cfab2e7a62a89871220c3ebac5367331": {
+            "text": "Naziv PHP klase koja \u0107e se koristiti za stvaranje stranica koje koriste ovaj predlo\u017eak. Stranice \u0107e prema zadanim postavkama biti stvorene iz klase Stranica. Ostavite ovo prazno osim ako nemate drugu klasu izvedenu iz stranice koju \u017eelite koristiti."
+        },
+        "85ac227eb16808008afaf07f66cf0f7e": {
+            "text": "Zanemariti globalna polja?"
+        },
+        "fd83133f05e8bacf7eb368a2d95de8fe": {
+            "text": "Prema zadanim postavkama, kada je polje ozna\u010deno kao 'globalno', bit \u0107e obavezno na svim predlo\u0161cima (i automatski \u0107e se dodati svim predlo\u0161cima koji ga nemaju). Ako ovaj predlo\u017eak ima posebnu svrhu gdje se 'globalna' polja ne bi primjenjivala, mo\u017eete potvrditi ovaj okvir kako bi ovaj predlo\u017eak zanemario 'globalna' polja."
+        },
+        "381e3cba7a92b2d007d0d534a58b17ff": {
+            "text": "API: $template->noGlobal = 1; \/\/ ili 0 za onemogu\u0107avanje"
+        },
+        "0176d878928026caefe7c81262335e1d": {
+            "text": "\u017delite li prikazati polje \"ime\" na kartici sadr\u017eaja?"
+        },
+        "61788997b579a9bcfe17e394d394ad01": {
+            "text": "Prema zadanim postavkama, ugra\u0111eno polje 'name' pojavljuje se u kartici 'postavki' ure\u0111iva\u010da stranice. Ako biste radije da se pojavi u kartici \"sadr\u017eaj\", potvrdite ovaj okvir."
+        },
+        "e864c0d94cbc5dc0faf1ce78d9021e63": {
+            "text": "API: $template->nameContentTab = 1; \/\/ ili 0 za onemogu\u0107avanje"
+        },
+        "19a460b1edf9cc0616cd0ce03e9a0ddf": {
+            "text": "Onemogu\u0107iti opciju Sme\u0107e?"
+        },
+        "38354c9531a0d7056f7f98de8810a2f1": {
+            "text": "Kada je ozna\u010deno, stranice koje koriste ovaj predlo\u017eak ne\u0107e imati mogu\u0107nost slanja u sme\u0107e."
+        },
+        "69385004eb4f22d17482beb09e549453": {
+            "text": "API: $template->noTrash = 1; \/\/ ili 0 za onemogu\u0107avanje"
+        },
+        "a7c1ec59b9f4fea9e41e1ca799437193": {
+            "text": "Onemogu\u0107iti karticu Postavke?"
+        },
+        "abad59d4cf5691fd0506cb650dff0f5b": {
+            "text": "Kada je ozna\u010deno, stranice koje koriste ovaj predlo\u017eak ne\u0107e imati karticu 'postavke' u ure\u0111iva\u010du."
+        },
+        "6a90024dcca935af3329542c3f346229": {
+            "text": "API: $template->noSettings = 1; \/\/ ili 0 za onemogu\u0107avanje"
+        },
+        "a8d7050d17168bae58f775f20d56eeba": {
+            "text": "Mogu li stranice koje koriste ovaj predlo\u017eak imati potomke?"
+        },
+        "0f79346b34fe5a07bf9ad38ef37e1723": {
+            "text": "Mo\u017ee li se ovaj predlo\u017eak koristiti za nove stranice?"
+        },
+        "6ab8ac5b13a48347d2ca00a38bb06f94": {
+            "text": "Primjer predlo\u0161ka koji ne biste \u017eeljeli koristiti za nove stranice je va\u0161 predlo\u017eak 'po\u010detne stranice'."
+        },
+        "06c2cea18679d64399783748fa367bdd": {
+            "text": "Jedan"
+        },
+        "b4a25e0860ab98f8476c6339abbb773b": {
+            "text": "vi\u0161e nije dopu\u0161teno"
+        },
+        "1e791aefe4014d2551110c4348279487": {
+            "text": "Dopu\u0161teni predlo\u0161ci za djecu"
+        },
+        "fcdd2e278208618dfa795ed85ba1eb06": {
+            "text": "Odaberite predlo\u0161ke koji \u0107e biti dopu\u0161teni za djecu stranica koje koriste ovaj predlo\u017eak. Koristite ovo samo ako izri\u010dito \u017eelite ograni\u010diti smje\u0161taj stranica pomo\u0107u ovog predlo\u0161ka."
+        },
+        "9927f70231db8b53612513d00b934a7c": {
+            "text": "Ako nijedan nije odabran, dopu\u0161teni su svi, unutar korisni\u010dkih ograni\u010denja pristupa. Primjer upotrebe mogao bi biti predlo\u017eak 'popisa vijesti' koji smije imati podre\u0111ene elemente samo pomo\u0107u predlo\u017eaka 'vijesti' ili 'objava za javnost'."
+        },
+        "ad1d924dc261c8945b07d271c9cd5888": {
+            "text": "Predlo\u0161ci ozna\u010deni s %s tako\u0111er moraju biti konfigurirani da dopuste ovaj predlo\u017eak kao nadre\u0111enog. Kliknite bilo koji odabrani predlo\u017eak kao pre\u010dac za konfiguriranje dopu\u0161tenih roditelja."
+        },
+        "81d8cfa67d7f3fa526cff71bd27238c5": {
+            "text": "Predlo\u0161ci ozna\u010deni sa %s ve\u0107 su konfigurirani da dopuste ovaj predlo\u017eak kao nadre\u0111enog."
+        },
+        "1b50b9bdfa1846ef031dc3cc190267d6": {
+            "text": "Dopu\u0161teni predlo\u0161ci za roditelje"
+        },
+        "8d3a827d5474c79dc3434e5e29f7a80f": {
+            "text": "Odaberite predlo\u0161ke koji \u0107e biti dopu\u0161teni kao roditelji za stranice koje koriste ovaj predlo\u017eak. Koristite ovo samo ako izri\u010dito \u017eelite ograni\u010diti smje\u0161taj stranica pomo\u0107u ovog predlo\u0161ka."
+        },
+        "dc70febc65985c326b6d7a85502ddc0a": {
+            "text": "Ako nijedan nije odabran, dopu\u0161ten je bilo koji nadre\u0111eni predlo\u017eak, unutar korisni\u010dkih ograni\u010denja pristupa. Primjer upotrebe mogao bi biti predlo\u017eak 'zaposlenik' kojemu je dozvoljeno da ima samo nadre\u0111enu stranicu koriste\u0107i predlo\u017eak 'imenik tvrtke'."
+        },
+        "fb3f093ab0572a059120f2c7c680da3c": {
+            "text": "Predlo\u0161ci ozna\u010deni sa %s tako\u0111er moraju biti konfigurirani da omogu\u0107e ovaj predlo\u017eak za djecu. Pritisnite bilo koji odabrani predlo\u017eak kao pre\u010dac za konfiguriranje dopu\u0161tenih potomaka."
+        },
+        "173fc4509c54323d4c0da3ffea41742c": {
+            "text": "Predlo\u0161ci ozna\u010deni sa %s ve\u0107 su konfigurirani da dopuste ovaj predlo\u017eak kao dijete."
+        },
+        "92fe79a8aa59b037f5f6e2b43f89fea8": {
+            "text": "Format imena za djecu"
+        },
+        "5cf485ae4559df60232a5ff0f87783cb": {
+            "text": "Po \u017eelji navedite format za nazive stranica koji se koriste kada se doda nova podre\u0111ena stranica. To omogu\u0107uje preskakanje koraka \"Dodavanje stranice\" prilikom dodavanja nove stranice. Kako bi funkcionirao, jedan (1) predlo\u017eak mora biti odabran za gornje polje \"Dopu\u0161teni predlo\u0161ci za djecu\"."
+        },
+        "9fbbf36953078c8761263aac49cbcc76": {
+            "text": "Ostavite prazno za onemogu\u0107avanje. Unesite \"naslov\" (bez navodnika) da biste automatski generirali naziv iz naslova stranice. Dostupne su i [Vi\u0161e opcija](%s), uklju\u010duju\u0107i prilago\u0111ena polja i formate datuma."
+        },
+        "de4914b2943f3cfce0232ae281a8b155": {
+            "text": "Prika\u017ei u izborniku pre\u010daca za dodavanje stranica?"
+        },
+        "eaf9115aadc503ff009e4c769963a877": {
+            "text": "Kada je ozna\u010deno, ovaj predlo\u017eak ispunjava uvjete za pojavljivanje na gumbu\/izborniku pre\u010daca \"dodaj novu stranicu\" koji se pojavljuje na glavnom zaslonu stranica. Ovo pretpostavlja da su ispunjeni svi ostali uvjeti (vidi dolje)."
+        },
+        "9351544406147e2f9a081ce279e7f687": {
+            "text": "Za pode\u0161avanje redoslijeda pojavljivanja predlo\u017eaka u izborniku pre\u010daca pogledajte [postavke modula PageAdd](%s)."
+        },
+        "91426b7105692d7c29b6307385ea99d1": {
+            "text": "**Uvjeti potrebni da ovo funkcionira**"
+        },
+        "635a2459897d3f0072993713558c84b0": {
+            "text": "1. Morate odabrati nadre\u0111eni predlo\u017eak (pogledajte: \"dopu\u0161teni predlo\u0161ci za roditelje\" gore). Ako je odabrano vi\u0161e od 1, koristit \u0107e se samo prvi."
+        },
+        "b14d306525e8d6e9927d577a59064048": {
+            "text": "2. Odabrani roditeljski predlo\u017eak mora definirati ovaj predlo\u017eak kao dopu\u0161ten za djecu."
+        },
+        "67c0041f81951ac9b6b46dd2311fb9aa": {
+            "text": "Razvrstaj postavke za djecu"
+        },
+        "2a233a750cca4cc7bde0dcc7f8a2c4ec": {
+            "text": "Ako \u017eelite da djeca automatski sortiraju prema odre\u0111enom polju, odaberite ga ovdje. U suprotnom odaberite \"Ni\u0161ta\" kako biste ovo postavili po stranici. Ovo poni\u0161tava postavku stranice, pa ako odaberete bilo \u0161to osim \"Ni\u0161ta\", opcija sortiranja ne\u0107e se pojaviti za stranice koje koriste ovaj predlo\u017eak."
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Vi\u0161e"
+        },
+        "fd80e24b28f66f7a579ced68340fd3fa": {
+            "text": "Dopustiti Brojeve Stranica?"
+        },
+        "991dba5ecf8a850b42ffc2e6d0697c2b": {
+            "text": "Ako je ozna\u010deno, stranice koje koriste ovaj predlo\u017eak podr\u017eavat \u0107e ozna\u010davanje stranica."
+        },
+        "fb72654fb51cb493c6d0123505d9e596": {
+            "text": "Trebaju li URL-ovi brojeva stranica imati kosu crtu na kraju?"
+        },
+        "3a426f05b968cc7c6022ac1388e7d8e7": {
+            "text": "Dopustiti URL segmente?"
+        },
+        "4295c2949c604273ad18a82924a06684": {
+            "text": "Ako je ozna\u010deno, stranice koje koriste ovaj predlo\u017eak podr\u017eavat \u0107e prilago\u0111ene segmente URL-a nakon URL-a stranice."
+        },
+        "bbd5238aeedba403b7977656d2f132fc": {
+            "text": "Trebaju li segmenti URL-a zavr\u0161avati kosom crtom na kraju?"
+        },
+        "85eb71c20f7740fc3bdbf7dfdee2636b": {
+            "text": "Koje segmente URL-a \u017eelite dopustiti?"
+        },
+        "db2a37c1bdec2b30f0c7c9d789b3bfcc": {
+            "text": "Unesite jedan dopu\u0161teni segment, putanju segmenta ili regularni izraz po retku ili ostavite prazno da biste dopustili bilo koji."
+        },
+        "d5bf40c0f8c27c98db4d65ebc8cdc0c7": {
+            "text": "Trebaju li URL-ovi stranica zavr\u0161avati kosom crtom?"
+        },
+        "60cb362641cd33525562c9d62d0f8d18": {
+            "text": "Ako je 'Da', stranice koje koriste ovaj predlo\u017eak uvijek \u0107e imati URL-ove koji zavr\u0161avaju kosom crtom '\/' na kraju. A ako se stranica u\u010dita s URL-a bez kose crte, bit \u0107e preusmjerena na njega. Ako odaberete 'Ne', umjesto toga \u0107e se primijeniti verzija bez kose crte. Imajte na umu da ova postavka ne name\u0107e ovo pona\u0161anje na segmentima URL-a ili brojevima stranica, ve\u0107 samo na stvarnim URL-ovima stranica. Ako nemate preferenciju, preporu\u010da se da ovaj postav ostavite na 'Da'."
+        },
+        "2d234a37f1f09a868ff9e51cbec93c0a": {
+            "text": "Shema\/Protokol"
+        },
+        "249e45d525f325778f98cdd90eaf0b32": {
+            "text": "HTTP ili HTTPS"
+        },
+        "d50c90d8cbe8ba3ac7178aeb59f93b68": {
+            "text": "Samo HTTPS (SSL enkriptirano)"
+        },
+        "ea43e91e88d8e9dd3cd46d5470fb71d6": {
+            "text": "Samo HTTP"
+        },
+        "ecb1f1de9e0f813e37e40e2aa016c008": {
+            "text": "Ako va\u0161e web mjesto ima SSL certifikat i dostupno je putem HTTPS-a, stranice koje koriste ovaj predlo\u017eak mo\u017eete u\u010diniti dostupnima samo putem HTTPS-a ili HTTP-a. Na primjer, ako u nastavku odaberete 'Samo HTTPS', a zahtjev za stranicu koja koristi ovaj predlo\u017eak do\u0111e putem HTTP-a, bit \u0107e automatski preusmjeren na HTTPS verziju. Prema zadanim postavkama, ProcessWire dopu\u0161ta vezu putem HTTP-a ili HTTPS-a."
+        },
+        "3797b58404902683867d788211ac5ce2": {
+            "text": "Koristiti kompajliranu datoteku?"
+        },
+        "e139846cbe34d9fe671e7b5975d367ba": {
+            "text": "Omogu\u0107uje ProcessWireu da a\u017eurira va\u0161u datoteku predlo\u0161ka za prostor imena ProcessWire i primijeni sve instalirane module FileCompiler-a."
+        },
+        "d539c03bba4a77f2fb76ab46fa9b93f1": {
+            "text": "Preporu\u010da se barem za datoteke predlo\u017eaka koje ne koriste prostor imena ProcessWire (poput onih koje potje\u010du s PW 2.x stranica)."
+        },
+        "adab801f8cca3e7d6f780fe4853eb55f": {
+            "text": "Ako niste sigurni, odaberite \"Auto\"."
+        },
+        "cacd642e8d383be621123210fa6d9d74": {
+            "text": "(onemogu\u0107uje kompajler)"
+        },
+        "a441d0ada5c25b0aaf68585c3cd98609": {
+            "text": "Automatski (prevedi kada datoteka nema namespace)"
+        },
+        "422d6e51e28831664b5c0b701b6c6182": {
+            "text": "(samo datoteka predlo\u0161ka)"
+        },
+        "ad6d587b4370281434a47d58aaf1e5a5": {
+            "text": "(datoteka predlo\u0161ka i datoteke uklju\u010dene iz nje)"
+        },
+        "1d926a6b89b4bc848e3f4ffa3e1bd67d": {
+            "text": "Otkriveni prostor imena datoteke predlo\u0161ka je \"%s\"."
+        },
+        "0b506a8d05b70f0f99d7843e1e7ce9c2": {
+            "text": "Preporu\u010deno kompajliranje."
+        },
+        "9b404a9b5976b30bf436e218068b3d4d": {
+            "text": "Kompajliranjenije potrebno osim ako nije potrebno za module ili uklju\u010duje."
+        },
+        "65cee0d2556f206faa5e315e2f165551": {
+            "text": "Zaglavlje za slanje s izlazom datoteke predlo\u0161ka. Ako ni\u0161ta nije odabrano, ProcessWire ne\u0107e poslati zaglavlje vrste sadr\u017eaja i u ve\u0107ini slu\u010dajeva pretpostavlja se text\/html. Odabir vrste sadr\u017eaja preporu\u010duje se kada \u0107e izlaz biti ne\u0161to drugo osim html-a."
+        },
+        "6540057c786960e596930c3041771293": {
+            "text": "Za dodavanje vi\u0161e vrsta sadr\u017eaja pogledajte *contentTypes* u \/wire\/config.php (i dodajte ih u \/site\/config.php)."
+        },
+        "e9c90e0ba4fdd701df9d4ff73c82dc3e": {
+            "text": "Alternativni naziv datoteke predlo\u0161ka"
+        },
+        "f8faba0e1d9c277a84bb16a48f9d57f6": {
+            "text": "Naziv datoteke predlo\u0161ka, \u200b\u200bako se razlikuje od: %s"
+        },
+        "217ca16c1e160b229a71c244512c3d4d": {
+            "text": "Pretpostavlja se da su datoteke predlo\u017eaka u direktoriju: %s"
+        },
+        "043008c261f9d0e109c03ab63e047bcd": {
+            "text": "Pretpostavlja se da je nastavak datoteke predlo\u0161ka: %s"
+        },
+        "52ca64db1f0ca50831b3af91db6cd643": {
+            "text": "Dodaj datoteku ispred"
+        },
+        "58a0dd4014386dd156c47a6d69cdd5f8": {
+            "text": "Datoteka koja se dodaje na po\u010detak datoteke predlo\u0161ka tijekom renderiranja stranice. Mora biti u odnosu na \/site\/templates\/."
+        },
+        "0f7b5e8d336c577672820ac8d848fb4f": {
+            "text": "Dodaj datoteku iza"
+        },
+        "9c33f36534809a059d32ae185a28ad0e": {
+            "text": "Datoteka za dodavanje u datoteku predlo\u0161ka tijekom renderiranja stranice. Mora biti u odnosu na \/site\/templates\/."
+        },
+        "ab6b38f8849f9837a2fbb24721ab5e99": {
+            "text": "Onemogu\u0107i automatsko dodavanje datoteke ispred: %s"
+        },
+        "95dac43782405c335b194c4f4ff28436": {
+            "text": "Onemogu\u0107i automatsko dodavanje datoteke: %s"
+        },
+        "707380d7bcc2ece9eead5a5879fb1c22": {
+            "text": "\u017delite li upravljati pristupom za pregled i ure\u0111ivanje za stranice koje koriste ovaj predlo\u017eak?"
+        },
+        "22ac5f69365966a7ce509e349b23539a": {
+            "text": "Ako odaberete 'Da', mo\u017eete definirati koje uloge imaju pristup stranicama pomo\u0107u ovog predlo\u0161ka. Ako odaberete 'Ne' tada \u0107e stranice koje koriste ovaj predlo\u017eak naslijediti pristup od svojih roditeljskih stranica."
+        },
+        "26b6d64574e88f30f407e16212dc4d57": {
+            "text": "\u0160to u\u010diniti kada korisnik poku\u0161a pogledati stranicu, a nema pristup?"
+        },
+        "e13c4cbb7f089450e12b10561001f9e1": {
+            "text": "Ako korisnik poku\u0161a pristupiti stranici pomo\u0107u ovog predlo\u0161ka, \u200b\u200ba nema pristup stranici, \u0161to treba u\u010diniti?"
+        },
+        "998806f5cd0395d2ea2c406b57463397": {
+            "text": "Prika\u017ei stranicu 404"
+        },
+        "1adb25e12d2b0d06683c3dc04e833631": {
+            "text": "Prika\u017ei stranicu za prijavu: %s"
+        },
+        "491b2e7db94dabf054ee83c101755e87": {
+            "text": "Preusmjerite na drugi URL ili generirajte stranicu prema ID-u"
+        },
+        "9f461848426762d3cf5e46a83b9f2657": {
+            "text": "URL za preusmjeravanje prijave ili ID stranice za prikaz"
+        },
+        "ba5068f94547142a71a790f6dedc9a77": {
+            "text": "Unesite URL na koji \u017eelite preusmjeriti ILI ID stranice koju \u017eelite prikazati kada korisnik nema pristup."
+        },
+        "9f0e0bbab28d57fef318155ea51c6d68": {
+            "text": "Ako navedete ID stranice, imajte na umu da \u0107e rezultiraju\u0107a stranica biti prikazana za korisnika bez obzira ima li dopu\u0161tenje za gledanje ili ne."
+        },
+        "1fa93855c234c32d0a9451ce1ef4fa6c": {
+            "text": "Ovo je korisno u slu\u010dajevima kada je va\u0161a stranica za prijavu sama po sebi za\u0161ti\u0107ena."
+        },
+        "793e0cc1771feadd7a91c0031e7ad663": {
+            "text": "Ova postavka je primjenjiva samo ako ste odabrali opciju \"C\" u gornjem polju."
+        },
+        "2f2055affca16d8404e278fc1d6c3a07": {
+            "text": "Izborno: u svoj URL mo\u017eete uklju\u010diti oznaku '{id}' (mo\u017eda kao GET varijablu), a ona \u0107e biti zamijenjena ID brojem tra\u017eene stranice, ako to \u017eelite."
+        },
+        "77b116ba76d6cad7420de0729f5437cb": {
+            "text": "Trebaju li stranice biti pretra\u017eive kada korisnik nema pristup?"
+        },
+        "6ceb6814781363fa5e58fc38fe5910a1": {
+            "text": "Kad korisnik nema pristup stranici pomo\u0107u ovog predlo\u0161ka, \u200b\u200b\u0161to bi se trebalo dogoditi u pretra\u017eivanjima i popisima stranica?"
+        },
+        "9afb9f536d5471f188308f8e160a555c": {
+            "text": "Da - Stranice se mogu pojaviti u pretra\u017eivanjima\/popisima \u010dak i ako korisnik nema pristup da ih vidi"
+        },
+        "ac32650de5a87d0e83f088edcefbc9a8": {
+            "text": "Ne - Stranice se NE mogu pojaviti u pretra\u017eivanjima\/popisima osim ako korisnik nema pristup da ih vidi"
+        },
+        "724da4546b6908025f8a9fa99885297f": {
+            "text": "API Napomena: Ova postavka utje\u010de na rezultate koje vra\u0107aju $pages->find(), $page->children() i druge funkcije koje vra\u0107aju PageArrays."
+        },
+        "ba9f2559a3fd0e360488de130ff7ab73": {
+            "text": "Dopustiti pristup vezan uz ure\u0111ivanje za naslje\u0111ivanje djeci?"
+        },
+        "ef4a1860dd8847a43619b6ca5f26e638": {
+            "text": "Prema zadanim postavkama, sve postavke pristupa na ovom predlo\u0161ku naslje\u0111uju se kroz stablo stranice sve dok ga stranica koja koristi drugi predlo\u017eak s kontroliranim pristupom ne poni\u0161ti."
+        },
+        "6aee0c8c870a84f930c97c2eb1427c8d": {
+            "text": "Ovdje odaberite opciju \"Ne\" ako \u017eelite sprije\u010diti da pristup povezan s ure\u0111ivanjem bude naslije\u0111en izvan stranica koje koriste ovaj predlo\u017eak. Pristup pregledu nastavit \u0107e se naslje\u0111ivati \u200b\u200bu svakom slu\u010daju."
+        },
+        "2678dd0fb63b2adfb38fe14f66d6c6b5": {
+            "text": "Dopustite pristupu povezanom s ure\u0111ivanjem da naslijedi djecu koja nemaju kontrolu pristupa"
+        },
+        "1dee747820c27fbdc81384045a54c8c3": {
+            "text": "Ograni\u010dite pristup vezan uz ure\u0111ivanje stranicama samo pomo\u0107u ovog predlo\u0161ka"
+        },
+        "cd0cf5a5ee30d30f0261238f5875a33b": {
+            "text": "Sprije\u010diti izravan pristup imovini datoteka u vlasni\u0161tvu stranica koje koriste ovaj predlo\u017eak?"
+        },
+        "e29fbd4b3ab93bd36ba02701195f7267": {
+            "text": "Kada je izravan pristup datoteci u [u]\/site\/assets\/files\/[\/u] blokiran, ProcessWire mo\u017ee upravljati isporukom datoteke, umjesto Apachea."
+        },
+        "f0e7c1fdf80a62ce6751727bdba68f47": {
+            "text": "Ovo omogu\u0107uje kontrolu pristupa datoteci na isti na\u010din kao i stranici koja je posjeduje, dok jo\u0161 uvijek koristite izvorni URL datoteke."
+        },
+        "cb3c9250730efdee741ff650f807d56a": {
+            "text": "Imajte na umu da je potrebno vi\u0161e vremena za isporuku datoteke na ovaj na\u010din, stoga odaberite opciju \"Da uvijek\" samo ako vam je potrebna."
+        },
+        "09af5db524e775b4a1f701ef67479387": {
+            "text": "Uvijek provjerite radi li kontrola pristupa kako o\u010dekujete poku\u0161avaju\u0107i pristupiti za\u0161ti\u0107enim datotekama u va\u0161em pregledniku."
+        },
+        "825eaff6cfdbcc09fd32758d056e4742": {
+            "text": "U\u010dinite to kada o\u010dekujete da imate pristup (prijavljeni) i kada nemate (odjavljeni)."
+        },
+        "eae07a5d655bbc5b0b66030482669d7b": {
+            "text": "(umjesto toga koristi konfiguraciju na cijelom web-mjestu)"
+        },
+        "60b7601149e4f71061b2518b1fb1369f": {
+            "text": "Da kada stranica nije objavljena, u sme\u0107u ili nije javno dostupna"
+        },
+        "d761f031894f4f6b20d02ac34d62daa7": {
+            "text": "Da uvijek, bez obzira na status stranice ili kontrolu pristupa"
+        },
+        "e91c9dce55b792f0254aeb69ba314f17": {
+            "text": "Koje uloge mogu pristupiti stranicama koje koriste ovaj predlo\u017eak (i \u200b\u200bone koje ga naslje\u0111uju)?"
+        },
+        "8b961334d86b2e4afdb29a825b7537f5": {
+            "text": "Napomena: opcije ure\u0111ivanja\/stvaranja\/dodavanja onemogu\u0107ene su za uloge koje trenutno nemaju dozvolu za ure\u0111ivanje stranice."
+        },
+        "13944cf77acdf1b9e49f6383c101ae89": {
+            "text": "(svi)"
+        },
+        "34aeb942ccc5860ae5af2885bf346a5d": {
+            "text": "Dodatna dopu\u0161tenja za ure\u0111ivanje i nadja\u010davanja"
+        },
+        "5cd4a0ea4859ae8a1371ded392cfff3b": {
+            "text": "Po \u017eelji dodajte ili opozovite dozvole dodijeljene svakoj ulozi kada se to zatra\u017ei za stranicu koja koristi ovaj predlo\u017eak (ili naslje\u0111uje pristup od njega)."
+        },
+        "f0ec91a2ccc29fee4de702e940b186a8": {
+            "text": "Ovdje dostupne opcije odre\u0111ene su va\u0161im odabirom za \"Ure\u0111ivanje stranica\" iznad. Kao rezultat toga, trebali biste spremiti ovaj predlo\u017eak i vratiti se ovdje nakon \u0161to izvr\u0161ite promjene u ulogama s gore navedenim pristupom \"Ure\u0111ivanje stranica\"."
+        },
+        "b50d7f1673d8d8694f84094c093718df": {
+            "text": "Opcije su prikazane u obliku \"uloga: dopu\u0161tenje\". Za opis onoga \u0161to svaka dozvola radi, pogledajte [referenca dozvola](%s)."
+        },
+        "a1066ecb03f6d2dfa02c658ba45dc08a": {
+            "text": "Dodajte dopu\u0161tenja prema ulozi"
+        },
+        "3d7582ad0b178e43f075e25248efdc12": {
+            "text": "Opozovi dopu\u0161tenja prema ulozi"
+        },
+        "211addf77f182a8c4e3b0911eb82e05f": {
+            "text": "Izbrisan predlo\u017eak"
+        },
+        "f048d404737b6fafd4849b8cd850e983": {
+            "text": "Upozorenje, datoteka ne postoji"
+        },
+        "e2cbec4ffca6b29170e0a79d38d2b6dd": {
+            "text": "Presko\u010deno preimenovanje predlo\u0161ka - dovr\u0161ite to nakon trenutne radnje."
+        },
+        "ce79a399cbe0a2128106c428d5f5227c": {
+            "text": "Spremljeni predlo\u017eak: %s"
+        },
+        "0ce8e11f27f5cff906b08ff533da5567": {
+            "text": "Stvoren je klon predlo\u0161ka \"%1$s\" pod nazivom \"%2$s\"."
+        },
+        "dbb2a9bf7f53894204e7b75a4a323fa2": {
+            "text": "Pogre\u0161ka pri stvaranju klona ovog predlo\u0161ka"
+        },
+        "1ac66e7a4aef92762b695f5d268e693e": {
+            "text": "Promijenjen je naziv %d putanja datoteke stranice za promjenu u opciju sigurnih datoteka"
+        },
+        "06ac19612d34194fee5bcab738cefe62": {
+            "text": "Va\u0161a promjena opcije sigurnih datoteka primijenit \u0107e se kada se pristupi poljima datoteke\/slike na svakoj od %d pogo\u0111enih stranica."
+        },
+        "b2c26a5234b7fb3fa549883f7c211bd3": {
+            "text": "Imajte na umu da ovo mo\u017ee potrajati neko vrijeme. Da biste sada primijenili na sve, izvr\u0161ite sljede\u0107i API kod iz datoteke predlo\u0161ka:"
+        },
+        "a9b81f1f8d87e20c79d70ad42cc924e3": {
+            "text": "Duplicirana polja od \"%1$s\" do \"%2$s\""
+        },
+        "a2b2765c9702ca543cd769b157062377": {
+            "text": "Polje \"%s\" ne mo\u017ee se ukloniti jer ga globalno zahtijevaju sve grupe polja"
+        },
+        "363b220544077dba6890921e123486dc": {
+            "text": "Gre\u0161ka s postavljanjem skupa polja\/kartice \"%s\" - molimo popravite i spremite ponovno"
+        },
+        "6e82edd479b2b5c07f250031d13a9b92": {
+            "text": "Spremljena grupa polja: %s"
+        },
+        "fddc330c21a2e3fa08c9af7307dd2046": {
+            "text": "Polja koja \u0107e biti izbrisana"
+        },
+        "c69da3a709ad376098eb517be436a12b": {
+            "text": "Zatra\u017eili ste promjenu grupe polja iz \"%1$s\" u \"%2$s\"."
+        },
+        "0cd878f5f6c3ecd2d309d74c608cf0e3": {
+            "text": "Sljede\u0107a polja bit \u0107e trajno izbrisana na stranicama koje koriste ovaj predlo\u017eak:"
+        },
+        "794ed990b58e042f53c8e1b0f9c48b77": {
+            "text": "Potvrdite da razumijete gore navedeno i da \u017eelite promijeniti grupu polja tako da potvrdite okvir i podnesete ovaj obrazac."
+        },
+        "1a1e5b08d1538484177a49ce2168b297": {
+            "text": "Potvrdite da \u017eelite promijeniti grupu polja iz \"%1$s\" u \"%2$s\""
+        },
+        "95faabcca5ce9361cfbbfdac564540a6": {
+            "text": "Promjena grupe polja za predlo\u017eak: %s"
+        },
+        "48a72eabb7f3f13f0d942bb2cdfe9811": {
+            "text": "Promjena grupe polja je prekinuta"
+        },
+        "62596dd3b1918d492b97f5945dc8aea8": {
+            "text": "Grupa polja predlo\u0161ka je promijenjena u: %s"
+        },
+        "b58b1fada0411080ca80b5199d2e56ce": {
+            "text": "Ukloni polja iz predlo\u0161ka: %s"
+        },
+        "b82a3ccab15c9f7ea79ccae4fb4b7c3a": {
+            "text": "Uklonite polja iz predlo\u0161ka"
+        },
+        "297401f75a53c46e41a44c9d91738f1e": {
+            "text": "Zatra\u017eili ste uklanjanje jednog ili vi\u0161e polja iz predlo\u0161ka. To \u0107e rezultirati trajnim brisanjem podataka povezanih s donjim poljima. Ako polja koja su uklonjena sadr\u017ee puno podataka, mo\u017ee pro\u0107i neko vrijeme dok se ova operacija ne zavr\u0161i nakon \u0161to potvrdite i po\u0161aljete ovaj obrazac. Potvrdite da ovo razumijete i da \u017eelite izbrisati polje(a) tako \u0161to \u0107ete potvrditi okvire ispod."
+        },
+        "b9b9ac08c6bde335d1b5758d4dfcd1da": {
+            "text": "Ukloni polje \"%1$s\" iz predlo\u0161ka \"%2$s\""
+        },
+        "3617ad2fed81de1357bb35b0459bf8b8": {
+            "text": "Ovaj se predlo\u017eak ne mo\u017ee preimenovati jer je predlo\u017eak sustava"
+        },
+        "7b2365f3c03bbf66c17531b39af975f9": {
+            "text": "Predlo\u017eak \"%1$s\" preimenovan u \"%2$s\""
+        },
+        "348267a4dada558acc9b2cd1b68ad41e": {
+            "text": "Preimenovana datoteka predlo\u0161ka \"%1$s\" u \"%2$s\""
+        },
+        "ea24ff7efc7e185e1c6f8d52266fefdc": {
+            "text": "Nije mogu\u0107e preimenovati \"%1$s\" u \"%2$s\" u direktoriju \"%3$s\". Datoteku morate ru\u010dno preimenovati u svom datote\u010dnom sustavu."
+        },
+        "cbb29209ccd6a869e389572e793b1f1b": {
+            "text": "Datoteka predlo\u0161ka \"%1$s\" nije prona\u0111ena u direktoriju \"%2$s\". Datoteku \"%3$s\" morate ru\u010dno preimenovati u \"%1$s\" u svom datote\u010dnom sustavu."
+        },
+        "d40a1614c5e9e10db2d5d9f94a0482bb": {
+            "text": "Preimenuj predlo\u017eak \"%1$s\" u \"%2$s\""
+        },
+        "f7c1d3ba270aa43fe36e00ee3a1e9718": {
+            "text": "Potvrdite da \u017eelite preimenovati ovaj predlo\u017eak ozna\u010davanjem okvira ispod."
+        },
+        "82ae9be0c318ed67592703448c77d4d6": {
+            "text": "\u010cini se da je u datoteku predlo\u0161ka \"%s\" mogu\u0107e pisati pa \u0107emo je poku\u0161ati preimenovati kada kliknete Po\u0161alji."
+        },
+        "df3f89873c6527f24453345a6b7f263f": {
+            "text": "U datoteku predlo\u0161ka \"%1$s\" nije mogu\u0107e pisati. Preimenujte tu datoteku u \"%2$s\" prije nego \u0161to kliknete Po\u0161alji."
+        },
+        "29a2d50c9d90354a16943888d8e700da": {
+            "text": "Uklonjeno polje \"%1$s\" iz predlo\u0161ka\/grupe polja \"%2$s\""
+        },
+        "da49c8bb3f9748634bedc77fac9221f9": {
+            "text": "Dodano polje \"%1$s\" u predlo\u017eak\/grupu polja \"%2$s\""
+        },
+        "f9757067733747aed406043e5915f1d7": {
+            "text": "Naziv oznake"
+        },
+        "8b3a3179c770d5cda3e5d38d7eb45ca2": {
+            "text": "Odaberite sve predlo\u0161ke koji bi trebali imati ovu oznaku"
+        },
+        "cb1828d1114a1e3b73c8ffd78723339c": {
+            "text": "Prika\u017ei kao sa\u017eeto na popisu predlo\u017eaka?"
+        },
+        "cdffd81250dc6c457665e79016900133": {
+            "text": "Da biste izbrisali ovu oznaku, uklonite sve predlo\u0161ke iz nje."
+        },
+        "8958860efca6192ab40af3a1f2e17d48": {
+            "text": "Dodana je oznaka \u201c%1$s\u201d predlo\u0161ku: %2$s"
+        },
+        "7a53b43fab8ccbe670792e7832ef2588": {
+            "text": "Uklonjena oznaka \u201c%1$s\u201d iz predlo\u0161ka: %2$s"
+        },
+        "b8bda8719893c4a385d4025c60c78ec2": {
+            "text": "Oznake vam omogu\u0107uju stvaranje zbirki predlo\u017eaka za popis."
+        },
+        "9fc8691fab39cc1433cd39430edb0501": {
+            "text": "Dodajte novu oznaku"
+        },
+        "91f0d9531bc0864da763086363af90e5": {
+            "text": "Mo\u017eete koristiti slova, znamenke, crtice, podvlake."
+        },
+        "31a0330754505f0778be18e7b4dbc661": {
+            "text": "Navedite i uredite predlo\u0161ke koji kontroliraju izlaz stranice"
+        },
+        "b16492fba46029659b0d16ce05bab82f": {
+            "text": "Dodaj novi predlo\u017eak"
+        },
+        "6855bfdf44496210543dabeb8f88a1c0": {
+            "text": "Sistem"
+        },
+        "e08a48beb01151e3dbd6c4b01d14d641": {
+            "text": "Prika\u017ei sve"
+        },
+        "2da33125162e59b2ff307fb050040ead": {
+            "text": "Ime"
+        },
+        "0934f0c8ef59c46cd3f23477dc242642": {
+            "text": "Oznaka"
+        },
+        "6468942ecc94c202802ee17efdbda184": {
+            "text": "Polja"
+        },
+        "adc3250d7ccf9a0303cc0b44d70917d6": {
+            "text": "Stranice"
+        },
+        "9aa8f6fc386e155886938a352548a81c": {
+            "text": "Izmijenjeno"
+        },
+        "ce74097d91e1181f033e39e38736dd5a": {
+            "text": "predmemorija"
+        },
+        "0630333bf0b09b371182fe756dec526a": {
+            "text": "URL segmenti"
+        },
+        "289abb71620e21f484c91df47d263eec": {
+            "text": "Brojevi stranica"
+        },
+        "a90b5efafea041e94da7fffd2bd530a3": {
+            "text": "Osnove"
+        },
+        "799ef6a367b3b36deb5be25ef8e7c91a": {
+            "text": "Pristup"
+        },
+        "0daea515bb26aec31f4e6ebbee953cd7": {
+            "text": "Obitelj"
+        },
+        "323686db2bb70f95c6bedc86d5c3387d": {
+            "text": "Datoteke"
+        },
+        "ff2e33d2066471fd192bf41c39322cd1": {
+            "text": "Predmemorija"
+        },
+        "3be3efa6643b5a3f2af79ace0a5145c4": {
+            "text": "Napredno"
+        },
+        "08b4ed72628b718cbe3158eb2eaf10a2": {
+            "text": "Sistem"
+        },
+        "a698a809093ad1c25ea277ff03ae5fc7": {
+            "text": "Akcije"
+        },
+        "d5778a8b84efb3233d070016adb93326": {
+            "text": "Snimi"
+        },
+        "2a138a3c1a54958a39f65b80e666b643": {
+            "text": "Oznaka"
+        },
+        "03a481d8869ea4aa815e15943c4577dd": {
+            "text": "Grupa polja"
+        },
+        "2bcb87bddf14231177c0d5a7be879871": {
+            "text": "Polja"
+        },
+        "c900d3e459e4a6e87b601d950c86a3bb": {
+            "text": "Polja"
+        },
+        "3542eba15a5738faa3ec20dac5e8c2b1": {
+            "text": "Vrijeme predmemorije"
+        },
+        "3050063a3917b13308a0470879b3259f": {
+            "text": "Oznaka za karticu Sadr\u017eaj"
+        },
+        "7b5a26bd066cf9716b38372f73408f10": {
+            "text": "Kartica Oznaka za djecu"
+        },
+        "13138fdee141d39a065f3fe82c0e0676": {
+            "text": "Oznaka za svojstvo Naziv stranice"
+        },
+        "afd2f2d22bac5fd1faf1abf753685366": {
+            "text": "Uloga"
+        },
+        "30a75d09489b9f6a393c3885b81ec0b1": {
+            "text": "Pregledajte stranice"
+        },
+        "a42aa7fb5a74afbdcaf92c44bd99bd3c": {
+            "text": "Uredi stranice"
+        },
+        "e431e1335b3c843758bbed8b021eeee9": {
+            "text": "Stvori stranicu"
+        },
+        "46c22ba22392809d478c6f312de87f62": {
+            "text": "Dodaj djecu"
+        },
+        "a7e26a26319b0fc9973181a9d9c1baaa": {
+            "text": "Nastavi"
+        },
+        "af497bbd8d42241e09e0f593a8550aa3": {
+            "text": "Ukloni polja"
+        },
+        "860024d803b29185e2cb90399cc73599": {
+            "text": "Ovaj predlo\u017eak koristi %d stranica"
+        },
+        "d26c2f7eb253b0202c2769f3dd232d96": {
+            "text": "Ovaj predlo\u017eak koristi %d stranica"
+        },
+        "e37f4fc0441c524ee5a89453f12178c8": {
+            "text": "Dodaj predlo\u017eak"
+        },
+        "0f12f2b440ad104a1ee7cb027aba8b18": {
+            "text": "Dodaj predlo\u0161ke"
+        },
+        "9fa7e7b76dafb5ffcb0b9bfbba9a65fd": {
+            "text": "%d stranica"
+        },
+        "207ab96f9895f87f78f6c6162f323a4f": {
+            "text": "%d stranice"
+        },
+        "14bcc27345b2325a5e492384a734c1aa": {
+            "text": "Predlo\u017eak koristi 1 stranica"
+        },
+        "957ba77c721f931f1ad38ed47b98fd0d": {
+            "text": "Predlo\u017eak koristi %d stranica"
+        },
+        "482957b0d6d5c5d4c8de3dd316750d04": {
+            "text": "Grupu polja ovog predlo\u0161ka koristi 1 drugi predlo\u017eak"
+        },
+        "19403f055f2e2c7f03b5dab680880b3d": {
+            "text": "Grupu polja ovog predlo\u0161ka koristi %d drugih predlo\u017eaka"
+        },
+        "8ce07bc265e6bec0335b8d17460ff715": {
+            "text": "%d polje"
+        },
+        "f31f5e50313e32f1b8a1d38913e26023": {
+            "text": "%d polja"
+        }
+    }
 }

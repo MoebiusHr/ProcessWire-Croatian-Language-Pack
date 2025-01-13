@@ -1,0 +1,126 @@
+{
+    "file": "wire\/modules\/System\/SystemNotifications\/SystemNotificationsConfig.php",
+    "textdomain": "wire--modules--system--systemnotifications--systemnotificationsconfig-php",
+    "translations": {
+        "945d5e233cf7d6240f6b783b36a374ff": {
+            "text": "Lijevo"
+        },
+        "92b09c7c48c520c3c55e497875da437c": {
+            "text": "Desno"
+        },
+        "64930416d9c5663de5d4ef880d8e0b0e": {
+            "text": "Status obavijesti"
+        },
+        "2e9cdb9adc7f7c13f750d7fe7ab46979": {
+            "text": "Kada je isklju\u010deno, obavijesti se ne\u0107e prikazati."
+        },
+        "1983cbef846882d5eb60db0f1af3cf4a": {
+            "text": "Prati ure\u0111ivanja stranica?"
+        },
+        "6f089aa14345991d2dc5234b61b2841c": {
+            "text": "Obavje\u0161tava korisnike kada poku\u0161aju urediti stranicu koja se ve\u0107 ure\u0111uje."
+        },
+        "51bcb0deba18f3c17526ac9589275a1b": {
+            "text": "Redoslijed obavijesti"
+        },
+        "452fe939bf3b82240e39d4e32402f191": {
+            "text": "Odaberite redoslijed prikazivanja obavijesti."
+        },
+        "dbc0773df87763dba658c0718cb23cbd": {
+            "text": "Najnovije prema najstarijem"
+        },
+        "795c06257e98282a98f9b4372343154c": {
+            "text": "Najstarije prema najnovijem"
+        },
+        "2871a976bc7a1ed674bc578c34af81ee": {
+            "text": "Aktivne automatske kuke (\"hooks\") za obavijesti"
+        },
+        "b106396b3992fc580dd88f36d98c32b5": {
+            "text": "Kad god se dogodi jedan od ovih doga\u0111aja, gornji korisnik sustava bit \u0107e obavije\u0161ten."
+        },
+        "53af239ee5d3e261545dededcb6ffd57": {
+            "text": "404 stranica nije prona\u0111ena"
+        },
+        "926febaa3f486221378c09d2fb900eff": {
+            "text": "Uspjeh i neuspjeh prijave korisnika"
+        },
+        "6d204ddabcf344603448790344217ec5": {
+            "text": "Odjava korisnika"
+        },
+        "1bb51316162ffaecdae67003acc36d00": {
+            "text": "Ovo su prvenstveno samo primjeri obavijesti u svrhu demonstracije."
+        },
+        "d9b71f69d8afdf5b522a5529ec7434f5": {
+            "text": "Ime korisnika koji prima obavijesti sustava"
+        },
+        "2495a34a1379d1325ca518e3c0b2b098": {
+            "text": "Vrijeme izme\u0111u a\u017euriranja"
+        },
+        "d4f7e0a594dd8d1eb92264b3d43c507d": {
+            "text": "Koliko \u010desto provjeravati a\u017euriranja obavijesti (u milisekundama). Primjer: 5000 zna\u010di 5 sekundi."
+        },
+        "534fd46732986cba0efeda8701592427": {
+            "text": "Format datuma"
+        },
+        "414f2eb480e8f38b6f93f41ca28279fb": {
+            "text": "Format datuma koji se koristi za obavijesti. Koristite format date() ili strftime(), ili \"relative\" za relativni datum\/vrijeme, \"rel\" za skra\u0107eni datum\/vrijeme."
+        },
+        "64a87d656e89eca4f73f4ecda74480f5": {
+            "text": "Ikona poruke"
+        },
+        "b454aae1916829fd90512b2c31a01e68": {
+            "text": "Ikona upozorenja"
+        },
+        "c59e636f1291af56f91d53c3a51ac8f8": {
+            "text": "Ikona gre\u0161ke"
+        },
+        "b386baeabf452105b52ddd8a8dbebf1c": {
+            "text": "\"Ghost delay\""
+        },
+        "fa3ed13e0d1d3606900f0d0fcb96b94e": {
+            "text": "Koliko dugo se pojavljuju \"ghost delay\" poruke (u ms)."
+        },
+        "0673410c6de314e9317a7f593f6a99b6": {
+            "text": "Koliko dugo se pojavljuju \"ghost delay\" poruke (u ms)."
+        },
+        "cc7148e90f03a6539cd11c343d8fdf8a": {
+            "text": "\"Ghost delay\" poruke puna neprozirnost"
+        },
+        "4f8b65fe69b4b13c2a02bf47648c9a34": {
+            "text": "Potpuna neprozirnost \"Ghost delay\" poruka (0,1-1,0)"
+        },
+        "333da8687b16a586812b92b6acda8674": {
+            "text": "Limit"
+        },
+        "a2736075ee5bcaeaad4650b9a1bb7d43": {
+            "text": "Brzina blije\u0111enja"
+        },
+        "081b98759749efbb07052c62da920324": {
+            "text": "Trenuta\u010dno (bez zatamnjenja\/ispadanja)"
+        },
+        "e16b5b7f26f54214445cbe38d72c2828": {
+            "text": "Brzo"
+        },
+        "960b44c579bc2f6818d2daaf9e4c16f0": {
+            "text": "Normalno"
+        },
+        "efa5397985b8609a5dbeb430a4bcadd3": {
+            "text": "Sporo"
+        },
+        "4b3f62787ef2a663f5af7c2a25c0c617": {
+            "text": "Pozicija"
+        },
+        "22c3a11778dfb998611f45125023b39c": {
+            "text": "S koje strane ekrana poruke trebaju lebdjeti."
+        },
+        "d6e7bc4caa8b68af7f00ff457e4d3344": {
+            "text": "Obavijesti o vremenu izvo\u0111enja\/jednom zahtjevu"
+        },
+        "a2e68070d70d39ee23fe1edf9767c11c": {
+            "text": "Prika\u017ei kao obavijesti"
+        },
+        "9650b6be51970b497f28b3f079f7bf79": {
+            "text": "Ostavite ih na miru"
+        }
+    }
+}

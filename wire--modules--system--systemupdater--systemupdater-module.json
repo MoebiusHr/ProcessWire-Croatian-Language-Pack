@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/System\/SystemUpdater\/SystemUpdater.module",
+    "textdomain": "wire--modules--system--systemupdater--systemupdater-module",
+    "translations": {
+        "d7e351389cfa8187fc844808c5d524e7": {
+            "text": "Otkrivena promjena osnovne verzije %1$s => %2$s"
+        },
+        "75a1550235c0efb5d9dedd5f02f1fe86": {
+            "text": "Izbrisana je predmemorija kompajlera datoteka"
+        },
+        "2bb01c9e5f493e464bae4f127ac24891": {
+            "text": "Dnevnik a\u017euriranja sustava"
+        },
+        "83d345108e3c4ebe46ec3d2de0b7e463": {
+            "text": "Verzija sustava"
+        },
+        "e3087085dad248ad622f15449dc45832": {
+            "text": "To vam omogu\u0107uje ponovnu primjenu a\u017euriranja verzije sustava smanjenjem broja verzije."
+        },
+        "131f946cc232ed294bb1051fdb295d02": {
+            "text": "Program za a\u017euriranje sustava"
+        },
+        "68b7f791d338e65dd897b4316c51a568": {
+            "text": "Upravlja verzijama sustava i nadogradnjama."
+        }
+    }
+}

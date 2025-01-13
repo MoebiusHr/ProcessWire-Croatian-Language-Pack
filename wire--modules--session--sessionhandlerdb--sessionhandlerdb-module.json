@@ -1,0 +1,39 @@
+{
+    "file": "wire\/modules\/Session\/SessionHandlerDB\/SessionHandlerDB.module",
+    "textdomain": "wire--modules--session--sessionhandlerdb--sessionhandlerdb-module",
+    "translations": {
+        "6514b2122a2e569491dccb69eebe383c": {
+            "text": "Ozna\u010davanjem ovog okvira omogu\u0107it \u0107ete prikaz podataka na popisu administratorskih sesija."
+        },
+        "262f42ad28e2d01d7dc5afa698716099": {
+            "text": "Prati IP adrese u podacima o sesiji?"
+        },
+        "ab5b4b2116f61fda9325e6deb591bb8f": {
+            "text": "Prati user agent-a u podacima sesije?"
+        },
+        "703fdc8134134754f6630df73ee50572": {
+            "text": "User agent obi\u010dno sadr\u017ei informacije o pregledniku koji se koristi."
+        },
+        "ba361c497e1c5943748b4df7933d353f": {
+            "text": "Onemogu\u0107iti paralelne sesije?"
+        },
+        "34fde9e07a3a1cae09017ec0a9ae2c31": {
+            "text": "Kada je omogu\u0107eno, uspje\u0161na prijava istje\u010de svim drugim sesijama tog korisnika na drugim ure\u0111ajima\/preglednicima."
+        },
+        "d95cdb1f2c4fd9c3c22f548068589fa3": {
+            "text": "Ozna\u010davanjem ovog okvira dopustiti \u0107e se samo jedna sesija za prijavljenog korisnika u isto vrijeme."
+        },
+        "38c612b0c7404dbf10629354dfc1ec43": {
+            "text": "Istek zaklju\u010davanja sesije (sekunde)"
+        },
+        "b0736da4c0683db9382ba750a5f0073b": {
+            "text": "Ako se zaklju\u010davanje baze podataka za sesiju ne mo\u017ee dobiti za ovoliko sekundi, bit \u0107e poslana pogre\u0161ka \"%s\", govore\u0107i klijentu da ponovno poku\u0161a za %d sekundi."
+        },
+        "c1ab83af87ac0bb0dab8511d14260c73": {
+            "text": "429: Previ\u0161e zahtjeva"
+        },
+        "8883240d9c18322fd43dfd39c8b32e14": {
+            "text": "Prethodna sesija prijave za \u201c%s\u201d je uklonjena\/odjavljena."
+        }
+    }
+}

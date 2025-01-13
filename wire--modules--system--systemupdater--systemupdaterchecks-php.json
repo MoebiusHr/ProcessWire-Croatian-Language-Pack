@@ -1,0 +1,87 @@
+{
+    "file": "wire\/modules\/System\/SystemUpdater\/SystemUpdaterChecks.php",
+    "textdomain": "wire--modules--system--systemupdater--systemupdaterchecks-php",
+    "translations": {
+        "b39229143b1147a73a48df31c1231d8c": {
+            "text": "Otkriveno je vi\u0161e problema, pregledajte:"
+        },
+        "cea2995cd3259dca15a20b501b1e458b": {
+            "text": "Imajte na umu da va\u0161a korijenska datoteka %s nije a\u017eurna s ovom verzijom ProcessWirea, a\u017eurirajte je kada je to mogu\u0107e."
+        },
+        "18dd427864e5d5894d6427b120729661": {
+            "text": "Da biste potisnuli ovo upozorenje, zamijenite ili dodajte sljede\u0107e na vrhu postoje\u0107e .htaccess datoteke:"
+        },
+        "3ce93c026eb9e6490b97440cb30648ac": {
+            "text": "Dobrodo\u0161li u ProcessWire!"
+        },
+        "b5e8bf8e4ff52c6a5284ed10f7951738": {
+            "text": "Ako se ova instalacija trenutno koristi za razvoj ili testiranje, preporu\u010dujemo da omogu\u0107ite na\u010din otklanjanja pogre\u0161aka."
+        },
+        "ecd4a06df60ea2b6392432bbd11f1d76": {
+            "text": "Na\u010din otklanjanja pogre\u0161aka osigurava da su sve pogre\u0161ke vidljive, \u0161to mo\u017ee biti od pomo\u0107i tijekom razvoja ili rje\u0161avanja problema."
+        },
+        "917cf9b7a671b533087c8f7b0bf8d157": {
+            "text": "Tako\u0111er omogu\u0107uje da se dodatne informacije o razvojnom programeru pojave ovdje u administratoru."
+        },
+        "cb6a03bb5f07396e7eca71a86ad46e43": {
+            "text": "Mo\u017eete omogu\u0107iti na\u010din otklanjanja pogre\u0161aka ure\u0111ivanjem svoje %s datoteke i dodavanjem sljede\u0107eg:"
+        },
+        "f1d50e08fba3212773302367c8513449": {
+            "text": "Napomena: ova se obavijest vi\u0161e ne\u0107e prikazati. Ne zaboravite onemogu\u0107iti na\u010din otklanjanja pogre\u0161aka prije pokretanja u\u017eivo."
+        },
+        "233b54b5df8647fadbfb62e9c4def925": {
+            "text": "Sigurnosno upozorenje: datoteka '%s' postoji i treba je izbrisati \u0161to je prije mogu\u0107e."
+        },
+        "7ba9982e6cae459db14db8bad5ad68b9": {
+            "text": "Upozorenje, va\u0161a datoteka %s navodi dopu\u0161tenja za datoteke koja su previ\u0161e labava za mnoga okru\u017eenja:"
+        },
+        "748befe7a5d432caba8b6cadc4076e92": {
+            "text": "Pro\u010ditajte \"Osiguranje dopu\u0161tenja za datoteke\" za vi\u0161e pojedinosti"
+        },
+        "5ff81a1ae7c80f730595ed1100007665": {
+            "text": "Da biste potisnuli ovo upozorenje, dodajte sljede\u0107e u svoju datoteku %s:"
+        },
+        "359a712bdea64131ff4e83fbc7233af6": {
+            "text": "Upozorenje: imate polje pod nazivom \"objavljeno\" koje je u sukobu sa svojstvom stranice \"objavljeno\"."
+        },
+        "e51b9afa44f26fb147585eda2b708808": {
+            "text": "Preimenujte svoje polje polja u ne\u0161to drugo i a\u017eurirajte sve predlo\u0161ke koji ga upu\u0107uju."
+        },
+        "60d0f1128804dfd5fa013c3d02c67012": {
+            "text": "Va\u0161a trenutna postavka jezika je \u201c%s\u201d."
+        },
+        "9cdeee8e8a463c558dc372434cc5dbb1": {
+            "text": "Napomena: va\u0161a trenutna postavka jezika poslu\u017eitelja ne radi prema o\u010dekivanjima sa skupom znakova UTF-8 i mo\u017ee uzrokovati manje probleme."
+        },
+        "f8239d6a9013fae244731a805aa50b09": {
+            "text": "Molimo prevedite postavku jezika \"C\" za svaki jezik na kompatibilni jezik u %s"
+        },
+        "d5877d284caca4c9b4d55adb8e6e758c": {
+            "text": "Na primjer, postavka jezika za ameri\u010dki engleski mo\u017ee biti: %s"
+        },
+        "7ca79a1980d88028a56fcee7c711685e": {
+            "text": "Dodajte ovo svojoj datoteci %1$s (po potrebi prilagodite \u201c%2$s\u201d):"
+        },
+        "6ed94bc4b5b5d4c1bfd4c90792c39c68": {
+            "text": "Stranica je u na\u010dinu rada za otklanjanje pogre\u0161aka, prikladna za stranice u razvoju"
+        },
+        "1ffd655d9788eba2b285e4363eab7b51": {
+            "text": "Ako je ovo stranica u\u017eivo\/produkcija, trebali biste onemogu\u0107iti na\u010din otklanjanja pogre\u0161aka u %1$s s: %2$s"
+        },
+        "bac4951f14a17b95173f02192629e8b3": {
+            "text": "Va\u0161 PHP memory_limit trenutno je postavljen na %s."
+        },
+        "c57b443779cf3185492a1248dbead5a0": {
+            "text": "Preporu\u010dujemo pove\u0107anje na najmanje %s."
+        },
+        "cec93480f3d9c56dd41deb0dd62594bf": {
+            "text": "Kao mogu\u0107u optimizaciju izvedbe, razmislite o pove\u0107anju na najmanje %s."
+        },
+        "8f0362971b64ae326b6a57f21f9d5ce4": {
+            "text": "Potrebna verzija: %1$s, Prona\u0111ena verzija: %2$s."
+        },
+        "d331f06185da085f65656f31a7a8a795": {
+            "text": "Ne mogu locirati tra\u017eenu datoteku: %s"
+        }
+    }
+}

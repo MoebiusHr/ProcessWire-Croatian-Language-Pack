@@ -1,0 +1,27 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterSmartypants\/TextformatterSmartypants.module",
+    "textdomain": "wire--modules--textformatter--textformattersmartypants--textformattersmartypants-module",
+    "translations": {
+        "25311c7902557e01bc00f49ff049bcd5": {
+            "text": "Koristiti UTF-8 znakove za zamjene umjesto HTML entiteta?"
+        },
+        "0c5d2b49bcf5a803467880b04e70010d": {
+            "text": "Zadano pona\u0161anje za SmartyPants je dodavanje\/a\u017euriranje znakova pomo\u0107u HTML entiteta."
+        },
+        "1db1fb23d15114bebcd0b4c9451753ff": {
+            "text": "Ako primijetite probleme s dvostrukim kodiranjem, mo\u017eda biste trebali koristiti zamjenu UTF-8."
+        },
+        "34ba6fe92bd3442e28614da7804133f7": {
+            "text": "Ne (zadano)"
+        },
+        "438be7072bafe2bb92897edc240e45ae": {
+            "text": "Da (neki)"
+        },
+        "8265970592705983b3983796fe0bb408": {
+            "text": "Da (svi)"
+        },
+        "3dbbad2a19b63578a38458d5c9b08980": {
+            "text": "Imajte na umu da \u0107e opcija \"all\" uzrokovati dekodiranje sljede\u0107ih znakova (kada je entitet kodiran) \u010dak i ako ih nije umetnuo SmartyPants:"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterEntities.module",
+    "textdomain": "wire--modules--textformatter--textformatterentities-module",
+    "translations": {
+        "9bb1720cc990c910fd69b4b3690cfbce": {
+            "text": "Entitet kodira ampersande, navodnike (jednostruke i dvostruke) i znakove ve\u0107e\/manje koriste\u0107i htmlspecialchars(str, ENT_QUOTES). Preporu\u010da se da ovo koristite na svim poljima teksta\/textarea osim onih koji koriste ure\u0111iva\u010d oboga\u0107enog teksta ili ozna\u010dni jezik kao \u0161to je Markdown."
+        }
+    }
+}

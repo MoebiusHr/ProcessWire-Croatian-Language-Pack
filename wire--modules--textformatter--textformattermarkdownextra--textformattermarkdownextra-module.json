@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/Textformatter\/TextformatterMarkdownExtra\/TextformatterMarkdownExtra.module",
+    "textdomain": "wire--modules--textformatter--textformattermarkdownextra--textformattermarkdownextra-module",
+    "translations": {
+        "b4f85b935dcf717fdd8df0117de0cdee": {
+            "text": "Markdown izbor za kori\u0161tenje"
+        },
+        "077f8270bf59fe6ccd6e4991ff7ee37c": {
+            "text": "Siguran na\u010din rada?"
+        },
+        "089dca9f11d830e3dc229be0fef45547": {
+            "text": "Omogu\u0107ite ovo Markdownu da obra\u0111uje nepouzdani korisni\u010dki unos."
+        },
+        "3ec365dd533ddb7ef3d1c111186ce872": {
+            "text": "Detalji"
+        },
+        "6d232b51019138d0685ce7cd48803013": {
+            "text": "Unesite markdown i kliknite Po\u0161alji kako biste testirali rezultat sa svojim trenutnim postavkama."
+        }
+    }
+}
